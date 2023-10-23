@@ -46,7 +46,7 @@ jobs:
         with:
           username: ${{ secrets.ftp_username }}
           server: amplion.eu
-          port: 22
+          port: 21
           local_path: './dist/*'
           remote_path: "/amplion.eu/sub/dev/"
           sftp_only: false
