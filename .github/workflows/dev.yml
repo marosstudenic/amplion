@@ -30,4 +30,4 @@ jobs:
           server: amplion.eu
           username: ${{ secrets.ftp_username }}
           password: ${{ secrets.ftp_password }}
-          local-dir: /amplion.eu/sub/dev/
+          local-dir: /amplion.eu/sub/dev
