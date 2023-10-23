@@ -34,13 +34,25 @@ jobs:
 #          server-dir: /amplion.eu/sub/dev/
 #          port: 22
 
-      - name: deploy
-        uses: pressidium/lftp-mirror-action@v1
-        with:
-          host: amplion.eu
-          port: 22
-          user: ${{ secrets.ftp_username }}
-          pass: ${{ secrets.ftp_password }}
-          localDir: './dist'
-          remoteDir: '/amplion.eu/sub/dev/'
-          reverse: true
+#      - name: deploy
+#        uses: pressidium/lftp-mirror-action@v1
+#        with:
+#          host: amplion.eu
+#          port: 22
+#          user: ${{ secrets.ftp_username }}
+#          pass: ${{ secrets.ftp_password }}
+#          localDir: './dist'
+#          remoteDir: '/amplion.eu/sub/dev/'
+#          reverse: true
+
+      - name: FTP-Deploy-Action
+        uses: SamKirkland/FTP-Deploy-Action@2.0.0
+        env:
+          FTP_SERVER: amplion.eu
+          FTP_USERNAME: ${{ secrets.ftp_username }}
+          FTP_PASSWORD: ${{ secrets.ftp_password }}s
+          LOCAL_DIR: dist
+          REMOTE_DIR: /amplion.eu/sub/dev/
+          METHOD: sftp
+          PORT: 22
+          ARGS: --delete
