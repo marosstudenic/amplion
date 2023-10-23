@@ -34,9 +34,20 @@ jobs:
 #          server-dir: /amplion.eu/sub/dev/
 #          port: 21
 
-      - name: Upload to server
-        run: |
-          sshpass -p $PASSWORD scp -r ./dist/ ${{ secrets.ftp_username }}@amplion.eu:/amplion.eu/sub/dev/
-        env:
-          USERNAME: ${{ secrets.ftp_username }}
-          PASSWORD: ${{ secrets.ftp_password }}
+#      - name: Upload to server
+#        run: |
+#          sshpass -p $PASSWORD scp -r ./dist/ ${{ secrets.ftp_username }}@amplion.eu:/amplion.eu/sub/dev/
+#        env:
+#          USERNAME: ${{ secrets.ftp_username }}
+#          PASSWORD: ${{ secrets.ftp_password }}
+
+      - name: Deploy file
+        uses: wlixcc/SFTP-Deploy-Action@v1.2.4
+        with:
+          username: ${{ secrets.ftp_username }}
+          server: amplion.eu
+          port: 22
+          local_path: './dist/*'
+          remote_path: "/amplion.eu/sub/dev/"
+          sftp_only: true
+          password: ${{ secrets.ftp_password }}
