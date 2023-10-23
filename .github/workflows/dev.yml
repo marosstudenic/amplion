@@ -32,3 +32,4 @@ jobs:
           password: ${{ secrets.ftp_password }}
           local-dir: ./dist/
           server-dir: /amplion.eu/sub/dev/
+          protocol: sftp
