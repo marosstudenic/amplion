@@ -24,35 +24,12 @@ jobs:
       - name: Build
         run: npm run build
 
-#      - name: 📂 Sync files
-#        uses: SamKirkland/FTP-Deploy-Action@3.1.1
-#        with:
-#          ftp-server: amplion.eu
-#          ftp-username: ${{ secrets.ftp_username }}
-#          ftp-password: ${{ secrets.ftp_password }}
-#          local-dir: ./dist/
-#          server-dir: /amplion.eu/sub/dev/
-#          port: 22
-
-#      - name: deploy
-#        uses: pressidium/lftp-mirror-action@v1
-#        with:
-#          host: amplion.eu
-#          port: 22
-#          user: ${{ secrets.ftp_username }}
-#          pass: ${{ secrets.ftp_password }}
-#          localDir: './dist'
-#          remoteDir: '/amplion.eu/sub/dev/'
-#          reverse: true
-
-      - name: FTP-Deploy-Action
-        uses: SamKirkland/FTP-Deploy-Action@2.0.0
-        env:
-          FTP_SERVER: amplion.eu
-          FTP_USERNAME: ${{ secrets.ftp_username }}
-          FTP_PASSWORD: ${{ secrets.ftp_password }}s
-          LOCAL_DIR: dist
-          REMOTE_DIR: /amplion.eu/sub/dev/
-          METHOD: sftp
-          PORT: 22
-          ARGS: --delete
+      - name: 📂 Sync files
+        uses: SamKirkland/FTP-Deploy-Action@4.1.0
+        with:
+          server: amplion.eu
+          username: ${{ secrets.ftp_username }}
+          password: ${{ secrets.ftp_password }}
+          local-dir: ./dist/
+          server-dir: /amplion.eu/sub/dev/
+          port: 21
