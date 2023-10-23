@@ -49,5 +49,5 @@ jobs:
           port: 22
           local_path: './dist/*'
           remote_path: "/amplion.eu/sub/dev/"
-          sftp_only: true
+          sftp_only: false
           password: ${{ secrets.ftp_password }}
