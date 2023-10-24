@@ -37,7 +37,7 @@ jobs:
       - name: rsync deployments
         uses: burnett01/rsync-deployments@6.0.0
         with:
-          switches: -avzr --delete
+          switches: -vzru --delete --progress
           path: ./dist/
           remote_path: /amplion.eu/sub/dev/
           remote_host: amplion.eu
