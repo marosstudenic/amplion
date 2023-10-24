@@ -24,6 +24,18 @@ jobs:
       - name: Build
         run: npm run build
 
+      - name: Install sshpass
+        run: sudo apt-get install -y sshpass
+
+
+      - name: Deploy using rsync
+        run: |
+          echo "Deploying..."
+          sshpass -p "${{ secrets.ftp_password }}" rsync -vzru --delete --progress -e "ssh -o StrictHostKeyChecking=no" ./dist/ ${{ secrets.ftp_username }}@amplion.eu:/amplion.eu/sub/dev/
+        env:
+          DEPLOY_SERVER: amplion.eu
+          DEPLOY_USERNAME: ${{ secrets.ftp_username }}
+
 #      - name: 📂 Sync files
 #        uses: SamKirkland/FTP-Deploy-Action@4.1.0
 #        with:
@@ -34,12 +46,12 @@ jobs:
 #          server-dir: /amplion.eu/sub/dev/
 
 
-      - name: rsync deployments
-        uses: burnett01/rsync-deployments@6.0.0
-        with:
-          switches: -vzru --delete --progress
-          path: ./dist/
-          remote_path: /amplion.eu/sub/dev/
-          remote_host: amplion.eu
-          remote_user: ${{ secrets.ftp_username }}
-          remote_key: ${{ secrets.ftp_password }}
+#      - name: rsync deployments
+#        uses: burnett01/rsync-deployments@6.0.0
+#        with:
+#          switches: -vzru --delete --progress
+#          path: ./dist/
+#          remote_path: /amplion.eu/sub/dev/
+#          remote_host: amplion.eu
+#          remote_user: ${{ secrets.ftp_username }}
+#          remote_key: ${{ secrets.ftp_password }}
