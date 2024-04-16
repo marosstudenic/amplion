@@ -1,9 +1,9 @@
 show-tickets: false
-show-program: true
-show-program-en: true
+show-program: false
+show-program-en: false
 busking-menu: false
 sketchup-menu: false
-year: 2023
+year: 2024
 show-festivalove-noviny: false
 rocnik: 9
 busking-form-deadline: "30.&nbsp;júna&nbsp;2023"
