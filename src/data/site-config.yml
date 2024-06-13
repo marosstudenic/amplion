@@ -6,6 +6,8 @@ sketchup-menu: true
 year: 2024
 show-festivalove-noviny: false
 rocnik: 9
+slogan: "ZBLIŽOVAŤ JE UMENIE"
+slogan-en: "TO CONVERGE IS AN ART"
 
 # busking
 busking-form-deadline: "15.&nbsp;júla&nbsp;2024"
@@ -18,6 +20,7 @@ busking-festival-duration-en: "September&nbsp;20<sup>th</sup>&nbsp;&#8209;&nbsp;
 busking-form-link: https://docs.google.com/forms/d/e/1FAIpQLSeQC5Ie7vC48BcVBlEnLgZ-d3hvyOb20Z3Wm_HulM3E8eT6vA/viewform
 busking-form-link-en: https://docs.google.com/forms/d/e/1FAIpQLSdCWg8PfirmMYOv1EbUM6jEWCsCziHgj7lkWYaIIwA9pFk2kw/viewform
 
+# sketch-up
 sketch-up-last-sentence: "Šiesty ročník súťaže SKETCH UP je tematicky zameraný na tému ZBLIŽOVANIE."
 sketch-up-deadline: "15.&nbsp;7.&nbsp;2024"
 sketch-up-deadline-nominativ: "15.&nbsp;júl&nbsp;2024"
@@ -25,6 +28,8 @@ sketch-up-annoucment: "15.&nbsp;augusta&nbsp;2024"
 sketch-up-event-time: "21.&nbsp;9.&nbsp;2024&nbsp;o&nbsp;18:00&nbsp;hod."
 sketch-up-next-year: "Opcia&nbsp;na&nbsp;uvedenie celovečerného programu na&nbsp;10.&nbsp;ročníku Festivalu&nbsp;AMPLIÓN&nbsp;2025 pre&nbsp;víťaza"
 sketch-up-form-link: https://docs.google.com/forms/d/e/1FAIpQLSfyiD32Ar-W6nrgOLyg5Pvg8wGUIa4NqgsPwg_uXrX0YPVayw/viewform
+
+
 
 show-caravana: true
 show-busking-program: true
