@@ -1,99 +1,66 @@
-#  2023
--
+- 
   time: 16:00 – 16:30
   title: OTVORENIE FESTIVALU
   age: Family
-  perex: "Príďte otvoriť 8. ročník festivalu sloganom: <b>Byť citlivý je umenie!</b>"
-  location: Námestie sv.&nbsp;Trojice
+  perex: "Príďte otvoriť 9. ročník Festivalu AMPLIÓn heslom Zbližovať je umenie!\nHymna + promo: All in Circus (HU), Tygroo (CZ), Sabor-Life in Rhythm (ES)"
+  location: Námestie sv. Trojice
   price: 0
   slug: otvorenie-festivalu
 
--
-  time: 16:30 – 16:45
-  performer: Orkest de Tegenwind (NL)
+- 
+  time: 17:00 – 17:35
+  performer: All in Circus (HU)
   premiere: true
   age: Family
-  title: MARCHING BAND
-  perex: veľký pochodujúci brass band z Holandska
-  location: Námestie sv. Trojice 🠒 Starý&nbsp;zámok
-  price: BUSKING
-  slug: orkest-de-tegenwind-utrecht
+  title: ALL IN TWO – zábavný pouličný cirkus
+  perex: "Zábavný pouličný cirkus dvoch žonglérov, klaunov a akrobatov"
+  location: Záhrada Skautského domu, ul. A. Pécha
+  price: 4 / 7 €
+  slug: all-in-circus
 
--
-  time: 17:00 – 17:45
-  performer: ICEBREAKING&nbsp;(V4+UA)
+- 
+  time: 18:00 – 19:30
+  performer: Jana Močková, Denník N (SK)
   premiere: true
+  argentum: true
   age: 12+
-  title: HUMAN CARAVANA
-  perex: Premiéra pilotu sociálno-inkluzívneho divadla o zbližovaní
-  location: Starý zámok 🠒 Záhrada Skautského domu
-  price: 0
-  slug: human-caravana-premiere
-
--
-  time: 17:15 – 17:45
-  performer: Orkest de Tegenwind (NL)
-  premiere: true
-  age: Family
-  title: MARCHING BAND
-  perex: veľký pochodujúci brass band z Holandska
-  location: Pod Kostolom sv. Kataríny → Trotuár Cafe → Art Cafe
-  price: BUSKING
-  slug: orkest-de-tegenwind-utrecht
-
--
-  time: 18:00 – 18:45
-  performer: Orkest de Tegenwind (NL)
-  premiere: true
-  age: Family
-  title: KONCERT
-  perex: jedinečný street brass band z Holandska
-  location: Art Cafe, terasa
-  price: BUSKING
-  slug: orkest-de-tegenwind-utrecht
-
--
-  time: 19:00 – 20:15
-  performer: Monika Tódová, Denník N (SK)
-  age: 15+
-  argentum: true
-  title: AKO ZACHRÁNIŤ DEMOKRACIU
-  perex: "hostia: Marián Leško, Martin Šimečka, Matúš Kostolný<br/>Diskusia o aktuálnom vývoji našej krajiny s humorom aj bez."
-  location: Kultúrne centrum, hlavná&nbsp;sála
-  price: 10 €
-  slug: monika-todova-bratislava
-
--
-  time: 19:30 – 20:00
-  performer: MiraMundo (ES)
-  argentum: true
-  premiere: true
-  age: 15+
-  title: PROMO
-  perex: "energická kapela z Barcelony hrá jedinečnú world music"
-  location: Trotuár Cafe
-  price: BUSKING
-  slug: miramundo-barcelona
-
--
-  time: 21:00 – 22:15
-  performer: Ansámbel nepravidelného divadla (SK)
-  age: 15+
-  title: BOHOROVNÍ – bar kabaret noir
-  perex: "Silné príbehy, podmanivá hudba a tanec v štýlovej spoločnosti."
-  location: Hotel Grand Matej
-  price: V predpredaji 10 €, na mieste 12 €
-  slug: ansambel-nepravidelneho-divadla
-
--
-  time: 22:30 – 24:00
-  performer: "Krvik Totr &amp; kapela Filtr (CZ)"
-  premiere: true
-  argentum: true
-  age: 15+
-  title: Z VYTRACENA 5 (Ema bude sklamaná)
-  perex: "zábavný literárny kabaret s pesničkami + after koncert kapely Filtr"
+  title: ART PUTIKA I. – POSTSEDLIACI?
+  perex: "Diskusia a čítanie z úspešnej knihy Postsedliaci – slovenský ľudový protest. Hosť: autor Juraj Buzalka. Moderuje: redaktorka Jana Močková."
   location: Art Cafe, povala
-  price: 9 €
-  slug: krvik-totr-praha
+  price: 7 €
+  slug: art-putika-i-postsedliaci
 
+- 
+  time: 20:00 – 22:00
+  performer: Denník SME (SK)
+  premiere: false
+  argentum: true
+  age: 15+
+  title: PIATOČEK – BIZARNÝ POLITICKÝ KVÍZ
+  perex: "Tvorcovia známeho a úspešného satirického podcastu SME: Piatoček majú novinku! Objavte ich nový kvíz aj nový industry pub v Banskej Štiavnici."
+  location: Pražovňa – industry pub, 1. poschodie
+  price: 10 €
+  slug: dennik-sme-piatock
+
+- 
+  time: 20:30 – 21:40
+  performer: Geisslers Hofcomoedianten (CZ)
+  premiere: true
+  age: 15+
+  title: V BORŮVČÍ
+  perex: "Erotická lechitira alebo komediálne, šteklivé divadlo so živou hudbou"
+  location: Kultúrne centrum, hlavná sála
+  price: V predpredaji 10 €, na mieste 18 €
+  slug: geisslers-hofcomoedianten-v-boruvci
+
+- 
+  time: 22:30 – 23:45
+  performer: Tygroo (CZ)
+  premiere: true
+  argentum: true
+  age: 15+
+  title: KONCERT
+  perex: "Divoká zmes elektro-tanečnej hudby, balkánu, jazzu a rapu do bláznivého tanca"
+  location: Kocka, Kammerhofská 6
+  price: V predpredaji 10 €, na mieste 12 €
+  slug: tygroo-koncert

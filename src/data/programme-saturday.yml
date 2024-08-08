@@ -1,138 +1,109 @@
-
-
--
-  time: 10:00 – 10:30
-  performer: MiraMundo (ES)
-  age: 12+
-  title: PROMO
-  premiere: true
-  argentum: true
-  perex: "energická kapela z Barcelony hrá jedinečnú world music"
-  location: Trotuár Cafe
-  price: BUSKING
-  slug: miramundo-barcelona
-
--
-  time: 11:00 – 11:40
-  performer: Circo Teatro niMú (ES)
-  age: Family
-  title: JACUZZI
-  argentum: true
-  premiere: true
-  perex: "Komicko-poetický cirkus na lane pre všetkých"
-  location: Záhrada Skautského domu
-  price: 4 € / 8 €
-  slug: circo-teatro-nimu-bilbao
-
--
-  time: 13:00 – 14:00
-  performer: D´sensitive dženerejšn &&nbsp;Marcela&nbsp;Cmorejová&nbsp;(SK)
-  age: 12+
-  title: NO SOFT, NO FUN
-  perex: "moderné umelecké prednesy mladých osobností na tému (ne)citlivosti"
-  location: Botanická záhrada
-  price: 8 €
-  slug: no-soft-no-fun
-
--
-  time: 14:00 – 14:20
-  performer: BON BON trio (SK)
-  age: 12+
-  title: PROMO
-  perex: "parížske šansóny a svetové hity v podaní tria Cmorejová, Humeňanská, Baarová"
-  location: Botanická záhrada 🠒 Trotuár Cafe
-  price: BUSKING
-  slug: bon-bon-trio-bratislava
-
--
-  time: 15:00 – 15:40
-  performer: Circo Teatro niMú (ES)
-  age: Family
-  argentum: true
-  premiere: true
-  title: JACUZZI
-  perex: "poetický cirkus na lane pre všetkých"
-  location: Záhrada Skautského domu
-  price: 4 € / 8 €
-  slug: circo-teatro-nimu-bilbao-2
-
--
-  time: 16:00 – 17:30
-  performer: AND + hostia &&nbsp;BON BON trio (SK+CZ)
-  general: Len na AMPLIÓNE!
+- 
+  time: 11:00 – 12:30
+  performer: AND + hostia & Adam Blaško & Sabor-Life is Rhythm (SK+CZ+ES)
+  top-general: Len na AMPLIÓNE!
+  premiere: false
   age: 15+
   title: SKETCH UP
-  perex: "5. ročník úspešnej česko-slovenskej súťaže kabaretných skečov plný nových talentov! Moderuje herec Martin Toman. Parížske šansóny a svetové hity hrá trio Cmorejová, Humeňanská, Baarová."
-  location: Kocka
+  perex: "6. ročník česko-slovenskej súťaže kabaretných skečov nových talentov"
+  location: Kocka, Kammerhofská 6
   price: V predpredaji 8 €, na mieste 10 €
-  slug: and-hostia-bonbon-trio
+  slug: and-adam-blasko-sketch-up
 
--
-  time: 16:30 – 17:45
-  performer: Patrik Garaj (SK)
-  age: 15+
+- 
+  time: 14:00 – 14:55
+  performer: Divadlo Falangir (SK)
+  top-general: Víťaz SKETCH UP 2023
+  premiere: true
+  age: 12+
+  title: STMIEVA SA
+  perex: "Re-generačná výpoveď mladých divadelníkov o vyhorení, ktorá vás opäť naštartuje"
+  location: Kultúrne centrum, hlavná sála
+  price: 7 €
+  slug: divadlo-falangir-stmieva-sa
+
+
+
+
+- 
+  time: 15:30 – 16:45
+  performer: Konzorcium Icebreaking (V4+UA)
+  premiere: true
+  age: Family
+  title: CIRCUS CARAVANA
+  perex: "Atraktívne medzinárodné pouličné divadlo o zbližovaní"
+  location: Asfaltová plocha pri SOŠSL, Kolpašská 9
+  price: 0
+  slug: konzorcium-icebreaking-circus-caravana
+
+- 
+  time: 16:30 – 16:50
+  performer: Der Šenster Gob (EU)
+  premiere: false
   argentum: true
-  title: ART PUTIKA I. - SMIECH CEZ SLZY
-  perex: "Diskusia o&nbsp;postojoch k ruskej a&nbsp;ukrajinskej literatúre v&nbsp;súčasnosti + čítanie z&nbsp;diela ukrajinského autora J.&nbsp;Andruchovyča, hosť:&nbsp;prekladateľ Valerij Kupka."
+  age: 12+
+  title: PROMO
+  perex: "Pozvánka na koncert klezmerovej hudobnej skupiny"
+  location: Trotuár Cafe, A. Kmeťa
+  price: 0
+  slug: der-senster-gob-promo
+
+- 
+  time: 17:00 – 18:30
+  performer: Jana Močková (SK)
+  premiere: false
+  argentum: true
+  age: 12+
+  title: ART PUTIKA II. – BLIŽŠIE K SEBE?
+  perex: "Diskusia a autorské čítanie z knihy o tom, ako sa opäť priblížiť k sebe samému i k druhým. Hosť: autor Ján Markoš – lektor kritického myslenia. Moderuje: redaktorka Jana Močková."
   location: Art Cafe, povala
   price: 7 €
-  slug: patrik-garaj-bratislava
+  slug: art-putika-ii-blizsie-k-sebe
 
--
-  time: 17:00 – 17:30
-  performer: Katanari & Ivana Mer (SK)
-  argentum: true
-  age: Family
-  title: KABINET OŽÍVA!
-  perex: "Magický bábkový kabaret, hudobno-vizuálna lahôdka
-nielen pre deti"
-  location: Záhrada Skautského domu
-  price: 3 € / 5 €
-  slug: katanari-ivana-mer-kosice-bb
-
--
+- 
   time: 18:00 – 19:00
-  performer: Teatr KTO (PL)
-  age: 15+
-  headliner: true
+  performer: Sabor-Life is Rhythm (ES)
+  premiere: true
   argentum: true
-  title: ARCADIA
-  perex: "Výnimočné divadlo so spevom, tancom a skvelými hereckými výkonmi, balzam na dušu!"
-  location: Kultúrne centrum, hlavná&nbsp;sála
-  price: V predpredaji 13 €, na mieste 15 €
-  slug: teatr-kto-krakow
+  age: 12+
+  title: CHUŤ ŽIVOTA JE V RYTME
+  perex: "Radostný a osviežujúci nový kabaret plný hudby, stepu a energie"
+  location: Kocka, Kammerhofská 6
+  price: V predpredaji 10 €, na mieste 12 €
+  slug: sabor-life-is-rhythm-chut-zivota
 
--
-  time: 19:00 – 20:15
-  performer: BON BON trio (SK)
+- 
+  time: 19:00 – 20:00
+  performer: Paper Moon Trio (SK)
+  premiere: false
   age: 12+
   title: KONCERT
-  perex: "parížske šansóny a svetové hity v podaní tria Cmorejová, Humeňanská, Baarová"
-  location: Art Cafe, povala
+  perex: "Vintage jazzové dámske trio hrá a spieva hudbu 20. – 40. rokov 20. storočia"
+  location: Art Cafe, záhrada
   price: 9 €
-  slug: bon-bon-trio-bratislava
+  slug: paper-moon-trio-koncert
 
--
-  time: 20:30 – 21:45
-  performer: Firebirds (HU)
-  age: Family
-  argentum: true
-  premiere: true
+- 
+  time: 20:30 – 21:40
+  performer: Ennio Marchetto (IT)
   headliner: true
-  title: FREAK FUSION CONFUSION
-  perex: "úžasný cirkusový kabaret plný akrobacie, burlesky a humoru"
-  location: Amfiteáter
-  price: V predpredaji 8 € / 10 €, na mieste 8 € / 12 €
-  slug: firebirds-budapest
-
--
-  time: 22:00 – 23:15
-  performer: MiraMundo (ES)
   premiere: true
+  argentum: true
+  age: 12+
+  title: LIVING PAPER CARTOON
+  perex: "Kabaretná one-man show svetových hviezd, akú ste ešte nezažili"
+  location: Kultúrne centrum, hlavná sála
+  price: V predpredaji 19 €, na mieste 22 €
+  slug: ennio-marchetto-living-paper-cartoon
+
+- 
+  time: 22:00 – 23:15
+  performer: Der Šenster Gob (EU)
+  premiere: false
   argentum: true
   age: 15+
   title: KONCERT
-  perex: "energická kapela z Barcelony hrá jedinečnú world music do tanca"
-  location: Kocka
-  price: 10 €
-  slug: miramundo-barcelona
+  perex: "klezmer s prvkami rómskej, jazzovej a balkánskej hudby v energickom prevedení"
+  location: Art Cafe, povala
+  price: V predpredaji 10 €, na mieste 12 €
+  slug: der-senster-gob-koncert

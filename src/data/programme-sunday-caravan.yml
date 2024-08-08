@@ -1,9 +1,10 @@
--
-  time: 15:00 – 15:30
-  performer: ICEBREAKING (V4+UA)
+- 
+  time: 14:15 – 15:00
+  performer: Tomáš & Markéta (SK+CZ)
+  premiere: false
   age: Family
-  title: HUMAN CARAVANA
-  perex: "druhá repríza sociálno-inkluzívneho divadla o zbližovaní"
-  location: Oddychový areál pri Kolpingovom dome, Štiavnické Bane
+  title: KONCERT
+  perex: "Autorské piesne česko-slovenskej dvojice z Moravy"
+  location: Terasa u Blaškov, Počúvadlianske jazero
   price: 0
-  slug: human-caravana-second
+  slug: tomas-marketa-koncert

@@ -1,45 +1,57 @@
-
--
+- 
   time: 10:00 – 10:30
-  performer: Katanari & Ivana Mer (SK)
-  argentum: true
-  age: Family
-  title: KABINET OŽÍVA!
-  perex: "magický bábkový kabaret, hudobno-vizuálna lahôdka nielen pre deti"
-  location: Záhrada Skautského domu
-  price: "3 € / 5 €"
-  slug: katanari-ivana-mer-kosice-bb-2
-
--
-  time: 10:30 – 11:45
-  performer: "AND + WE: MEDIA THEATER (SK+UA)"
+  performer: Paper Moon Trio (SK)
   argentum: true
   age: 12+
-  title: ART PUTIKA II. – ICEBREAKING
-  perex: "Premiéra reportážneho filmu z krajín V4 o zbližovaní miestnych obyvateľov s UA odídencami spojená s diskusiou"
+  title: AFTER KONCERT
+  perex: "vintage jazzové dámske trio hrá a spieva hudbu 20. – 40. rokov 20. storočia"
+  location: Trotuár Cafe, A. Kmeťa
+  price: 0
+  slug: paper-moon-trio-after-koncert
+
+- 
+  time: 11:00 – 11:30
+  performer: "WE: MEDIA THEATER (UA)"
+  premiere: true
+  argentum: true
+  age: 12+
+  title: ŠÉF CIRKUSU
+  perex: "Dokumentárny film o osude principála cirkusu Ilyu Borsuka, ktorý bol inšpiráciou k tvorbe medzinárodnej hudobno-pohybovej pouličnej show CIRCUS CARAVANA (V4+UA)"
   location: Art Cafe, povala
   price: 0
-  slug: and-banska-stiavnica-we-media-theater-lviv
+  slug: we-media-theater-sef-cirkusu
 
--
-  time: 11:00 – 11:45
-  performer: Katanari (SK)
-  age: Family
-  title: CESTA
-  perex: "audio-vizuálny zážitok skrinkového divadla pre jedného diváka"
-  location: BUSKING
-  price: 0
-  slug: katanari-kosice
-  
-
--
-  time: 12:00 – 12:30
-  performer: MiraMundo (ES)
+- 
+  time: 12:00 – 13:00
+  performer: AND & Der Šenster Gob (EU)
+  premiere: false
   age: 12+
-  argentum: true
-  premiere: true
-  title: AFTER KONCERT + vyhlásenie cien festivalu Amplion Argentum
-  perex: "Art Cafe, terasa"
-  location: BUSKING
+  title: AFTER KONCERT
+  perex: "AFTER KONCERT + vyhlásenie cien festivalu Amplion Argentum"
+  location: Art Cafe, terasa
   price: 0
-  slug: miramundo-barcelona
+  slug: and-der-senster-gob-after-koncert
+
+- 
+  time: 14:00 – 15:00
+  performer: D´dištanc dženerejšn & Paper Moon Trio (SK)
+  premiere: false
+  age: 12+
+  title: NO CLOSE, NO FUN
+  perex: "moderné umelecké prednesy na tému zbližovania so swingovou kapelou"
+  location: Záhrada Skautského domu, ul. A. Pécha
+  price: 7 €
+  slug: ddistance-generation-no-close-no-fun
+
+- 
+  time: 16:00 – 18:00
+  performer: Divadlo Na zábradlí (CZ)
+  premiere: true
+  argentum: true
+  headliner: true
+  age: 15+
+  title: EUROPEANA
+  perex: "kultové pražské divadlo známych hercov a európske dejiny 20. storočia s humorom"
+  location: Kultúrne centrum, hlavná sála
+  price: V predpredaji 15 €, na mieste 18 €
+  slug: divadlo-na-zabradli-europeana

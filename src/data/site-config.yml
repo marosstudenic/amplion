@@ -1,5 +1,5 @@
 show-tickets: false
-show-program: false
+show-program: true
 show-program-en: false
 busking-menu: true  
 sketchup-menu: true
