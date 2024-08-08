@@ -1,0 +1,554 @@
+
+otvorenie-festivalu:
+  title: OTVORENIE FESTIVALU
+  perex: "Príďte otvoriť 8. ročník festivalu sloganom: <b>Byť citlivý je umenie!</b>"
+  price: 0
+  content: 
+   - "Príďte otvoriť 8. ročník festivalu sloganom: <b>Byť citlivý je umenie!</b> <br> Čaká nás
+                                                                                 hymna + promo skvelých umelcov: Firebirds (HU), MiraMundo (ES), niMú (ES) +
+                                                                                 ICEBREAKING (V4+UA)!"
+
+  occurences:
+    -
+      time: "piatok 16:00 - 16:30"
+      location: "Námestie&nbsp;sv.&nbsp;Trojice"
+
+  pictures:
+    - "amplion22_otvorenie_festivalu_MS_015.jpg"
+    - "amplion22_otvorenie_festivalu_MS_021.jpg"
+    - "amplion22_otvorenie_festivalu_MS_029.jpg"
+    - "amplion22_otvorenie_festivalu_MS_033.jpg"
+    - "amplion22_otvorenie_festivalu_MS_038.jpg"
+    - "amplion22_otvorenie_festivalu_MS_046.jpg"
+    - "amplion22_otvorenie_festivalu_MS_055.jpg"
+
+teatr-kto-krakow:
+  performer: 'Teatr KTO, Krakow (PL) <br> <strong style="color:#362982;font-size:0.8em;"> Headliner Festivalu </strong>'
+  title: "ARCADIA"
+  argentum: true
+  general: "TOP program pre dospelých"
+  perex: "Výnimočné divadlo so spevom, tancom a skvelými hereckými výkonmi, balzam na dušu!"
+  occurences:
+    -
+      time: "sobota 18:00"
+      location: "Kultúrne centrum"
+  content:
+    -
+      "ARCADIA je magická krajina. Prináša univerzálny príbeh ľudského života od narodenia až po smrť. Vykresľuje všetko, čo tvorí pozemskú púť človeka, to najkrajšie aj to najkrutejšie, komické i tragické. Veľká láska, svadba, nový život i jeho koniec. Od prvej do poslednej scény tohto jedinečného divadelného predstavenia bez slov bude diváka sprevádzať neodolateľný pocit túžby po živote, po svete, po umení. Uvidíte múdre, dojemné a intenzívne dielo, ktoré vás vyvedie z tradičného vnímania divadla. Zažije totiž niečo výnimočné! Citlivú báseň o stave našej civilizácie plnú neobmedzenej fantázie a tvorivosti v réžii uznávaného režiséra a riaditeľa divadla Jerzyho Zońa." 
+    - 
+      "<i><b>Teatr KTO</b> (*1977) je jedno z najuznávanejších profesionálnych poľských divadiel s dlhoročnou tradíciou pouličných inscenácií a divadla pod holým nebom. Súbor navštívil viac ako 250 miest vo viac ako 40 krajinách na 5 kontinentoch sveta. Vystupoval v Brazílii, Kanade, Číne, Kolumbii, Kostarike, Iráne, Mexiku, Južnej Kórei, Tunisku, USA a takmer vo všetkých krajinách Európy.</i>"
+  pictures:
+    - "Teatr KTO_PL_10_Arcadia_foto Wacêaw Pyzik.jpg"
+    - "Teatr KTO_PL_42_Arcadia_foto Wacêaw Pyzik.jpg"
+    - "Teatr KTO_PL_50_Arcadia_foto Wacêaw Pyzik.jpg"
+    - "Teatr KTO_PL_82_Arcadia_foto Wacêaw Pyzik.jpg"
+    - "Teatr KTO_PL_09_Arcadia_foto Wacêaw Pyzik.jpg"
+
+  link: "https://www.teatrkto.pl"
+  foto: "Robert Siwek"
+
+krvik-totr-praha:
+  performer: "Krvik Totr & kapela Filtr, Praha (CZ)"
+  title: "Z VYTRACENA&nbsp;5 (Ema&nbsp;bude sklamaná)"
+  argentum: true
+  premiere: true
+  general: "Program pre mladých a dospelých"
+  perex: "Rozmarný literárny kabaret s autorskými pesničkami + after koncert kapely Filtr"
+  occurences:
+    -
+      time: "piatok 22:30"
+      location: "Art Cafe, povala"
+  content:
+    -
+      "Nový autorský kabaret recesistickej skupiny Krvik Totr je scénická hra so spevmi. Absolútny humor. Je dnes piatok, pondelok alebo štvrtok? Kto má kľúč od Vendulinej schránky? Aký je správny spôsob vstupu do pravoslávneho chrámu? Môžu sa všetci volať Tereza? Kto je sponzorom Východoslovenských železiarní? A bude Ema sklamaná? Vekové odporúčanie: 12+ 3 × 24 - 69 : 17. A pozor, bonus! Po predstavení zažijete aj after koncert kapely Filtr lomeno Krvik Totr band, ktorá spieva akordy, hrá slová a vám to pristane. Kapela, ktorá nemôže sklamať ani Emu. Alebo áno?! To je Krvik Totr alebo Vaša skvelá zábava na piatkový večer."
+    -
+      "<i><b>Krvik Totr</b> založili Petr Jediný Novotný a Tomáš Kout v Prahe v roku 1992 ako platformu, kde by ich absolútny humor nebol obmedzovaný (najprv rodičmi a učiteľmi, neskôr profesormi a manželkami a nakoniec ich vlastnými deťmi). Túto kratochvíľu praktizujú dodnes, pre radosť ich intelektuálnejších divákov. Od autorských &quot;rozhlasových&quot; dialógov cez autorské poviedky prešli k autorskému divadlu. Napísali a zahrali niekoľko hier a kabaretov, kopu piesní a nespočetné množstvo skečov. Z toho možno vyvodiť, že ide nepochybne o amatérske autorské divadlo so všetkými pozitívnymi rizikami, ktoré k tomu patria.</i>"
+  pictures:
+    - "KRVIK TOTR_Praha_maj 2023_JF_02.jpg"
+    - "KRVIK TOTR_Praha_maj 2023_JF_25.jpg"
+    - "KRVIK TOTR_Praha_maj 2023_JF_07.jpg"
+    - "KRVIK TOTR_Praha_Z vytracena .jpg"
+
+  link: "https://www.krviktotr.cz"
+  foto: "archív Krvik Totr / Michal Svítok" 
+
+
+ansambel-nepravidelneho-divadla:
+  performer: "Ansámbel nepravidelného divadla, Banská&nbsp;Štiavnica&nbsp;(SK)"
+  title: "BOHOROVNÍ (bar&nbsp;kabaret&nbsp;noir)"
+  general: "Program pre mladých a dospelých"
+  perex: "Silné príbehy, podmanivá hudba Roba Mankoveckého a texty Vlada Jančeka, expresívny tanec Laca Cmoreja & čierny humor v barovej spoločnosti skvelých hercov, to je štýlový nový bar kabaret noir od tvorcov AMPLIÓNU!"
+  occurences:
+    -
+      time: "piatok 21:00"
+      location: "Hotel Grand Matej"
+  content:
+    -
+      "Prijmite pozvanie na Olymp! Pohodlne sa usaďte, vychutnajte si pohár bubliniek a naša barová suita sa o vás postará. Môže si človek dovoliť všetko? Je pánom života a smrti? Sme Bohu rovní? Bar kabaret noir o tých, ktorí sa cítia viac ako boh, aj o tých, ktorí sú mu skutočne podobní. Hrozby, ktoré priniesla pandémia a následne hrôzy vojny, si vyspelý svet pripúšťal len v hororoch či v krajinách tretieho sveta, žil takpovediac bohorovne. Unikátna doba ukázala, že téma bohorovnosti je výsostne aktuálna. Bohorovní ako nedotknuteľní vládcovia života a smrti a naopak, bohorovní ako solidárni so všetkými ľuďmi bez rozdielu, teda Bohu podobní. Čo zvíťazí? Pokora či bohorovnosť? Kabaretná show pre divákov od 15 rokov."
+    -
+      "<i><b>Ansámbel nepravidelného divadla </b>(AND) je nezávislá skupina divadelníkov a priateľov súčasného umenia podobného humanistického zmýšľania a svetonázoru so sídlom v Banskej Štiavnici. Vznikla generačnou a programovou transformáciou Kremnického divadla v podzemí (2012 – 2017), ktoré v roku 1981 založilo a 25 rokov organizovalo Festival humoru a satiry Kremnické gagy. AND sa venuje hľadaniu nových foriem moderného kabaretu, pouličným a angažovaným produkciám. V 2016 založil v Banskej Štiavnici medzinárodný Festival AMPLIÓN – Nový kabaret & pouličné umenie. Jeho členovia boli spolutvorcami projektu Mesto kultúry Banská Štiavnica 2019.</i>"
+  pictures:
+    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (05).jpg"
+    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (21).jpg"
+    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (22).jpg"
+    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (29).jpg"
+    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (36).jpg"
+    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (40).jpg"
+    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (41).jpg"
+    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (42).jpg"
+
+  link: "https://www.and-theatre.art"
+  foto: "Michal Svítok"
+
+and-hostia-bonbon-trio:
+  performer: "AND + hostia & BON&nbsp;BON&nbsp;trio&nbsp;(SK+CZ)"
+  title: "SKETCH UP"
+  top-general: Len na AMPLIÓNE!
+  argentum: true
+  general: "Program pre mladých a dospelých"
+  perex: "5. ročník úspešnej česko-slovenskej súťaže kabaretných skečov plný nových talentov! Moderuje herec Martin Toman. Parížske šansóny a svetové hity hrá trio Cmorejová, Humeňanská, Baarová."
+  occurences:
+    -
+      time: "sobota 16:00"
+      location: "Kocka"
+  content:
+    -
+      "Súťaž nových kabaretných výstupov jednotlivcov a umeleckých skupín v rôznych žánroch príbuzných kabaretu ako je stand up, slam poetry, divadlo, hudba, pohybové umenie či klaunské čísla."
+    - "Všetky skeče prepojí jedna téma – (ne)citlivosť, ktorú podajú zážitkovou a zábavnou formou rozmanití účinkujúci. Môžete sa tešiť na svojrázneho standapistu Viktora Kryukova z Ukrajiny, hudbou i humorom ostrieľaného Bandiho z Banskej Bystrice, či Divadlo Ľahostajňa z Bratislavy. O cenu festivalu už po druhýkrát zabojujú aj energické divadlo Falangír z Kostolišťa a mladé tvorivé zoskupenie TyMyJán z Bratislavy. Ekvilibristiku slova predvedie moderátor, herec Martin Toman. Jedinečnú atmosféru vytvorí šansónová kapela BON BON trio. "
+    - "Všetko sa odohrá za účasti pozorného oka i ucha odbornej poroty v zložení Lumír Mati, Martina Garassyová a Dušan Krnáč. Víťaz získa okrem ceny AMPLION ARGENTUM aj opciu na uvedenie svojho samostatného kabaretného programu na 9. ročníku Festivalu AMPLIÓN 2024. Nenechajte si tento jedinečný program ujsť!"
+  pictures:
+    - "BON-BON_trio_3.jpg"
+    - "SKETCH UP_2022-09-23-amplion-3178.jpg"
+    - "SKETCH UP_2022-09-23-amplion-3182.jpg"
+    - "SKETCH UP_2022-09-23-amplion-3187.jpg"
+    - "SKETCH UP_2022-09-23-amplion-3193.jpg"
+    - "SKETCH UP_2022-09-23-amplion-3198.jpg"
+    - "amplion-9023.jpg"
+    - "Tadeas Bolo a Martin Toman_2.jpg"
+
+
+  link: "https://www.facebook.com/festivalamplion"
+  foto: "Michal Svítok / Kristína Mayerová"
+
+firebirds-budapest:
+  performer: 'Firebirds, Budapešť (HU) <br> <strong style="color:#362982;font-size:0.8em;"> Headliner Festivalu </strong>'
+  title: "FREAK FUSION CONFUSION"
+  argentum: true
+  premiere: true
+  general: "TOP program pre mladých, dospelých aj rodiny s deťmi"
+  perex: "Úžasný cirkusový kabaret plný akrobacie, lietania a humoru"
+  occurences:
+    -
+      time: "sobota 20:30"
+      location: "Amfiteáter (mokrý variant: Kultúrne centrum)"
+  content:
+    -
+      "Prinášame vám mystický svet kočovných cirkusov z minulého storočia s príchuťou čierneho humoru. Veľkolepé žonglérske, akrobatické, vzdušné a burleskné čísla predvedie smotánka maďarskej undergroundovej cirkusovej scény. Váš jedinečný zážitok na štiavnickom amfiteátri!"
+    - 
+      "<i>Tím <b>Firebirds</b> vznikol v roku 2010 v Budapešti zo širokého spektra hudobníkov, tanečníkov a cirkusových umelcov. Prináša kreatívnu a kvalitnú zábavu nového cirkusu širokému spektru divákov a úspešne účinkuje po celom svete.</i>"
+  pictures:
+    - "Firebirds_FF_01.jpg"
+    - "Firebirds_FF_02.jpg"
+    - "Firebirds_FF_06.jpg"
+    - "Firebirds_FF_09.jpg"
+    - "Firebirds_FF_10.jpg"
+  link: "https://www.firebirds.hu"
+  foto: "archív Firebirds"
+
+circo-teatro-nimu-bilbao:
+  performer: "Circo Teatro niMú, Bilbao&nbsp;(ES)"
+  title: "JACUZZI"
+  argentum: true
+  premiere: true
+  general: "Program pre mladých a rodiny s deťmi"
+  perex: "Komicko-poetický cirkus na lane pre všetkých"
+  occurences:
+    -
+      time: "sobota 11:00"
+      location: "Záhrada Skautského domu"
+  content:
+    -
+      "Ponorne sa do veselo-romantického sveta charizmatickej klaunky niMú zo Španielska a zrelaxujte na vlnách jej show Jacuzzi! niMú nepovie ani slovko, ale vyrozpráva celý príbeh. Uvidíte bravúrnu cirkusovú ekvilibristiku s predmetmi i schopnosť vzdorovať gravitačnému zákonu akrobaciou na lane. Osvieženie, romantika i zábava pre celú rodinu. Žblnk!"
+    -
+      "<i>Ekvilibristka, klaunka a tanečnica <b>Xandra Gutiérezz </b>zo Španielska začala svoje umelecké vzdelanie v cirkusovej prípravke El Circ Petit (Barcelona, 2010). V štúdiu pokračovala na Medzinárodnej cirkusovej a divadelnej škole CAU (Granada, 2011-2012). Počas posledných troch rokov bola aj členkou Estreyarte Collective v Granade, s ktorým sa zúčastňovala na rôznych javiskových experimentoch. V roku 2016 založila vlastnú spoločnosť niMú. Jej pouličné inscenácie robia radosť ľuďom na mnohých európskych festivaloch.</i>"
+  pictures:
+    - "niMu_ES_jacuzzi_1.jpg"
+    - "niMu_ES_jacuzzi_2.jpg"
+    - "niMu_ES_jacuzzi_3.jpg"
+    - "niMu_ES_jacuzzi_4.jpg"
+    - "niMu_ES_jacuzzi_5.jpg"
+  link: "https://www.cianimu.com"
+  foto: "archív"
+
+
+circo-teatro-nimu-bilbao-2:
+  performer: "Circo Teatro niMú, Bilbao&nbsp;(ES)"
+  title: "JACUZZI"
+  argentum: true
+  premiere: true
+  general: "Program pre mladých a rodiny s deťmi"
+  perex: "Komicko-poetický cirkus na lane pre všetkých"
+  occurences:
+    - time: "sobota 15:00"
+      location: "Záhrada Skautského domu"
+  content:
+    - "Ponorne sa do veselo-romantického sveta charizmatickej klaunky niMú zo Španielska a zrelaxujte na vlnách jej show Jacuzzi! niMú nepovie ani slovko, ale vyrozpráva celý príbeh. Uvidíte bravúrnu cirkusovú ekvilibristiku s predmetmi i schopnosť vzdorovať gravitačnému zákonu akrobaciou na lane. Osvieženie, romantika i zábava pre celú rodinu. Žblnk!"
+    - "<i>Ekvilibristka, klaunka a tanečnica <b>Xandra Gutiérezz </b>zo Španielska začala svoje umelecké vzdelanie v cirkusovej prípravke El Circ Petit (Barcelona, 2010). V štúdiu pokračovala na Medzinárodnej cirkusovej a divadelnej škole CAU (Granada, 2011-2012). Počas posledných troch rokov bola aj členkou Estreyarte Collective v Granade, s ktorým sa zúčastňovala na rôznych javiskových experimentoch. V roku 2016 založila vlastnú spoločnosť niMú. Jej pouličné inscenácie robia radosť ľuďom na mnohých európskych festivaloch.</i>"
+  pictures:
+    - "niMu_ES_jacuzzi_1.jpg"
+    - "niMu_ES_jacuzzi_2.jpg"
+    - "niMu_ES_jacuzzi_3.jpg"
+    - "niMu_ES_jacuzzi_4.jpg"
+    - "niMu_ES_jacuzzi_5.jpg"
+  link: "https://www.cianimu.com"
+  foto: "archív"
+
+katanari-ivana-mer-kosice-bb:
+  performer: "Katanari & Ivana Mer, Košice / Banská Bystrica&nbsp;(SK)"
+  title: "KABINET OŽÍVA!"
+  argentum: true
+  general: "Program pre rodiny s deťmi"
+  perex: "Magický bábkový kabaret, hudobno-vizuálna lahôdka nielen pre deti"
+  occurences:
+    -
+      time: "sobota 17:00"
+      location: "Záhrada Skautského domu"
+  content:
+    - "Čo sa odohráva na stole podivínskych zberateľov, keď
+       za sebou zavrú dvere? Kabinet drobných bábok a objektov, ktorým sa nechce
+       pózovať len za sklom, magicky ožije. Doprajme im 5 sekúnd slávy! Kde? No
+       predsa v tejto kombinácii výstavy, promenády a bláznivého kabaretu, ktorý vás
+       pozýva uvidieť to, čo robia objekty, keď ich nikto nevidí. Nonverbálna
+       performancia performerky Katanari. Na zvukové hračky a akustické nástroje hrá
+       speváčka a skladateľka Ivana Mer."
+  pictures:
+    - "Katanari_Kabinet_live_web_1.jpg"
+    - "Katanari_Kabinet_live_web_2.jpg"
+    - "Katanari_Kabinet_live_web_3.jpg"
+    - "Katanari_Kabinet_live_web_5.jpg"
+    - "Katanari_Kabinet_live_web_4.jpg"
+
+  link: "https://www.katanariart.com"
+
+katanari-ivana-mer-kosice-bb-2:
+  performer: "Katanari & Ivana Mer, Košice / Banská Bystrica&nbsp;(SK)"
+  title: "KABINET OŽÍVA!"
+  argentum: true
+  general: "Program pre rodiny s deťmi"
+  perex: "Magický bábkový kabaret, hudobno-vizuálna lahôdka nielen pre deti"
+  occurences:
+    -
+      time: "nedeľa 10:00"
+      location: "Záhrada Skautského domu"
+  content:
+    - "Čo sa odohráva na stole podivínskych zberateľov, keď
+       za sebou zavrú dvere? Kabinet drobných bábok a objektov, ktorým sa nechce
+       pózovať len za sklom, magicky ožije. Doprajme im 5 sekúnd slávy! Kde? No
+       predsa v tejto kombinácii výstavy, promenády a bláznivého kabaretu, ktorý vás
+       pozýva uvidieť to, čo robia objekty, keď ich nikto nevidí. Nonverbálna
+       performancia performerky Katanari. Na zvukové hračky a akustické nástroje hrá
+       speváčka a skladateľka Ivana Mer."
+  pictures:
+    - "Katanari_Kabinet_live_web_1.jpg"
+    - "Katanari_Kabinet_live_web_2.jpg"
+    - "Katanari_Kabinet_live_web_3.jpg"
+    - "Katanari_Kabinet_live_web_5.jpg"
+    - "Katanari_Kabinet_live_web_4.jpg"
+
+  link: "https://www.katanariart.com"
+
+
+
+katanari-kosice:
+  performer: "Katanari, Košice&nbsp;(SK)"
+  title: "CESTA"
+  argentum: false
+  price: 0
+  general: "Program pre jedného diváka"
+  perex: "Čarovná cesta pre jedného cestovateľa na miesto, ktoré túži nájsť"
+  occurences:
+    -
+      time: "nedeľa 11:00"
+      location: "Art Cafe, terasa"
+  content:
+    -
+      "4-minútový audio-vizuálny zážitok pre jedného diváka v štýle divadla pre jedného (lambe-lambe). Nakuknite do divadelnej skrinky, v ktorej sa vám zjaví celý svet. Krása!"
+    -
+      "<i><b>Katanari</b> alebo Katarína Caková je výtvarníčka, ilustrátorka, potulná performerka a scénografka. Vyštudovala odbor ilustrácie na VŠVU v Bratislave a zúčastnila sa stáží v Solúni, Záhrebe, Tallinne a Surakarte. Venuje sa tvorbe autorských inscenácií a spolupracuje na rôznych projektoch naprieč Európou.</i>"
+  pictures:
+    - "Katanari_Cesta_web.jpg"
+  link: "https://www.katanariart.com"
+
+miramundo-barcelona:
+  performer: "MiraMundo, Barcelona&nbsp;(ES)"
+  title: "KONCERT"
+  argentum: true
+  premiere: true
+  general: "Program pre mladých a dospelých"
+  perex: "Úchvatná kapela z Barcelony hrá jedinečnú world music do tanca"
+  occurences:
+    -
+      time: "sobota 22:00"
+      location: "Kocka"
+    -
+      time: BUSKING
+  content:
+    -
+      "Barcelona predstavuje Mekku hudby, interaktívne prostredie, kde sa stretávajú muzikanti z Európy, Afriky, Ázie aj Latinskej Ameriky, aby vytvorili jedinečnú hudbu tohto mesta. Piesne MiraMundo preto charakterizuje sloboda, odvaha prekonávať hranice i cit pre multikulturalizmus. Sú to originálne intímne príbehy o láske i cestovateľských zážitkoch, ktoré citlivo spájajú žánre zdanlivo vzdialených kultúr. Bossa nova, mexické mariachi, samba, talianske a cigánske motívy, ale aj africké tradície tvoria nádhernú zmes jemných rytmov, silných melódií a veľkej energie, ktorú si multi-inštrumentálni muzikanti užívajú v interakcii s publikom. <br> Vaša najlepšia voľba sobotnej noci!"
+    -
+      "<i>Členov <b>MiraMundo</b> spája sloboda, odvaha prekonávať akékoľvek hranice, láska k multikulturalizmu a globálne chápanie vlastných tradícií. Tešia sa na vás Marion Cécile Sophie Candela − perkusie a spev, Malena Cousinet Larguía − saxofón a spev, Noel Ernesto Vargas Águila − kontrabas a basgitara, Francesca Frigeri − perkusie a spev, Luiz Gustavo Fernandes Murakami − gitara a spev.</i>"
+  pictures:
+    - "MiraMundo 01.jpg"
+    - "MiraMundo 02.jpg"
+    - "MiraMundo 03.jpg"
+  link: "http://www.miramundomusica.com/"
+  foto: "Archív MiraMundo"
+
+
+orkest-de-tegenwind-utrecht:
+  performer: "Orkest de Tegenwind, Utrecht&nbsp;(NL)"
+  title: "KONCERT"
+  argentum: false
+  premiere: true
+  price: 0
+  general: "Program pre všetkých"
+  perex: "22-členný pochodujúci street brass band z Holandska"
+  occurences:
+    -
+      time: "BUSKING"
+    -
+      time: "piatok 18:00"
+      location: "Art Cafe"
+
+  content:
+    -
+      "„Orchester proti vetru“ je veľká pouličná dychová kapela z Utrechtu, ktorá vznikla v roku 1984 s cieľom priniesť hudbu ľuďom na ulici. Ich hra je atraktívna, plná energie a emócií, rozháňa tmavé mraky a prináša slnko do duší divákov. Tento dobrodružný orchester tvorí generačne pestrý kolektív. Spoločne hrajú hudbu z domova, ale aj zo všetkých kútov sveta, pretože street brass band sa inšpiruje muzikou a ľuďmi z iných kultúr a neustále prekvapuje novinkami. Pravidelne organizujú turné do krajín, kde ešte nikdy predtým neboli. Tento rok po prvýkrát vystúpia aj na Slovensku. Privítajte ich potleskom!"
+    -
+      "<i>Hudobnú réžiu orchestra majú od roku 2008 v rukách Hermine Schneider a Onno van Swigchem. Medzi najvýznamnejšie miesta ich cestovateľskej histórie patria návštevy Kyjeva, Kapského Mesta, Lotyšska, Istanbulu, Surinamu, Anglicka, Nemecka, Kodane, Rumunska a Lisabonu.</i>"
+  pictures:
+    - "Orkestr_Tegenwind_01.jpg"
+    - "Orkestr_Tegenwind_02.JPG"
+    - "Orkestr_Tegenwind_03.JPG"
+  link: "https://orkesttegenwind.nl/"
+
+bon-bon-trio-bratislava:
+  performer: "BON BON trio, Bratislava&nbsp;(SK)"
+  title: "KONCERT"
+  argentum: false
+  general: "Program pre mladých a dospelých"
+  perex: "Parížske šansóny a svetové hity v podaní dámskeho tria Cmorejová, Humeňanská, Baarová"
+  occurences:
+    -
+      time: "sobota 19:00"
+      location: "Art Cafe, povala"
+    -
+      time: BUSKING
+
+
+
+  content:
+    -
+      "Trojica známych pôvabných dám Vám svojím hudobným programom navodí atmosféru parížskych kaviarní s esenciou šansónov. Zaznejú svetové hity známych interpretov ako sú Edith Piaf, Julliette Greco, Yan Tiersen, Queen, Astor Piazzolla, Beatles, Goran Bregovič, Michael Jackson, ZAZ, Nat King Cole, Sting. Koncert je hudobne aj esteticky veľmi šarmantným zážitkom. Snúbi sa v ňom hudba, cit a priateľstvo v krásnej harmónii. Autorom hudobných úprav je Peter Mankovecký. Teší sa na vás Marcela Cmorejová (Vilhanová) a jej saxofón i akordeón, Petra Sedláková (Humeňanská) a jej zamatový spev aj Katarína Baarová so svojou špičkovou hrou na violončelo."
+    -
+      "<i><b>Marcela Cmorejová</b> (Vilhanová), vyštudovala hru na saxofón a akordeón. Je známa z banskobystrickej kapely Sto múch a z úspešného projektu Maca a kapela roka. Účinkuje v Radošinskom naivnom divadle a v Slovenskom národnom divadle.</i>"
+    -
+      "<i><b>Petra Sedláková</b> (Humeňanská) vyštudovala muzikálové herectvo a v BON BON triu dominuje ako speváčka. Účinkovala napríklad v Slovenskom národnom divadle, v Divadle Nová scéna, v Radošinskom naivnom divadle.</i>"
+    -
+      "<i><b>Katarína Baarová</b> hrá na violončelo a je členkou orchestra Slovenského národného divadla aj Slovenského komorného orchestra. Pravidelne spolupracuje na nahrávaní hudby aj pre filmy.</i>"
+  pictures:
+    - "BON-BON_trio_1.jpg"
+    - "BON-BON_trio_Baarova.jpg"
+    - "BON-BON_trio_Cmorejova.jpg"
+    - "BON-BON_trio_Sedlakova.jpg"
+  link: "https://www.facebook.com/TheBonbonky"
+  # foto: "Autor foto"
+
+
+monika-todova-bratislava:
+  performer: "Monika Tódová & Denník N, Bratislava (SK)"
+  title: "AKO ZACHRÁNIŤ DEMOKRACIU <br> <span style='font-size: large'>hostia: Marián Leško, Martin Šimečka, Matúš Kostolný</span> "
+  argentum: true
+  general: "Program pre mladých a dospelých"
+  perex: "Diskusia&nbsp;o&nbsp; aktuálnom vývoji našej krajiny s humorom aj bez"
+  occurences:
+    -
+      time: "piatok 19:00"
+      location: "Kultúrne centrum"
+  content:
+    -  
+      "Aktuálne spoločenské udalosti budeme analyzovať s komentátormi Mariánom Leškom, Martinom M. Šimečkom a Matúšom Kostolným. Moderuje Monika Tódová. Denník N (ne)pravidelne do volieb organizuje sériu diskusií Ako zachrániť demokraciu po celom Slovensku."
+    -
+      "<i>„V týchto voľbách ide naozaj o veľa a uvedomujeme si, že nestačí iba to, ak budeme o situácii písať. Preto sme sa rozhodli, že obídeme Slovensko a budeme diskutovať. Je to jedna z výsad demokracie a verím, že o ňu ľudia nechcú prísť,“ </i> hovorí šéfredaktor Denníka N Matúš Kostolný. Aj tvorcom AMPLIÓNU záleží na demokratickom vývoji našej krajiny, preto ste na diskusii všetci vítaní."
+  pictures:
+    - "AKO ZACHRANIT DEMOKRACIU_1.jpg"
+    - "AKO ZACHRANIT DEMOKRACIU_2.jpg"
+    - "AKO ZACHRANIT DEMOKRACIU_3.jpg"
+  # link: ""
+  # foto: "Foto: ???"
+
+patrik-garaj-bratislava:
+  performer: "Patrik Garaj, Bratislava&nbsp;(SK)"
+  title: "ART PUTIKA I. – SMIECH CEZ SLZY"
+  argentum: true
+  general: "Program pre mladých a dospelých"
+  perex: "Diskusia o&nbsp;postojoch k ruskej a&nbsp;ukrajinskej literatúre v&nbsp;súčasnosti + čítanie z&nbsp;diela ukrajinského autora J.&nbsp;Andruchovyča, hosť:&nbsp;prekladateľ Valerij Kupka."
+  occurences:
+    -
+      time: "sobota 16:30"
+      location: "Art Cafe, povala"
+  content:
+    -
+      "Ktorí autori majú väčší sklon k tragickosti? Ktorí sa chcú dohrabať čo najhlbšie do ľudskej duše a nájsť tam niečo temné? A ktorí zase do literatúry vnášajú slnko a vtip? Ruskí alebo ukrajinskí? A ako vzniká gogoľovský smiech cez slzy? Aj to bude témou diskusie o vzťahu ukrajinskej a ruskej kultúry v čase vojny, o postojoch obyvateľov ostatných krajín k ruskej a ukrajinskej literatúre i dielam v súčasnosti. Patrik Garaj, reportér Denníka N pre kultúru, bude diskutovať s naším hosťom, rusistom a prekladateľom, Valerijom Kupkom i s vami. Rozhovor a neformálna dišputa bude doplnená ukážkami z diela ukrajinského autora Jurija Andruchovyča, ktoré V. Kupka preložil do slovenčiny."
+    -
+      "<i> <b> Valerij Kupka </b> je slovenský básnik, prekladateľ a rusista. Narodil sa na Ukrajine. V roku 1978 sa jeho rodina presťahovala späť na Slovensko. Do roku 2022 bol docentom pre odbor literárna veda na Prešovskej univerzite, kde sa venoval predovšetkým okruhom ako ruská literatúra 19. a 20. storočia, ruská detská literatúra, ruské výtvarné umenie a film 20. storočia.</i> "
+    -
+      "<i> <b> Patrik Garaj </b> vyštudoval germanistiku, filozofiu a literárnu vedu na Prešovskej univerzite a na Universität Konstanz. Tam získal aj titul PhD. V roku 2006 začal pracovať pre týždenník Trend. Najprv ako webeditor, neskôr ako šéfredaktor Trend.sk a zástupca šéfredaktora Trendu. V Denníku N pracuje od februára 2018 ako editor a reportér. Venuje sa najmä oblastiam kultúry – literatúre, architektúre a hudbe. Píše pravidelný newsletter  High 5ive .</i>"
+  pictures:
+    - "Valerij Kupka.jpg"
+    - "Patrik Garaj_N.jpg"
+
+  link: "https://dennikn.sk/autor/patrik-garaj/"
+  # foto: "1 ks + 1 ks hosť"
+
+
+and-banska-stiavnica-we-media-theater-lviv:
+  performer: "<span style='font-size: large'>AND, Banská Štiavnica&nbsp;(SK) + WE:&nbsp;MEDIA THEATER, Lviv&nbsp;(UA)</span>"
+  title: "ART PUTIKA II. – ICEBREAKING&nbsp;(V4+UA)"
+  argentum: true
+  price: 0
+  general: "Program pre mladých a dospelých"
+  perex: "Premiéra reportážneho filmu z krajín V4 o zbližovaní miestnych obyvateľov s UA odídencami spojená s diskusiou"
+  occurences:
+    -
+      time: "nedeľa 10:30"
+      location: "Art Cafe, povala"
+  content:
+    - 
+      "Na AMPLIÓNE máte možnosť zažiť premiéru pilotu medzinárodnej pouličnej pochôdzkovej inscenácie piatich divadiel s názvom HUMAN CARAVANA. Vznikla zo zozbieraných autentických materiálov počas 4 výskumných ciest po krajinách V4 v auguste 2023. S akými príbehmi, osudmi a skúsenosťami Ukrajincov i domácich obyvateľov sa tvorcovia stretli, Vám priblíži nielen neformálna debata, ale aj premiéra videoreportáže nezávislého ukrajinského tímu multimediálnych tvorcov WE: MEDIA THEATER v réžii Sashka Bramu. V krátkom filme účinkujú aj hrdinovia z Banskej Štiavnice. Hosťami diskusie sú lídri piatich divadiel projektu: Sashko Brama (UA), Petr Novotný (CZ), Jana Mikitková (SK), Andráš Mező (HU), Jerzy Zoń (PL) a ďalší."
+    -
+      "<i><b>WE: MEDIA THEATER </b>(2018) je <b>nezávislý ukrajinský umelecký súbor</b> pracujúci v oblasti multimediálneho divadla. Vznikol v Ľvive a jeho lídrom je mladý aktivista, režisér, scenárista a dramatik Sashko Brama, vlastným menom Oleksandr Palianychka, ktorý experimentuje na pomedzí postdokumentárneho divadla a dokumentárneho filmu. Bramove inscenácie boli uvedené na festivaloch na Ukrajine, v Poľsku, Nemecku a na Slovensku. V súčasnosti sú ich hlavnou témou udalosti totálnej ruskej vojny na Ukrajine, v ktorej Brama pôsobí ako vojnový reportér.</i>"
+  pictures:
+   - "WE_Media Theater_Lyuda Batalova_.jpg"
+   - "WE_Media Theater_Sashko Brama_press.JPG"
+  link: "https://www.and-theatre.art/icebreaking-sk/"
+  # foto: "Foto: 1 ks + 1 ks hosť"
+
+human-caravana-premiere:
+  performer: "<span style='font-size: x-large'>Ansámbel nepravidelného divadla&nbsp;(SK) +&nbsp;Teatr&nbsp;KTO&nbsp;(PL) + Firebirds&nbsp;(HU) +&nbsp;Prostores&nbsp;(CZ)</span>"
+  title: "HUMAN CARAVANA"
+  argentum: false
+  price: 0
+  general: "Program pre mladých a dospelých"
+  perex: "Premiéra výstupu z tvorivého workshopu o medziľudskom zbližovaní
+v podaní medzinárodného tímu tvorcov projektu ICEBREAKING (V4+UA)"
+  occurences:
+    -
+      time: "piatok 17:00"
+      location: "Starý zámok 🠒 Záhrada Skautského domu"
+
+  content:
+    -
+      "Štyri divadlá, lídrované Ansámblom nepravidelného divadla, vytvoria počas 2 dní intenzívneho tvorivého workshopu spoločný medzinárodný zárodok budúcej pouličnej inscenácie zameranej na zbližovanie miestnych občanov V4 s odídencami z Ukrajiny."
+    -
+      "Putovný pouličný happening od Starého Zámku do Skautského domu vznikne na základe autentických materiálov zozbieraných na 4 výskumných cestách po krajinách V4 a na Ukrajine."
+    -
+      "Spoločná cesta rozpráva príbehy ľudí v zmiešaných komunitách, búra predsudky a zbližuje vo svete, v ktorom sa všetci bez rozdielu veľmi potrebujeme."
+  pictures:
+  link: "https://www.and-theatre.art/icebreaking-sk/"
+  foto: ""
+
+
+human-caravana:
+  performer: "<span style='font-size: x-large'>Ansámbel nepravidelného divadla&nbsp;(SK) +&nbsp;Teatr&nbsp;KTO&nbsp;(PL) + Firebirds&nbsp;(HU) +&nbsp;Prostores&nbsp;(CZ)</span>"
+  title: "HUMAN CARAVANA"
+  argentum: false
+  price: 0
+  general: "Program pre mladých a dospelých"
+  perex: "Prvá repríza výstupu z tvorivého workshopu o medziľudskom zbližovaní
+v podaní medzinárodného tímu tvorcov projektu ICEBREAKING (V4+UA)"
+  occurences:
+    - time: "sobota 14:30"
+      location: "KTC Hájovňa, Červená studňa"
+
+  content:
+    -
+      "Štyri divadlá, lídrované Ansámblom nepravidelného divadla, vytvoria počas 2 dní intenzívneho tvorivého workshopu spoločný medzinárodný zárodok budúcej pouličnej inscenácie zameranej na zbližovanie miestnych občanov V4 s odídencami z Ukrajiny."
+    -
+      "Putovný pouličný happening od Starého Zámku do Skautského domu vznikne na základe autentických materiálov zozbieraných na 4 výskumných cestách po krajinách V4 a na Ukrajine."
+    -
+      "Spoločná cesta rozpráva príbehy ľudí v zmiešaných komunitách, búra predsudky a zbližuje vo svete, v ktorom sa všetci bez rozdielu veľmi potrebujeme."
+  pictures:
+  link: "https://www.and-theatre.art/icebreaking-sk/"
+  foto: ""
+
+human-caravana-second:
+  performer: "<span style='font-size: x-large'>Ansámbel nepravidelného divadla&nbsp;(SK) +&nbsp;Teatr&nbsp;KTO&nbsp;(PL) + Firebirds&nbsp;(HU) +&nbsp;Prostores&nbsp;(CZ)</span>"
+  title: "HUMAN CARAVANA"
+  argentum: false
+  price: 0
+  general: "Program pre mladých a dospelých"
+  perex: "Druhá repríza výstupu z tvorivého workshopu o medziľudskom zbližovaní
+v podaní medzinárodného tímu tvorcov projektu ICEBREAKING (V4+UA)"
+  occurences:
+
+    - time: "nedeľa 15:00"
+      location: "Oddychový areál pri Kolpingovom dome,
+    Štiavnické Bane"
+  content:
+    -
+      "Štyri divadlá, lídrované Ansámblom nepravidelného divadla, vytvoria počas 2 dní intenzívneho tvorivého workshopu spoločný medzinárodný zárodok budúcej pouličnej inscenácie zameranej na zbližovanie miestnych občanov V4 s odídencami z Ukrajiny."
+    -
+      "Putovný pouličný happening od Starého Zámku do Skautského domu vznikne na základe autentických materiálov zozbieraných na 4 výskumných cestách po krajinách V4 a na Ukrajine."
+    -
+      "Spoločná cesta rozpráva príbehy ľudí v zmiešaných komunitách, búra predsudky a zbližuje vo svete, v ktorom sa všetci bez rozdielu veľmi potrebujeme."
+  pictures:
+#    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (05).jpg"
+#    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (21).jpg"
+#    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (22).jpg"
+#    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (29).jpg"
+#    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (36).jpg"
+#    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (40).jpg"
+#    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (41).jpg"
+#    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (42).jpg"
+#    - "Teatr KTO_PL_09_Arcadia_foto Wacêaw Pyzik.jpg"
+#    - "Teatr KTO_PL_10_Arcadia_foto Wacêaw Pyzik.jpg"
+#    - "Teatr KTO_PL_42_Arcadia_foto Wacêaw Pyzik.jpg"
+#    - "Teatr KTO_PL_50_Arcadia_foto Wacêaw Pyzik.jpg"
+#    - "Teatr KTO_PL_82_Arcadia_foto Wacêaw Pyzik.jpg"
+#    - "Firebirds_FF_01.jpg"
+#    - "Firebirds_FF_02.jpg"
+#    - "Firebirds_FF_06.jpg"
+#    - "Firebirds_FF_09.jpg"
+#    - "Firebirds_FF_10.jpg"
+#    - "Firebirds_FF_11.jpg"
+#    - "FIREBIRDS_freak_csopi2.jpg"
+  link: "https://www.and-theatre.art/icebreaking-sk/"
+  foto: ""
+
+
+no-soft-no-fun:
+  performer: "D´sensitive dženerejšn &&nbsp;Marcela Cmorejová&nbsp;(SK)"
+  title: "NO SOFT, NO FUN"
+  argentum: false
+  general: "Program pre mladých a dospelých"
+  perex: "Moderné umelecké prednesy mladých osobností na tému (ne)citlivosť s hudobným performance Marcely Cmorejovej"
+  occurences:
+    -
+      time: "sobota 13:00"
+      location: "Botanická záhrada"
+  content:
+    -
+      "Mladí interpreti a ich autentické výpovede textov svetovej i slovenskej poézie a prózy, tentokrát obohatené o vstupy multihudobníčky a performerky Marcely Cmorejovej."
+    -
+      "Budeme putovať pokojným, voňavým a vzácnym prostredím botanickej záhrady, v ktorej zaznie starostlivo vypestovaný výber silných výpovedí o (ne)citlivosti s cieľom scitlivieť, priblížiť sa bližšie rastlinám, zvieratám i ľuďom, nájsť znovu korene našej ľudskosti. Aj o tom bude každoročne iný a špeciálne vymyslený program kvalitnej literatúry, ktorý vás opäť vyvedie z predsudkov o konvenčnom recitovaní. Neváhajte, tento program sa už nikdy opakovať nebude!"
+    -
+      "<i>Čakajú vás výnimočné predlohy súčasných autorov ako Jon Fosse, Bernard Schlink, Karol D. Horváth, či klasikov ako Jacques Prévert, Jan Werich a Jonathan Swift. Účinkujú: Klára Dobšovičová, Barbora Ježová, Andrej Rácz, Elena Slížiková, Denis Šatan a Roman Thor Vítek.</i>"
+  pictures:
+   - "NO SOFT NO FUN_Andrej_Racz.jpg"
+   - "NO SOFT NO FUN_Barbora_Jezova.jpg"
+   - "NO SOFT NO FUN_Denis_Satan.JPG"
+   - "NO SOFT NO FUN_Elena_Slizikova.jpg"
+   - "NO SOFT NO FUN_Klara_Dobsovicova.jpg"
+   - "NO SOFT NO FUN_Roman_Thor_Vitek.jpg"
+  link: "https://www.facebook.com/festivalamplion"
+  foto: "archív autorov"
