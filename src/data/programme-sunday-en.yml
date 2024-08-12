@@ -1,44 +1,57 @@
--
-  time: "10:00 – 10:30"
-  performer: "Katanari & Ivana Mer (SK)"
-  age: Family
+- 
+  time: 10:00 – 10:30
+  performer: Paper Moon Trio (SK)
   argentum: true
-  title: "CABINET ALIVE!"
-  perex: "magical puppet cabaret, music-visual delicacy not only for children"
-  location: "The Scout House Garden"
-  price: "3 € / 5 €"
-  slug: katanari-ivana-mer-kosice-bb-2
-
--
-  time: "10:30 – 11:45"
-  performer: "AND + WE: MEDIA THEATER (SK+UA)"
-  age: "12+"
-  title: "ART PUTIKA II. - ICEBREAKING"
-  perex: "Premiere of a documentary on the rapprochement of local V4 residents
-with the UA refugees by the Ukrainian filmmakers followed by a discussion"
-  location: "Art Cafe, attic"
+  age: 12+
+  title: AFTER CONCERT
+  perex: "female jazz trio plays and sings vintage music of the 1920s − 1940s"
+  location: Trotuár Cafe, A. Kmeť&nbsp;St.
   price: 0
-  slug: and-banska-stiavnica-we-media-theater-lviv
+  slug: paper-moon-trio-after-koncert
 
--
-  time: "11:00 – 11:45"
-  performer: "Katanari (SK)"
-  age: Family
-  argentum: true
-  title: "JOURNEY"
-  perex: "audio-visual experience of a box theatre for one spectator (lambe-lambe)"
-  location: Art Cafe, terrace
-  price: BUSKING
-  slug: katanari-kosice
-
--
-  time: "12:00 – 12:30"
-  performer: "MiraMundo (ES)"
-  age: "12+"
-  argentum: true
+- 
+  time: 11:00 – 11:30
+  performer: "WE: MEDIA THEATER (UA)"
   premiere: true
-  title: "FAREWELL CONCERT"
-  perex: "Amplion Argentum Award winners announcement"
-  location: "Art Cafe, terrace"
-  price: BUSKING
-  slug: miramundo-barcelona
+  age: 12+
+  title: CHIEF OF THE CIRCUS
+  perex: "Documentary about the fate of a circus principal Ilya Borsuk, which inspired the creation of the international music and movement street show CIRCUS CARAVANA (V4+UA)."
+  location: Art Cafe, attic
+  price: 0
+  slug: we-media-theater-sef-cirkusu
+
+- 
+  time: 12:00 – 13:00
+  performer: AND & Der Šenster Gob (EU)
+  premiere: false
+  age: 12+
+  title: AFTER CONCERT
+  perex: "AFTER CONCERT + Amplion Argentum Award winner announcement"
+  location: Art Cafe, terasa
+  price: 0
+  slug: and-der-senster-gob-after-koncert
+
+- 
+  time: 14:00 – 15:00
+  performer: D´dištanc dženerejšn & Paper&nbsp;Moon&nbsp;Trio&nbsp;(SK)
+  premiere: false
+  age: 12+
+  title: NO CLOSE, NO FUN
+  perex: "modern art recitals about how to bring us closer and swing music"
+  location: Scout House Garden, A.&nbsp;Pécha&nbsp;St.
+  price: 7 €
+  slug: ddistance-generation-no-close-no-fun
+
+- 
+  time: 16:00 – 18:00
+  performer: Theatre Na zábradlí (CZ)
+  premiere: true
+  argentum: true
+  headliner: true
+  age: 15+
+  title: EUROPEANA
+  perex: "a brief history of the European 20 th century told with insight, humor and poignant
+irony in an informal and mesmerizing way by one of the most legendary Prague theatres."
+  location: Cultural Centre, Main Hall
+  price: Pre-sale 15 €, on-site 18 €
+  slug: divadlo-na-zabradli-europeana

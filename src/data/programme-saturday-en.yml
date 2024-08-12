@@ -1,135 +1,108 @@
--
-  time: "10:00 – 10:30"
-  performer: "MiraMundo (ES)"
-  title: "PROMO"
-  age: "12+"
-  argentum: true
-  premiere: true
-  perex: "energetic band from Barcelona playing unique world music"
-  location: "Trotuár Cafe"
-  price: BUSKING
-  slug: miramundo-barcelona
+- 
+  time: 11:00 – 12:30
+  performer: AND + Guests &amp; Adam Blaško &amp; Sabor-Life is Rhythm (SK+CZ+ES)
+  top-general: Only at AMPLIFIER
+  premiere: false
+  age: 15+
+  title: SKETCH UP
+  perex: "6<sup>th</sup> edition of the annual Czech-Slovak competition of cabaret sketches
+performed by new talents"
+  location: Cube, Kammerhofská 6 St.
+  price: Pre-sale 8 €, on-site 10 €
+  slug: and-adam-blasko-sketch-up
 
--
-  time: "11:00 – 11:40"
-  performer: "Circo Teatro NiMú (ES)"
+- 
+  time: 14:00 – 14:55
+  performer: Falangir Theatre (SK)
+  general: Winner of SKETCH UP 2023
+  premiere: false
+  age: 12+
+  title: IT’S GETTING DARK
+  perex: "re-generational testimony of young theatre artists about burnout that will get you started again"
+  location: Cultural Centre, Main Hall
+  price: 7 €
+  slug: divadlo-falangir-stmieva-sa
+
+- 
+  time: 15:30 – 16:45
+  performer: Icebreaking Consortium (V4+UA)
+  premiere: true
   age: Family
+  title: CIRCUS CARAVANA
+  perex: "attractive international street theatre about bringing us closer together"
+  location: Area near the Secondary School of Services and Foresty, Koplašská 9&nbsp;St.
+  price: "Voluntary Admission"
+  slug: konzorcium-icebreaking-circus-caravana
+
+- 
+  time: 16:30 – 16:50
+  performer: Der Šenster Gob (EU)
+  premiere: false
   argentum: true
+  age: 12+
+  title: PROMO
+  perex: "invitation to the concert of a klezmer world music group"
+  location: Trotuár Cafe, A. Kmeť&nbsp;St.
+  price: 0
+  slug: der-senster-gob-promo
+
+- 
+  time: 17:00 – 18:30
+  performer: Jana Močková (SK)
+  premiere: false
+  argentum: false
+  age: 12+
+  title: ART PUTIKA II. – CLOSER TOGETHER?
+  perex: "Discussion and author‘s reading from a book about how to reconnect with yourself and others.
+Guest: Ján Markoš (author) – critical thinking lecturer. Moderated by editor Jana Močková."
+  location: Art Cafe, attic
+  price: 7 €
+  slug: art-putika-ii-blizsie-k-sebe
+
+- 
+  time: 18:00 – 19:00
+  performer: Sabor-Life is Rhythm (ES, MX, FR, DE)
   premiere: true
-  title: "JACUZZI"
-  perex: "Comical and poetic rope circus performance for all"
-  location: "The Scout House Garden"
-  price: "4 € / 8 €"
-  slug: circo-teatro-nimu-bilbao
-
--
-  time: "13:00 – 14:00"
-  performer: "D ́sensitive dženerejšn &&nbsp;Marcela&nbsp;Cmorejová (SK)"
-  age: "12+"
-  title: "NO SOFT, NO FUN"
-  perex: "modern recitations by young artists on the theme of (in)sensitivity"
-  location: "Botanical Garden"
-  price: "8 €"
-  slug: no-soft-no-fun
-
--
-  time: "14:00 – 14:20"
-  performer: "BON BON trio (SK)"
-  age: "12+"
-  title: "PROMO"
-  perex: "Parisian chansons and world hits by Cmorejová, Humeňanská, Baarová trio"
-  location: "Botanical Garden 🠒 Trotuár&nbsp;Cafe"
-  price: BUSKING
-  slug: bon-bon-trio-bratislava
-
--
-  time: "15:00 – 15:40"
-  performer: "Circo Teatro NiMú (ES)"
-  age: Family
   argentum: true
+  age: 12+
+  title: TASTE OF LIFE IS IN THE RYTHM
+  perex: "joyful and refreshing new cabaret full of music, tap dance and energy"
+  location: Cube, Kammerhofská 6&nbsp;St.
+  price: Pre-sale 10 €, on-site 12 €
+  slug: sabor-life-is-rhythm-chut-zivota
+
+- 
+  time: 19:00 – 20:00
+  performer: Paper Moon Trio (SK)
+  premiere: false
+  age: 12+
+  title: CONCERT
+  perex: "female jazz trio plays and sings vintage music of the 1920s − 1940s"
+  location: Art Cafe, garden
+  price: 9 €
+  slug: paper-moon-trio-koncert
+
+- 
+  time: 20:30 – 21:40
+  performer: Ennio Marchetto (IT)
+  headliner: true
   premiere: true
-  title: "JACUZZI"
-  perex: "poetic rope circus performance for all"
-  location: "The Scout House Garden"
-  price: "4 € / 8 €"
-  slug: circo-teatro-nimu-bilbao-2
-
--
-  time: "16:00 – 17:30"
-  performer: "AND + guests &&nbsp;BON BON trio (SK+CZ)"
-  general: "Only at AMPLIFIER!"
-  age: "15+"
-  title: "SKETCH UP"
-  perex: "5th year of the successful Czech-Slovak cabaret sketch competition full of new talents! Moderated by actor Martin Toman. Parisian chansons and world hits performed by the trio Cmorejová, Humeňanská, Baarová."
-  location: "Cube"
-  price: "Pre-sale 8 €, On-sale 10 €"
-  slug: and-hostia-bonbon-trio
-
--
-  time: "16:30 – 17:45"
-  performer: "Patrik Garaj (SK)"
-  age: "15+"
   argentum: true
-  title: "ART PUTIKA I.- LAUGHTER THROUGH TEARS"
-  perex: "Discussion on attitudes towards Russian and Ukrainian literature today + reading from the
-work of Ukrainian author J. Andrukhovych, guest: translator Valerij Kupka."
-  location: "Art Cafe, attic"
-  price: "7 €"
-  slug: patrik-garaj-bratislava
+  age: 12+
+  title: LIVING PAPER CARTOON
+  perex: "one-man cabaret with world stars like you&#39;ve never seen before!"
+  location: Cultural Centre, Main Hall
+  price: Pre-sale 19 €, on-site 22 €
+  slug: ennio-marchetto
 
--
-  time: "17:00 – 17:30"
-  performer: "Katanari & Ivana Mer (SK)"
-  age: Family
+- 
+  time: 22:00 – 23:15
+  performer: Der Šenster Gob (EU)
+  premiere: false
   argentum: true
-  title: "CABINET ALIVE!"
-  perex: "magical puppet cabaret, music-visual delicacy not only for children"
-  location: "The Scout House Garden"
-  price: "3 € / 5 €"
-  slug: katanari-ivana-mer-kosice-bb
-
--
-  time: "18:00 – 19:00"
-  performer: "Teatr KTO (PL)"
-  age: "15+"
-  argentum: true
-  title: "ARCADIA"
-  perex: "Exceptional theatre with great singing, dancing, and acting performances,
-a balm for the soul!"
-  location: "Cultural Center, The Main Hall"
-  price: "Pre-sale 13 €, On-sale 15 €"
-  slug: teatr-kto-krakow
-
--
-  time: "19:00 – 20:15"
-  performer: "BON BON trio (SK)"
-  age: "12+"
-  title: "CONCERT"
-  perex: "Parisian chansons and world hits by Cmorejová, Humeňanská, Baarová trio"
-  location: "Art Cafe, attic"
-  price: "9 €"
-  slug: bon-bon-trio-bratislava
-
--
-  time: "20:30 – 21:45"
-  performer: "Firebirds (HU)"
-  age: Family
-  argentum: true
-  premiere: true
-  title: "FREAK FUSION CONFUSION"
-  perex: "amazing circus cabaret full of acrobatics, burlesque and humour"
-  location: "Amphitheater"
-  price: "Pre-sale 8 € / 10 €, On-sale 10 € / 12 €"
-  slug: firebirds-budapest
-
--
-  time: "22:00 – 23:15"
-  performer: "MiraMundo (ES)"
-  age: "15+"
-  argentum: true
-  premiere: true
-  title: "CONCERT"
-  perex: "energetic band from Barcelona playing unique world music to dance"
-  location: "Cube"
-  price: "10 €"
-  slug: miramundo-barcelona
+  age: 15+
+  title: KONCERT
+  perex: "klezmer band with elements of gypsy, jazz and Balkan music in an energetic way"
+  location: Art Cafe, attic
+  price: Pre-sale 10 €, on-site 12 €
+  slug: der-senster-gob-koncert

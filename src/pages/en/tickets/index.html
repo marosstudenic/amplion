@@ -2,64 +2,49 @@
 layout: english
 # list of paid events as we want to list them in order
 paid-events:
-#friday
-  -
-    pev-title: monika-todova-bratislava
+  #friday
+  - pev-title: monika-todova-bratislava
     pev-occurence: 0
 
-  -
-    pev-title: ansambel-nepravidelneho-divadla
+  - pev-title: ansambel-nepravidelneho-divadla
     pev-occurence: 0
-  -
-    pev-title: krvik-totr-praha
+  - pev-title: krvik-totr-praha
     pev-occurence: 0
 
-
-#saturday
-  -
-    pev-title: circo-teatro-nimu-bilbao
+  #saturday
+  - pev-title: circo-teatro-nimu-bilbao
     pev-occurence: 0
-  -
-    pev-title: no-soft-no-fun
+  - pev-title: no-soft-no-fun
     pev-occurence: 0
 
-  -
-    pev-title: circo-teatro-nimu-bilbao-2
+  - pev-title: circo-teatro-nimu-bilbao-2
     pev-occurence: 0
 
-  -
-    pev-title: and-hostia-bonbon-trio
+  - pev-title: and-hostia-bonbon-trio
     pev-occurence: 0
 
-  -
-    pev-title: patrik-garaj-bratislava
+  - pev-title: patrik-garaj-bratislava
     pev-occurence: 0
 
-  -
-    pev-title: katanari-ivana-mer-kosice-bb
+  - pev-title: katanari-ivana-mer-kosice-bb
     pev-occurence: 0
 
-  -
-    pev-title: teatr-kto-krakow
+  - pev-title: teatr-kto-krakow
     pev-occurence: 0
 
-  -
-    pev-title: bon-bon-trio-bratislava
+  - pev-title: bon-bon-trio-bratislava
     pev-occurence: 0
-  -
-    pev-title: firebirds-budapest
+  - pev-title: firebirds-budapest
     pev-occurence: 0
 
-  -
-    pev-title: miramundo-barcelona
+  - pev-title: miramundo-barcelona
     pev-occurence: 0
 
-#sunday
-  -
-    pev-title: katanari-ivana-mer-kosice-bb-2
+  #sunday
+  - pev-title: katanari-ivana-mer-kosice-bb-2
     pev-occurence: 0
-
 ---
+
 <section class="section section--plain section--straight section--top">
   <div class="section__inner">
     <img
@@ -99,8 +84,8 @@ paid-events:
         {{!-- go through events one by one, for readability sake use |event|
         instead {{this}} --}} {{#each paid-events as |event|}} {{!-- use nested
         lookup - because the data source is nested as well first find the event
-        by slug in annotations.yml output info that is common for the event then
-        look for particular occurence pull data from there - time use it's
+        by slug in annotations-en.yml output info that is common for the event
+        then look for particular occurence pull data from there - time use it's
         context (#with) to show tootoot iframe {{@index}} --}}
 
         <li class="ticketslist__item">

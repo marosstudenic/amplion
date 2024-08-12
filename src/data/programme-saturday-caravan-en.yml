@@ -1,19 +1,21 @@
--
-  time: "13:30 – 14:15"
-  performer: "MiraMundo (ES)"
-  age: "12+"
-  title: "PROMO"
-  perex: "energetic band from Barcelona playing unique world music"
-  location: "U Blaškov Terrace, Počúvadlianske jazero"
-  price: 0
-  slug: miramundo-barcelona
-
--
-  time: "14:30 – 15:00"
-  performer: "ICEBREAKING (V4+UA)"
+- 
+  time: 14:15 – 15:00
+  performer: Tomáš & Markéta (SK+CZ)
+  premiere: false
   age: Family
-  title: "HUMAN CARAVANA"
-  perex: "social-inclusive (pilot) theatre about rapprochement & solidarity"
-  location: "KTC Hájovňa, Červená studňa"
+  title: KONCERT
+  perex: "original songs by a Czech-Slovak duo from Moravia"
+  location: Terrace at Blaškov, Počúvadlo Lake
   price: 0
-  slug: human-caravana
+  slug: tomas-marketa-koncert
+
+- 
+  time: 15:30 – 16:45
+  performer: Icebreaking Consortium (V4+UA)
+  premiere: true
+  age: Family
+  title: CIRCUS CARAVANA
+  perex: "attractive international street theatre about bringing us closer together"
+  location: Area near the Secondary School of Services and Foresty, Koplašská 9 St.
+  price: "Voluntary Admission"
+  slug: konzorcium-icebreaking-circus-caravana

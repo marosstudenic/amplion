@@ -1,95 +1,68 @@
--
-  time: "16:00 – 16:30"
-  title: "OPENING CEREMONY"
+- 
+  time: 16:00 – 16:30
+  title: OPENING CEREMONY
   age: Family
-  perex: "Come and open the 8th edition of the festival with the slogan: <b>Being sensitive is an art!</b>"
-  location: "Holy Trinity Square"
+  perex: "Opening of the 9th edition of the AMPLIFIER Festival with the motto:
+“Bringing Us Closer is an Art!”, anthem + promo: All in Circus (HU), Tygroo (CZ),
+Sabor-Life in Rhythm (ES)"
+  location: Holy Trinity Square
   price: 0
   slug: otvorenie-festivalu
--
-  time: "16:30 – 16:45"
-  performer: "Orkest de Tegenwind (NL)"
+
+- 
+  time: 17:00 – 17:35
+  performer: All in Circus (HU)
   premiere: true
   age: Family
-  title: "MARCHING BAND"
-  perex: "street brass band from Netherlands"
-  location: "Holy Trinity Square 🠒 Old&nbsp;Castle"
-  price: BUSKING
-  slug: orkest-de-tegenwind-utrecht-busking
+  title: ALL IN TWO
+  perex: "Entertaining street circus by two amazing jugglers, clowns and acrobats"
+  location: Scout House Garden, A.&nbsp;Pécha&nbsp;St.
+  price: 4 / 7 €
+  slug: all-in-circus
 
--
-  time: "17:00 – 17:45"
-  performer: "ICEBREAKING (V4+UA)"
-  premiere: true
-  age: "12+"
-  title: "HUMAN CARAVANA"
-  perex: "social-inclusive (pilot) theatre about rapprochment & solidarity"
-  location: "Old Castle 🠒 Scout House Garden"
-  price: 0
-  slug: human-caravana-premiere
-
--
-  time: "17:15 – 17:45"
-  performer: "Orkest de Tegenwind (NL)"
-  premiere: true
-  age: Family
-  title: "MARCHING BAND"
-  perex: "street brass band from Netherlands"
-  location: "Under the Church of St. Catherine → Trotuár Cafe → Art Cafe"
-  price: BUSKING
-  slug: orkest-de-tegenwind-utrecht-busking
-
--
-  time: "18:00 – 18:45"
-  performer: "Orkest de Tegenwind (NL)"
-  premiere: true
-  age: Family
-  title: "CONCERT"
-  perex: "street brass band from Netherlands"
-  location: "Art Cafe, terrace"
-  price: BUSKING
-  slug: orkest-de-tegenwind-utrecht
-
--
-  time: "19:00 – 20:15"
-  performer: "Monika Tódová, Denník N (SK)"
-  age: "15+"
+- 
+  time: 18:00 – 19:30
+  performer: Jana Močková, Denník N (SK)
+  premiere: false
   argentum: true
-  title: "HOW TO SAVE DEMOCRACY"
-  perex: "Guests: Marián Leško, Martin Šimečka, Matúš Kostolný<br>Discussion on the current development of our country, with and without humour."
-  location: "Cultural Center, The Main Hall"
-  price: "10 €"
-  slug: monika-todova-bratislava
+  age: 12+
+  title: ART PUTIKA I. – POST-SETTLERS?
+  perex: "Discussion and reading from the successful book Post-Settlers: Slovak People’s Protest Guest: Juraj Buzalka (author). Moderated by editor Jana Močková."
+  location: Art Cafe, attic
+  price: 7 €
+  slug: art-putika-i-postsedliaci
 
--
-  time: "19:30 – 20:00"
-  performer: "MiraMundo (ES)"
+- 
+  time: 20:00 – 22:00
+  performer: Denník SME (SK)
+  premiere: false
   argentum: true
-  premiere: true
-  age: "15+"
-  title: "PROMO"
-  perex: "energetic band from Barcelona playing unique world music"
-  location: "Trotuár Cafe"
-  price: BUSKING
-  slug: miramundo-barcelona
--
-  time: "21:00 – 22:15"
-  performer: "Ensemble of Irregular Theatre&nbsp;(SK)"
-  age: "15+"
-  title: "GODLIKE – bar cabaret noir"
-  perex: "powerful stories, captivating music and dancing in stylish company"
-  location: "Hotel Grand Matej"
-  price: "Pre-sale 10 €, On-sale 12 €"
-  slug: ansambel-nepravidelneho-divadla
+  age: 15+
+  title: BIZARRE POLITICAL QUIZ − PIATOČEK
+  perex: "The creators of a well-known and successful satirical podcast Piatoček have news! Discover their new quiz and new industry pub in Banská Štiavnica."
+  location: Pražovňa − industry pub, 1<sup>st</sup>&nbsp;floor
+  price: 10 €
+  slug: dennik-sme-piatocek
 
--
-  time: "22:30 – 24:00"
-  performer: "Krvik Totr &amp; kapela Filtr (CZ)"
+- 
+  time: 20:30 – 21:40
+  performer: Geisslers Hofcomoedianten (CZ)
+  premiere: true
+  age: 15+
+  title: IN THE BLUEBERRY BUSHES
+  perex: "erotic tickling or a spicy comedy theatre with live music"
+  location: Cultural Centre, Main Hall
+  price: Pre-sale 10 €, on-site 12 €
+  slug: geisslers-hofcomoedianten-v-boruvci
+
+- 
+  time: 22:30 – 23:45
+  performer: Tygroo (CZ)
   premiere: true
   argentum: true
-  age: "15+"
-  title: "OUT OF HOLLOWNESS 5 (Ema&nbsp;will&nbsp;be&nbsp;disappointed)"
-  perex: "entertaining literary cabaret with songs + after concert by band Filtr"
-  location: "Art Cafe, attic"
-  price: "9 €"
-  slug: krvik-totr-praha
+  age: 15+
+  title: CONCERT
+  perex: "electronic, jazz and rap music with a Balkan flavor, all mixed into a crazy dance"
+  location: Cube, Kammerhofská 6&nbsp;St.
+  price: Pre-sale 10 €, on-site 12 €
+  slug: tygroo-koncert

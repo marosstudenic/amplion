@@ -1,728 +1,523 @@
-otvorenie-festivalu:
-  title: OPENING OF THE FESTIVAL
-  perex: "Come and open the 8th edition of the festival with the slogan: <b>Being sensitive is an art!</b>"
-  price: 0
-  content:
-    -
-      "Come and open the 8th edition of the festival with the slogan: <b>Being sensitive is an art! </b>
-       You can look forward to an anthem + promo of great artists: Firebirds (HU), MiraMundo
-       (ES), niMú (ES) + ICEBREAKING (V4 +UA)"
-  occurences:
-    -
-      time: "Friday 17:00"
-      location: "Old Castle 🠒 Scout House Garden"
 
-
-  pictures:
-    - "amplion22_otvorenie_festivalu_MS_015.jpg"
-    - "amplion22_otvorenie_festivalu_MS_021.jpg"
-    - "amplion22_otvorenie_festivalu_MS_029.jpg"
-    - "amplion22_otvorenie_festivalu_MS_033.jpg"
-    - "amplion22_otvorenie_festivalu_MS_038.jpg"
-    - "amplion22_otvorenie_festivalu_MS_046.jpg"
-    - "amplion22_otvorenie_festivalu_MS_055.jpg"
-
-teatr-kto-krakow:
-  performer: 'Teatr KTO, Krakow (PL) <br> <strong style="color:#362982;font-size:0.8em;"> Festival Headliner </strong>'
-  title: "ARCADIA"
-  argentum: true
-  general: "TOP program for adults"
-  perex: "Exceptional theatre with great singing, dancing, and acting performances,
-a balm for the soul!"
-  occurences:
-    -
-      time: "Saturday 18:00"
-      location: "Cultural Center"
-  content:
-    -
-      "ARCADIA is a magical land. It brings the universal story of human life from birth to death. It
-depicts everything that makes up the earthly journey of man, the most beautiful and the most
-cruel, the comic and the tragic. A great love, a wedding, a new life and its end. From the first to
-the last scene of this unique theatrical performance without words, the viewer will be
-accompanied by an irresistible feeling of longing for life, for the world, for art. You will see a
-wise, moving and intense show that will take you out of the traditional perception of theatre. In
-fact, you will experience something extraordinary! A sensitive poem about the state of our
-civilisation, full of boundless imagination and creativity, from the acclaimed director Jerzy Zoń."
-    - 
-      "<i><b>Teatr KTO</b> (*1977) is one of the most respected professional Polish theatres with a long tradition
-of street productions and open-air theatre. The company has visited more than 250 cities in over
-40 countries on 5 continents. It has performed in Brazil, Canada, China, Colombia, Costa Rica,
-Iran, Mexico, South Korea, Tunisia, USA and almost all countries in Europe.</i>"
-  pictures:
-    - "Teatr KTO_PL_10_Arcadia_foto Wacêaw Pyzik.jpg"
-    - "Teatr KTO_PL_42_Arcadia_foto Wacêaw Pyzik.jpg"
-    - "Teatr KTO_PL_50_Arcadia_foto Wacêaw Pyzik.jpg"
-    - "Teatr KTO_PL_82_Arcadia_foto Wacêaw Pyzik.jpg"
-    - "Teatr KTO_PL_09_Arcadia_foto Wacêaw Pyzik.jpg"
-  link: "https://www.teatrkto.pl"
-  photo: "Robert Siwek"
-
-krvik-totr-praha:
-  performer: "Krvik Totr & Filtr Band, Prague (CZ)"
-  title: "OUT&nbsp;OF HOLLOWNESS&nbsp;5 <br>(Ema&nbsp;will&nbsp;be disappointed)"
+ennio-marchetto:
+  performer: 'Ennio Machetto (IT) <br> <strong style="color:#362982;font-size:0.8em;"> FESTIVAL HEADLINER</strong>'
+  title: "LIVING PAPER CARTOON"
   argentum: true
   premiere: true
-  general: "Program for young and adults"
-  perex: "Capricious literary cabaret with original songs, followed by a concert of the band Filtr"
+  general: "Only at Amplifier"
+  top-general: "TOP programme for all"
+
+  perex: "A one-man cabaret show with world stars like you&#39;ve never seen before!"
   occurences:
     -
-      time: "Friday 22:30"
-      location: "Art Cafe, attic"
+      time: "saturday 20:30"
+      location: "Culture Centre"
   content:
     -
-      "The new original cabaret by the recessionist group Krvik Totr is a stage play with songs. Absolute
-humour. Is it Friday, Monday or Thursday today? Who’s got the key to Wendy&#39;s mailbox? What is
-the correct way to enter the Orthodox church? Can everyone be called Teresa? Who is the
-sponsor of the Eastern Slovak US Steel? And will Ema be disappointed? Age recommendation:
-12+3×24-69:17. And watch out for the bonus! After the show, you will also experience a concert
-by the Filtr / Krvik Totr band that sings the chords, plays the words and you will love it. A band
-that even Ema can’t be disappointed of. Or can she?! This is Krvik Totr or your great
-entertainment for Friday night."
+      "This revolutionary cabaret show offers an entertaining magical parade of 60 world celebrities in 70 minutes! Ennio parodies the world&#39;s biggest icons using the art of origami and lightning changes. He uses handmade paper costumes, detailed facial expressions, exquisite music and timing to turn into more and more stars from the world of music, film and famous paintings in a split second. Mona Lisa, Elvis, Lady Gaga, Adele, Freddie Mercury, Justin Bieber, Bono, Celine Dion, Marilyn Monroe, the Queen of England or James Bond! No celebrity is safe around him! An unique experience for all ages!"
+    - 
+      "<i><b>Ennio Marchetto</b> is a famous Italian performer who delights audiences around the world. Inspired by Disney fairy tales, the modern choreography of Pina Bausch and the spectacular Carnival of Venice, he became a superstar after performing at the Edinburgh Fringe Festival in 1990. What followed were sold out UK tours, performances in London&#39;s West End and the world&#39;s biggest festivals. His talents earned him a nomination for the Laurence Olivier Award for Best Entertainment. He toured with Spice Girls, Brian Adams, performed at the MTV European Music Awards and even for the King, and is followed by a huge international fan base. Join them too!</i>"
     -
-      "<i><b>Krvik Totr</b> was founded by Petr Jediný Novotný and Tomáš Kout in Prague in 1992 as a platform
-on which their absolute humour would not be limited (first by parents and teachers, later by
-professors and wives, and finally by their own children). They still go on to this very day, to the
-delight of their more intellectual audience. From their original &quot;radio&quot; dialogues and short stories,
-they moved on to authorial theatre. They have written and performed several plays and cabarets,
-a bunch of songs and countless sketches. It is fair to say this is, undoubtedly, an authentic and
-original amateur theatre, with all the positive risks that go with it.</i>"
+      "<strong>★★★★</strong> <i>&quot;It&#39;s an absolute hoot...irrepressible&quot;.</i>. The New York Times"
+    -
+      "<strong>★★★★★</strong> <i>&quot;A sustained hour of heaven by an entertainer touched by genius...this is performance at its crazy, creative unfettered best.&quot;</i> Time&nbsp;Out"
   pictures:
-    - "KRVIK TOTR_Praha_maj 2023_JF_02.jpg"
-    - "KRVIK TOTR_Praha_maj 2023_JF_25.jpg"
-    - "KRVIK TOTR_Praha_maj 2023_JF_07.jpg"
-    - "KRVIK TOTR_Praha_Z vytracena .jpg"
-  link: "https://www.krviktotr.cz"
-  photo: "Krvik Totr Archive / Michal Svítok"
+    - Ennio_Marchetto_poster_1.jpg
+    - Ennio_Marchetto_IT_Dolly.jpg
+    - Ennio_Marchetto_IT_Elvis.jpg
+    - Ennio_Marchetto_IT_Marilyn.jpg
+    - Ennio_Marchetto_poster_3.jpg
 
-ansambel-nepravidelneho-divadla:
-  performer: "Ensemble of Irregular Theater, Banská Štiavnica&nbsp;(SK)"
-  title: "GODLIKE (bar&nbsp;cabaret&nbsp;noir)"
-  general: "Program for young and adults"
-  perex: "Strong stories, captivating music by Róbert Mankovecký and lyrics by Vlado Janček, expressive dancing
-by Laco Cmorej &amp; dark humour in a bar company of great actors, this is the stylish new bar cabaret noir
-from the creators of AMPLIFIER!"
+    - Ennio_Marchetto_IT_show_3.jpg
+    - Ennio_Marchetto_portrait civil.jpg
+    - Ennio_Marchetto_portrait face.jpg
+  link: "https://enniomarchetto.com/"
+  foto: "archive&nbsp;Ennia Marchetta"
+
+
+divadlo-na-zabradli-europeana:
+  performer: 'Theatre Na zabradlí  (CZ) <br> <strong style="color:#362982;font-size:0.8em;"> FESTIVAL HEADLINER </strong>'
+  title: "EUROPEANA"
+  argentum: true
+  premiere: true
+  top-general: "TOP programme for the young and adults"
+  perex: "A brief history of the European twentieth century told with insight, humor and poignant irony in an informal and mesmerizing way by one of the most legendary Prague theatres. An extraordinary cast of theatre personalities performing for the first time in Banska Stiavnica."
   occurences:
     -
-      time: "Friday 21:00"
-      location: "Grand Matej Hotel"
+      time: "sunday 16:00"
+      location: "Culture Centre"
   content:
     -
-      "Accept the invitation to the Olymp! Sit back, enjoy a glass of bubbly and our bar crew will take care of
-you. Can a man afford everything? Is he the master of life and death? Are we equal to God? A bar cabaret
-noir about those who feel more like God and those who are truly like Him. The threats brought about by
-the pandemic and the subsequent horrors of war were only acknowledged by the developed world as
-something to be seen in horror movies or in the third world countries. We were living in a Godlike
-manner, so to speak. These unique times have shown that the theme of Godliness is eminently relevant.
-The Godlike as the untouchable rulers of life and death and, conversely, the Godlike as in solidarity with
-all people without distinction, i.e. God-like. Which will prevail? Humility or Godliness? A cabaret show for
-audiences aged 15 and over."
+      "No more boring history! Here is a dramatisation of <i>Patrik Ouředník&#39;s</i> internationally successful book and his gripping and bizarre account of the world in the20th century. A world in which war, invention of the bra and perforated toilet paper all played an important role. Banalities and pivotal moments are given equal space here, and the result is a new perspective on our past. The twentieth century as in the palm of your hand. Directed by Jan Mikulášek, the cast includes Dita Kaplanová, Anežka Kubátová, Magdaléna Sidonová, Jan Hájek, Václav Vašák, Jiří Kniha, Miloslav König, Jiří Vyorálek. The performance will be followed by a discussion with the actors moderated by journalist <i>Eva Sládková</i>."
     -
-      "<i><b>The Ensemble of Irregular Theater</b> (AND), based in Banská Štiavnica, is an independent group of
-theatre makers and friends of contemporary art of a similar humanistic mindset and worldview. It
-was formed by the generational and programme transformation of the Kremnica Underground
-Theatre (2012-2017), which founded the Kremnica Gags Festival of Humour and Satire in 1981
-and had organized it for 25 years. AND is dedicated to the search for new forms of modern
-cabaret, street and engaged productions. In 2016, it founded the international AMPLIFIER Festival
-− New Cabaret &amp; Street Art in Banská Štiavnica. Its members were co-creators of the project City
-of Culture Banská Štiavnica 2019.</i>"
+      "<i>Dramaturgy of <b>Theatre Na zabradlí </b>is following the path of original authorial theatre, dramatisations of novels and radical interpretations of classics. It brings fresh, often semi- documentary productions, that demand an engaged and open-minded audience, not afraid to think about the art it is being exposed to. The company regularly performs at home and abroad, frequently visiting Poland, Hungary, Slovakia, Germany, but has also performed in Bosnia and Herzegovina, Serbia, Colombia, and the USA. It will be Na zabradli’s first visit to Banská&nbsp;Štiavnica!</i>"
   pictures:
-    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (05).jpg"
-    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (21).jpg"
-    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (22).jpg"
-    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (29).jpg"
-    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (36).jpg"
-    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (40).jpg"
-    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (41).jpg"
-    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (42).jpg"
-  link: "https://www.and-theatre.art"
-  photo: "Michal Svítok"
+    - DnZ_CZ_Europeana_01_KIVA.jpg
+    - DnZ_CZ_Europeana_07_KIVA.jpg
+    - DnZ_CZ_Europeana_03_KIVA.jpg
+    - DnZ_CZ_Europeana_04_KIVA.jpg
+    - DnZ_CZ_Europeana_05_KIVA.jpg
+    - DnZ_CZ_Europeana_06_KIVA.jpg
+    - DnZ_CZ_Europeana_02_KIVA.jpg
+    - DnZ_CZ_Europeana_08_KIVA.jpg
+    - DnZ_CZ_Europeana_09_KIVA.jpg
+    - DnZ_CZ_Europeana_10_KIVA.jpg
+  link: "https://www.nazabradli.cz/"
+  foto: "KIVA"
 
-and-hostia-bonbon-trio:
-  performer: "AND & guests & BON&nbsp;BON&nbsp;trio&nbsp;(SK+CZ)"
+
+sabor-life-is-rhythm-chut-zivota:
+  performer: 'Sabor-Life is Rhythm (ES)'
+  title: "TASTE OF LIFE IS IN THE RHYTHM"
+  argentum: true
+  premiere: true
+  general: "Programme for the young and adults"
+  occurences:
+    -
+      time: "saturday 18:00"
+      location: "Cube"
+  perex: "A joyful and refreshing new cabaret full of music, tap dance and energy!"
+  content:
+    -
+      An international new-cabaret show that blends music, singing and dancing to perfection. You will experience a journey from the origins of tap dance to its most modern form. Five spirited performers, who dance and play the bass, saxophone, cajon, guitar and ukulele, will recharge your batteries and make you feel that taste of life in the rhythm!"
+    - 
+      "<i><b>Sabor-Life is Rhythm</b> is an artistic grouping of five performers from Mexico, Spain, France and Germany. In Barcelona, they founded a music-dance company with respect to the original tap dance. They’ve performed in different countries all around the world, where they bring a new zest and joy of life to their audiences. To you too!</i>"
+  pictures:
+    - "Sabor-life in Rhythm_ES_03.JPEG"
+    - "Sabor-life in Rhythm_ES_01.JPEG"
+    - "Sabor-life in Rhythm_ES_04.JPEG"
+  link: "https://www.instagram.com/saborlifeisrhythm/"
+  foto: "archive Sabor-Life is Rhythm"
+
+geisslers-hofcomoedianten-v-boruvci:
+  performer: 'Geisslers Hofcomoedianten&nbsp;(CZ)'
+  title: "IN THE BLUEBERRY BUSHES"
+  premiere: true
+  general: "Programme for the young and adults"
+  occurences:
+    -
+      time: "friday 20:30"
+      location: "Culture Centre"
+  perex: "Erotic tickling or a spicy comedy theatre with live music (and no words)"
+  content:
+    -
+      "Enjoy the capricious theatrical beauty! Love moves mountains, but passion does wonders to people. If you don&#39;t want to lose your heart, get out of the kitchen! A saucy comedy full of forest fruit and lovesick animals. Inspired by the play La Mirtilla (1588) written by the famous actress and writer Isabella Andreini. For ages 15 and up."
+    -
+      "<i><b>Geisslers Hofcomoedianten</b> is a Prague-based independent theatre company combining old traditions with live, contemporary theatre. With the focus on baroque inspiration, their devised theatre results as a mix of old and new, poetic and lowbrow, tragic and comic, drama, music, puppetry and dance for your fun. <strong>Let’s baROCK!</strong></i>"
+  pictures:
+    - Geisslers Hofcomoedianten_CZ_V boruvci_Marianna Boreck _6.jpg
+    - Geisslers Hofcomoedianten_CZ_V boruvci_Marianna Boreck _2.jpg
+    - Geisslers Hofcomoedianten_CZ_V boruvci_Marianna Boreck _3.jpg
+    - Geisslers Hofcomoedianten_CZ_V boruvci_Marianna Boreck _4.jpg
+    - Geisslers Hofcomoedianten_CZ_V boruvci_Marianna Boreck _5.jpg
+  link: "https://www.geisslers.cz/"
+  foto: "Marianna Borecká"
+
+divadlo-falangir-stmieva-sa:
+  performer: 'Divadlo Falangir (SK)'
+  title: "IT’S GETTING DARK"
+  argentum: false
+  general: "Programme for the young and adults"
+  top-general: "Winner of SKETCH UP 2023 2023 "
+  occurences:
+    -
+      time: "saturday 14:00"
+      location: "Culture Centre"
+  perex: "Re-generational testimony of young theatre artists about burnout that will get you started again"
+  content:
+    -
+      "Remember last year&#39;s SKETCH UP winners and their unbridled sketch full of satire and humour? This year, this new theatrical blood is coming back with a full-length play! The group produced a successful multi-genre theatre about the unofficial diagnosis Z 73.0 (burnout syndrome). The play uses masks, unconventional videos, drone footage or dances close to Kabuki. There is no lack of humour, absurdity and detachment. The performance, directed by Karol D. Horváth, became the absolute winner of the national adult theatre show Belopotocky Mikuláš, advancing to the Scenicka Zatva festival in Martin - the oldest festival of non-professional theatre in Europe."
+    -
+      "<i>In it’s five years of existence, the <b>FALANGIR Theatre</b>, has been a base for creative teams in the field of dramatic production for children, the young and adults without genre boundaries. It is a platform for artistic performances, podcasts, literary events, educational activities. The FALANGIR was founded in 2019 representing more than 60 actors between the ages of 5 and 75.</i>"
+  pictures:
+    - Falangir_Stmieva sa_Natalia Janosova_01.jpg
+    - Falangir_Stmieva sa_Natalia Janosova_06.jpg
+    - Falangir_Stmieva sa_Natalia Janosova_03.jpg
+    - Falangir_Stmieva sa_Natalia Janosova_02.jpg
+    - Falangir_Stmieva sa_Natalia Janosova_04.jpg
+  link: "https://www.facebook.com/profile.php?id=100038756897060"
+  foto: "Natália Jánošová"
+
+
+and-adam-blasko-sketch-up:
+  performer: 'AND &amp; hostia &amp;(SK+ES)'
   title: "SKETCH UP"
-  top-general: Only at AMPLIFIER!
-  argentum: true
-  general: "Program for young and adults"
-  perex: "5th year of the successful Czech-Slovak cabaret sketch competition full of new talents! <br/>Moderated by actor Martin Toman. Parisian chansons and world hits performed by the trio Cmorejová, Humeňanská, Baarová."
+  top-general: "Only at AMPLIFIER"
+  general: "Programme for the young and adults"
   occurences:
     -
-      time: "Saturday 16:00"
-      location: "Cube"
+      time: "saturday 11:00"
+      location: "Kocka"
+  perex: "The 6th edition of the successful annual Czech-Slovak competition of cabaret sketches of new talents. Hosted by Adam Blaško from the successful SME: Piatoček podcast. Sabor-Life Is Rhythm, the international group of tap dancers and musicians will perform as a musical guest. Don&#39;t miss out on this packed programme!"
   content:
     -
-      "Competition of new cabaret performances by individuals and artistic groups in various genres related to cabaret such as stand up, slam poetry, theatre, music, movement art or clown acts."
-    - "All the sketches are connected by one theme - (in)sensitivity, which will be presented in an experiential and entertaining way by a variety of performers. You can look forward to the peculiar standapist Viktor Kryukov from Ukraine, Bandi from Banská Bystrica, who is experienced in music and humour, or the Ľahostajňa Theatre from Bratislava. The energetic Falangír Theatre from Kostoliště and the young creative group TyMyJán from Bratislava will also compete for the festival prize for the second time. A unique atmosphere will be created by the chanson band BON BON trio."
-    - "Everything will take place under the watchful eye and ear of an expert jury composed of Lumír Mati, MartinaGarassyová and Dušan Krnáč. In addition to the AMPLION ARGENTUM prize, the winner will also receive the option to perform his/her own cabaret programme at the 9th edition of the AMPLIFIER Festival 2024. Don't miss this unique programme!"
+      "A competition of new cabaret performances by individuals and artistic groups in various genres related to cabaret such as stand up, slam poetry, theatre, music, movement art and clown acts. All sketches will be connected by one common theme – bringing us closer is an art. The leitmotif of the festival will be delivered in an experiential and entertaining way by a diverse range of competing performers, judged by an international jury. In addition to the AMPLION ARGENTUM award, the winner will also receive the option to perform their independent cabaret show at the AMPLIFIER 2025 Festival."
   pictures:
-    - "BON-BON_trio_3.jpg"
-    - "SKETCH UP_2022-09-23-amplion-3178.jpg"
-    - "SKETCH UP_2022-09-23-amplion-3182.jpg"
-    - "SKETCH UP_2022-09-23-amplion-3187.jpg"
-    - "SKETCH UP_2022-09-23-amplion-3193.jpg"
-    - "SKETCH UP_2022-09-23-amplion-3198.jpg"
-    - "amplion-9023.jpg"
-    - "Tadeas Bolo a Martin Toman_2.jpg"
-  link: "https://www.facebook.com/festivalamplion"
-  photo: "Michal Svítok / Kristína Mayerová"
+    - Sketch up_2021_Michal Svitok_070.jpg
+    - Sketch up_2022_Peter Stit_1198.jpg
+    - Sketch up_2021_Peter Stit_1147.jpg
+    - Sketch up_2022_Peter Stit_1193.jpg
+    - Sketch up_2020_Peter Stit_180.jpg
 
-firebirds-budapest:
-  performer: 'Firebirds, Budapest (HU) <br> <strong style="color:#362982;font-size:0.8em;"> Festival Headliner </strong>'
-  title: "FREAK FUSION CONFUSION"
-  argentum: true
+    # - Sketch up_2020_Peter Stit_169.jpg
+  link: "https://amplion.eu/sketchup/"
+  foto: "Michal Svítok / Peter Štít"
+
+konzorcium-icebreaking-circus-caravana:
+  performer: 'Icebreaking Consortium (V4+UA)'
+  title: "CIRCUS CARAVANA"
   premiere: true
-  general: "TOP program for youth, adults, and families with children"
-  perex: "Amazing circus cabaret full of acrobatics, flying and humour"
+  general: "Programme for all"
   occurences:
     -
-      time: "Saturday 20:30"
-      location: "Amphitheatre: (Cultural Centre in case of bad weather)"
+      time: "saturday 15:30"
+      location: "Area near the Secondary School of Services and Forestry, Kolpasska 9&nbsp;St."
+  perex: "International music and movement street theatre about bringing people closer together. In Slovak premiere."
   content:
     -
-      "We bring you the mystical world of a travelling circus from the past centuries with a touch of
-black comedy. Spectacular juggling, acrobatic, aerial and burlesque acts will be performed by the
-elite Hungarian underground circus group. Your unique experience at the Banska Stiavnica
-Amphitheatre!"
+      "At this year’s AMPLIFIER, you will have an opportunity to experience the premiere of an international street production of five theatres, promoting a more tolerant relations between the V4 locals and the Ukrainian expatriates. <br/> There is war at home, the circus has broken up, the performers have scattered abroad. What are the fates of the members of the circus family which is looking for a new place to live and a new opportunity fo their circus in Europe? What kind of people do they meet in the V4 countries? Will they manage to renew their roots? The problem of refugees and their (non)acceptance is up in the air. It is inflated by prejudices, it contaminates the air, it weighs it down and it creates various interpersonal distances. The performance, in the form of a circus and grotesque, ventilates barriers, pumps humanity, resuscitates dreams and hopes of a tolerant future. Or is it just a utopian bubble?"
     - 
-      "<i>The <b>Firebirds</b> team was formed in Budapest in 2010 from a wide range of musicians, dancers and
-circus artists. It brings a highly creative new circus entertainment to a large scale of audiences
-and has performed successfully all over the world.</i>"
+      "<i><b>Konzorcium Icebreaking</b> is a unique ensemble of theatre performers and creators from five theatres in V4 countries and Ukraine. Under the leadership of the Ensemble of Irregular Theatre (SK), the famous Teatr KTO from Krakow (PL), the captivating new-circus group Firebirds from Budapest (H), the cheerful author-theatre group Krvik Totr/Prostores from Prague (CZ) and the Ukrainian multimedia theatre WE: MEDIA THEATER from Lviv are participating in the project.</i>"
+    -
+      "<i>Libretto/Script: Petr Novotný &amp; Tomáš Kout (CZ), Jana Mikitková (SK), dramaturgy and production by Ján Fakla (SK), set design by Tomáš Žižka (CZ), costumes by Anna Weszelovszky (HU), music by Róbert Mankovecký (SK), movement coordination by Ladislav Cmorej (SK), directorial supervision by Jerzy Zoń (PL), directed by Jana Mikitková (SK), performed by Slawek Bendykowski, Paulina Lasyk, Mieszko Syc (PL), Bálint Turai, Gergely Kiss, Dorottya Podmaniczky (HU), Daniela Voráčková, Angela Nwagbo (CZ), Anton Eliáš, Henrich Žucha and Dušan Krnáč (SK). Technical support by Milan Slama (SK).</i>"
+    -
+      "<i>Funded by the European Union.</i>"
   pictures:
-    - "Firebirds_FF_01.jpg"
-    - "Firebirds_FF_02.jpg"
-    - "Firebirds_FF_06.jpg"
-    - "Firebirds_FF_09.jpg"
-    - "Firebirds_FF_10.jpg"
-  link: "https://www.firebirds.hu"
-  photo: "Firebirds archive"
+    - Circus Caravana_premiere_Krakow_april 2024_Anna Nowak_04.jpg
+    - Circus Caravana_Praha_jul_2024_Anna Solcova_01.jpg
+    - Circus Caravana_premiere_Krakow_april 2024_Anna Nowak_31.jpg
+    - Circus Caravana_premiere_Krakow_april 2024_Anna Nowak_42.jpg
+    - Circus Caravana_premiere_Krakow_april 2024_Anna Nowak_47.jpg
 
-circo-teatro-nimu-bilbao:
-  performer: "Circo Teatro niMú, Bilbao&nbsp;(ES)"
-  title: "JACUZZI"
+    - Circus Caravana_Praha_jul_2024_Anna Solcova_09.jpg
+    - Circus Caravana_Praha_jul_2024_Anna Solcova_11.jpg
+    - Circus Caravana_Praha_jul_2024_Anna Solcova_16.jpg
+    - Circus Caravana_Praha_jul_2024_Anna Solcova_12.jpg
+    - Circus Caravana_premiere_Krakow_april 2024_Anna Nowak_11.jpg
+
+    - Circus Caravana_premiere_Krakow_april 2024_Anna Nowak_17.jpg
+    - Circus Caravana_Praha_jul_2024_Anna Solcova_02.jpg
+    - Circus Caravana_premiere_Krakow_april 2024_Anna Nowak_32.jpg
+    - Circus Caravana_Praha_jul_2024_Anna Solcova_06.jpg
+
+  link: "https://and-theatre.art/icebreaking/"
+  foto: "Anna Nowak, Anna Šolcová"
+
+all-in-circus:
+  performer: 'All in Circus (HU)'
+  title: "ALL IN TWO"
   argentum: true
   premiere: true
-  general: "Program for youth and families with children"
-  perex: "Comical and poetic tightrope circus show for all"
+  general: "Family programme"
   occurences:
     -
-      time: "Saturday 11:00"
-      location: "The Scout House Garden"
+      time: "friday 17:00"
+      location: "Scout House Garden"
+  perex: "Entertaining street circus by two jugglers, clowns and acrobats"
   content:
     -
-      "Immerse yourself in the cheerful and romantic world of the charismatic clown niMú from Spain
-and relax on the waves of her Jacuzzi show! niMú won&#39;t say a word yet she&#39;ll tell the whole story.
-You&#39;ll see her bravura circus equilibristics with objects and her ability to defy the law of physics
-by performing acrobatics on a tightrope. Refreshing, romantic and fun for the whole family.
-Plash!"
+      "An interactive street production that combines juggling, clowning, acrobatics and magic. You will be delighted by an impressive and charming duo of talented performers and their sense of humor. Energetic show for everyone."
     -
-      "<i><b>Xandra Gutiérezz,</b> an equilibrist, clown and dancer from Spain got her first artistic education at
-the circus training company El Circ Petit in Barcelona (2010). She continued her studies at the
-International Circus and Theatre School CAU in Granada (2011-2012). For the last three years she
-has also been a member of the Estreyarte Collective in Granada, which she has participated in
-various stage experiments with. In 2016 she founded her own company, niMú. Her street
-productions make people happy all around the Europe.</i>"
+      "<i><b>All in Circus</b> is a Budapest based new circus group combining different disciplines of performing arts while breaking down boundaries in theatre, circus and cabaret shows. AMPLIFIER will feature the duo Bálint Turai and Gergely Kiss in their roles as clowns and entertainers.</i>"
   pictures:
-    - "niMu_ES_jacuzzi_1.jpg"
-    - "niMu_ES_jacuzzi_2.jpg"
-    - "niMu_ES_jacuzzi_3.jpg"
-    - "niMu_ES_jacuzzi_4.jpg"
-    - "niMu_ES_jacuzzi_5.jpg"
-  link: "https://www.cianimu.com"
-  photo: "archive"
+    - All in Circus_HU_Buda”rs Fesztiv l.jpg
+    - All in Circus_HU_LensGraphy, 2018, Zsolnay F‚nyfesztiv l_1.jpg
+    - All in Circus_HU_LensGraphy, 2018, Zsolnay F‚nyfesztiv l_2.jpg
+    - All in Circus_HU_Nagy J cint, Savaria Karneval_1.jpg
+    - All in Circus_HU_Nemeshazy Peter.jpg
+  link: "https://www.facebook.com/allincircus"
+  foto: "archive All in Circus"
 
-circo-teatro-nimu-bilbao-2:
-  performer: "Circo Teatro niMú, Bilbao&nbsp;(ES)"
-  title: "JACUZZI"
-  argentum: true
-  premiere: true
-  general: "Program for youth and families with children"
-  perex: "Comical and poetic tightrope circus show for all"
-  occurences:
-    - time: "Saturday  15:00"
-      location: "The Scout House Garden"
-  content:
-    - "Immerse yourself in the cheerful and romantic world of the charismatic clown niMú from Spain
-and relax on the waves of her Jacuzzi show! niMú won&#39;t say a word yet she&#39;ll tell the whole story.
-You&#39;ll see her bravura circus equilibristics with objects and her ability to defy the law of physics
-by performing acrobatics on a tightrope. Refreshing, romantic and fun for the whole family.
-Plash!"
-    - "<i><b>Xandra Gutiérezz,</b> an equilibrist, clown and dancer from Spain got her first artistic education at
-the circus training company El Circ Petit in Barcelona (2010). She continued her studies at the
-International Circus and Theatre School CAU in Granada (2011-2012). For the last three years she
-has also been a member of the Estreyarte Collective in Granada, which she has participated in
-various stage experiments with. In 2016 she founded her own company, niMú. Her street
-productions make people happy all around the Europe.</i>"
-  pictures:
-    - "niMu_ES_jacuzzi_1.jpg"
-    - "niMu_ES_jacuzzi_2.jpg"
-    - "niMu_ES_jacuzzi_3.jpg"
-    - "niMu_ES_jacuzzi_4.jpg"
-    - "niMu_ES_jacuzzi_5.jpg"
-  link: "https://www.cianimu.com"
-  photo: "archive"
-
-katanari-ivana-mer-kosice-bb:
-  performer: "Katanari & Ivana Mer, Košice / Banská Bystrica&nbsp;(SK)"
-  title: "CABINET ALIVE!"
-  argentum: true
-  general: "Program for families with children"
-  perex: "Magical puppet cabaret, a musical-visual treat not only for children"
-  occurences:
-    -
-      time: "Saturday 17:00"
-      location: "The Scout House Garden"
-  content:
-    -
-      "What goes on on the geek collectors&#39; table when they leave the room and close the door behind
-them? A cabinet of tiny puppets and objects that don&#39;t just want to pose behind glass magically
-come to life. Let&#39;s give them their 5 seconds of fame! Where? Well, in this mixure of exhibition,
-promenade and crazy cabaret that invites you to see what the things do when no one is looking.
-A non-verbal act performed by using a variety of musical instruments, chimes and music boxes
-presented by the performer Katanari, accompanied by the sound of toys and different acoustic
-instruments played by a singer/songwriter, Ivana Mer."
-  pictures:
-    - "Katanari_Kabinet_live_web_1.jpg"
-    - "Katanari_Kabinet_live_web_2.jpg"
-    - "Katanari_Kabinet_live_web_3.jpg"
-    - "Katanari_Kabinet_live_web_5.jpg"
-    - "Katanari_Kabinet_live_web_4.jpg"
-  link: "https://www.katanariart.com"
-
-
-katanari-ivana-mer-kosice-bb-2:
-  performer: "Katanari & Ivana Mer, Košice / Banská Bystrica&nbsp;(SK)"
-  title: "CABINET ALIVE!"
-  argentum: true
-  general: "Program for families with children"
-  perex: "Magical puppet cabaret, a musical-visual treat not only for children"
-  occurences:
-    - time: "Sunday 10:00"
-      location: "The Scout House Garden"
-  content:
-    - "What goes on on the geek collectors&#39; table when they leave the room and close the door behind
-them? A cabinet of tiny puppets and objects that don&#39;t just want to pose behind glass magically
-come to life. Let&#39;s give them their 5 seconds of fame! Where? Well, in this mixure of exhibition,
-promenade and crazy cabaret that invites you to see what the things do when no one is looking.
-A non-verbal act performed by using a variety of musical instruments, chimes and music boxes
-presented by the performer Katanari, accompanied by the sound of toys and different acoustic
-instruments played by a singer/songwriter, Ivana Mer."
-  pictures:
-    - "Katanari_Kabinet_live_web_1.jpg"
-    - "Katanari_Kabinet_live_web_2.jpg"
-    - "Katanari_Kabinet_live_web_3.jpg"
-    - "Katanari_Kabinet_live_web_5.jpg"
-    - "Katanari_Kabinet_live_web_4.jpg"
-  link: "https://www.katanariart.com"
-
-
-
-katanari-kosice:
-  performer: "Katanari, Košice&nbsp;(SK)"
-  title: "THE JOURNEY"
-  argentum: false
-  price: 0
-  general: "Program for a single spectator"
-  perex: "A magical journey for one traveller to the place of his desires (in&nbsp;a&nbsp;loop)"
-  occurences:
-    -
-      time: "Sunday 11:00"
-      location: "Art Cafe, terrace"
-  content:
-    -
-      "A 4-minute audio-visual experience for one viewer in the style of a theatre for one (lambe-
-lambe). Take a peek inside a theatre box where the whole world will appear to you. Beauty!"
-    -
-      "<i><b>Katanari</b> or Katarína Caková is an artist, illustrator, travelling performer and scenographer. She
-studied illustration at the Academy of Fine Arts in Bratislava and participated in internships in
-Thessaloniki, Zagreb, Tallinn and Surakarta. She is dedicated to the creation of original
-productions and collaborates on various projects across Europe.</i>"
-  pictures:
-    - "Katanari_Cesta_web.jpg"
-
-  link: "https://www.katanariart.com"
-
-miramundo-barcelona:
-  performer: "MiraMundo, Barcelona&nbsp;(ES)"
+tygroo-koncert:
+  performer: 'Tygroo (CZ)'
   title: "CONCERT"
   argentum: true
   premiere: true
-  general: "Program for young and adult audiences"
-  perex: "Stunning band from Barcelona playing unique world music to dance"
+  general: "Programme for the young and adults"
   occurences:
     -
-      time: "Saturday 22:00"
+      time: "firday 22:30"
       location: "Cube"
-    -
-      time: BUSKING
-
+  perex: "A wild mix of electronic dance music, Balkan, jazz, and rap."
   content:
     -
-      "Barcelona is a Mecca of music, an interactive environment where musicians from Europe, Africa,
-Asia and America come together to create the city&#39;s unique sound. MiraMundo&#39;s songs are
-therefore characterised by freedom, a courage to overcome borders and a sense of
-multiculturalism. They are original, intimate stories of love and travel experiences that sensitively
-fuse genres of seemingly distant cultures. Bossa nova, Mexican mariachi, samba, Italian and
-gypsy themes, as well as African traditions form a wonderful blend of gentle rhythms, strong
-melodies and great energy that the multi-instrumental musicians enjoy as they interact with the
-audience. Your&nbsp;best&nbsp;choice for a Saturday night!"
+      "Do you remember how <b>the TooT Ensemble </b>entertained the heck out of you at AMPLIFIER 2022? Well, what we have for you this year is another unbridled brass ensemble that made even pensioners and wheelchair users hit the dancefloor. Each of their compositions takes something different from those genres, and otherwise uses the possibility of combining seemingly unrelated styles. The whole concert is then journey from the unexpected to the next unexpected, only more and more in a dance trance. For Tygroo, playing live is something like a ritual, an opportunity to return to the original madness, a moment when one can joyfully dissolve in music and dance, together with the band, together with the audience. Come burn calories at their concert!"
     -
-      "<i>The members of <b>MiraMundo</b> are united by freedom, the courage to overcome any boundaries,
-the love of multiculturalism and a global understanding of their own traditions. We look forward
-to welcoming Marion Cécile Sophie Candela - percussion and vocals, Malena Cousinet Larguía −
-saxophone and vocals, Noel Ernesto Vargas Águila − double bass and bass guitar, Francesca
-Frigeri − percussion and vocals, Luiz Gustavo Fernandes Murakami − guitar and vocals.</i>"
+      "<i><b>Tygroo</b> is a Czech band that creates the atmosphere of an electronic music concert using brass instruments, following the example of the American bands Moon Hooch and Too Many Zooz, while combining eastern and western genres in an original way. They have created an original way of connecting instruments that allows us to use real-time effects that you would not expect in acoustic music. This also gives us the sound we have, and thus we are able to tighten even a large stage, for which these instruments (brass and drums) alone would not be enough.</b>"
   pictures:
-    - "MiraMundo 01.jpg"
-    - "MiraMundo 02.jpg"
-    - "MiraMundo 03.jpg"
-  link: "http://www.miramundomusica.com/"
-  foto: "MiraMundo Archive"
+    - 20230524_047_22ndAJF_Tygroo_VangelisPatsialos_web.jpg 
+    
+    - Tygroo_CZ_1.jpg
+    - Tygroo_CZ_8.jpg
+    - Tygroo_CZ_9.jpg
+    - 20230524_042_22ndAJF_Tygroo_VangelisPatsialos_web.jpg
+    - 20230524_045_22ndAJF_Tygroo_VangelisPatsialos_web.jpg 
+    
+    - 20230524_053_22ndAJF_Tygroo_VangelisPatsialos_web.jpg 
+    - 20230524_055_22ndAJF_Tygroo_VangelisPatsialos_web.jpg
+  link: "https://tygroo.com/"
+  foto: "archive of band"
 
-# TODO check \" in content
-orkest-de-tegenwind-utrecht:
-  performer: "Orkest de Tegenwind, Utrecht&nbsp;(NL)"
+der-senster-gob-koncert:
+  performer: 'Der Šenster Gob (EU)'
   title: "CONCERT"
-  argentum: false
-  premiere: true
-  general: "Program for everyone"
-  perex: "22-member marching street brass band from the Netherlands"
+  argentum: true
+  general: "Programme for the young and adults"
   occurences:
     -
-      time: "BUSKING"
-    -
-      time: "Friday 18:00"
+      time: "saturday 22:00"
       location: "Art Cafe"
+  perex: "Unique klezmer band with elements of gypsy, jazz and Balkan music in an energetic performance with an unmistakable atmosphere"
+  content:
+    -
+      "Der Šenster Gob is an acoustic band from Prague playing Gypsy, Jewish and Balkan music, travelling all around Europe in a romantic green wooden caravan.Their style varies from old klezmer tunes to newer Gypsy trad-jazz tunes and songs. They play with energy and invention, but they also pay a lot of respect to tradition. Come see them live, you won&#39;t regret it!"
+    -
+      "<i><b>Der Šenster Gob</b> consists of four musicians playing violin, clarinet, double bass and guitar. Since the beginning, the band has performed more than 530 concerts in 26 countries. In 2023-2024, they have been touring with Lea Kalisch, a Swiss Jewish singer from New York.</i>"
+  pictures:
+    - Der_Senster_Gob_CZ 1_Honza Vitu.JPG
+    - Der_Senster_Gob_CZ 2_Honza Vitu.jpg
+    - Der_Senster_Gob_CZ 3_Honza Vitu.jpg
+    - Der_Senster_Gob_CZ 4_Honza Vitu.jpg
+    - Der_Senster_Gob_CZ 5_Lukas Hamacek.jpg
+  link: "https://vovasko.wixsite.com/der-senster-gob/"
+  foto: "archive of band"
+
+paper-moon-trio-koncert:
+  performer: 'Paper Moon Trio (SK)'
+  title: "CONCERT"
+  general: "Programme for young people and adults"
+  occurences:
+    -
+      time: "saturday 19:00"
+      location: "Art Cafe, garden"
+  perex: "Female jazz trio plays and sings vintage music of the 1920s - 1940s."
+  content:
+    -
+      "Let yourself be carried away by swing music in the moonlight in a beautiful garden setting with a captivating view of Banská Štiavnica. Immerse yourself in the atmosphere of style, fashion and refinement of the 1920s. It will be brought to you by a vocal-instrumental female trio with tender voices playing violin, ukulele and guitar. They perform grotesque charleston and flirtatious swing with only one intention - authentic and original interpretation so you can be to transported to the golden era of the past century when entertainment meant quality and refinement was a virtue."
+    -
+      "<i><b>Paper Moon Trio</b> consists of Barbora Medekova: vocals and ukulele, Andrea Kružliaková: vocals and guitar, Juliana Šeregiová: vocal and violin. They met in 2009 as members of the Bratislava Hot Serenaders orchestra and performed together as the vocal trio Serenaders Sisters. Later they formed the Paper Moon Trio, named after the song It&#39;s Only A Paper Moon.</i>"
+  pictures:
+    - Paper Moon Trio_SK_01.jpg
+    - Paper Moon Trio_SK_05.jpg
+    - Paper Moon Trio_SK_04.jpg
+  link: "http://www.facebook.com/Paper-Moon-Trio-190925080956019"
+  foto: "Simona Babjaková"
+
+dennik-sme-piatocek:
+  performer: 'Denník SME (SK)'
+  title: "PIATOČEK – Bizarre political quiz PIATOCEK"
+  argentum: true
+  general: "Programme for the young and adults"
+  occurences:
+    -
+      time: "friday 20:00"
+      location: "Pražovňa - industry pub, 1st floor"
+  perex: "The creators of the well-known and successful satirical podcast SME: Piatoček have news. Discover their new quiz and come join us in a new industry pub in Banská Štiavnica. Great fun guaranteed"
 
   content:
     -
-      "&quot;Orchestra Against the Wind&quot; is a large street brass band from Utrecht, formed in 1984 with the
-aim of bringing music to the people on the street. Their playing is attractive, full of energy and
-emotion, dispelling dark clouds and bringing sunshine to the souls of the audience. This
-adventurous orchestra is a generationally diverse group. They play music from home and from all
-corners of the world, as the street brass band gets inspired by music and people from other
-cultures and constantly comes with new musical ideas. They regularly tour to countries where
-they had never been before and this year they will perform in Slovakia for the first time.
-Welcome them with a round of applause!"
+      "Are you familiar with the most bizarre corners of Slovak politics, even if you are not a historian? Come and test your knowledge on this unique quiz. You will test your insight into the figures of our politics as well as the important or completely insignificant events that contribute to the current atmosphere in society. Put together a team of 5 and show others that you&#39;re the real deal. If you don&#39;t have a team, don&#39;t worry, we&#39;ll find you some mates and build one for you. Feel free to come!"
     -
-      "<i>Since 2008, Hermine Schneider and Onno van Swigchem have been in charge of the orchestra&#39;s
-musical direction. Highlights of their travel history include performances in Ukraine, South Africa,
-Latvia, Turkey, Suriname, England, Germany, Denmark, Romania and Portugal.</i>"
+      "<i><b>Piatocek (Friday)</b> is an award-winning weekly satirical podcast about more than just politics. It comes out, surprisingly, every Friday. It is the brainchild of a young creative team consisting of Adam Blaško, Kristína Gyuriková, Kristina Janščová and Viktor Hlavatovič. They are all looking forward to seeing you in the new industry pub in Banská Štiavnica!</i>"
   pictures:
-    - "Orkestr_Tegenwind_01.jpg"
-    - "Orkestr_Tegenwind_02.JPG"
-    - "Orkestr_Tegenwind_03.JPG"
-  link: "https://orkesttegenwind.nl/"
+    - SME_Piatocek_team_1.JPG
+    - SME_Adam Blasko_1.jpg
+    - SME_Piatocek_kviz_2.jpg
+    - SME_Piatocek_team_2.jpg
+  link: "https://podcasty.sme.sk/t/8343/podcast-piatocek"
+  foto: "archive SME/Piatoček"
 
-orkest-de-tegenwind-utrecht-busking:
-  performer: "Orkest de Tegenwind, Utrecht&nbsp;(NL)"
-  title: "CONCERT"
+art-putika-i-postsedliaci:
+  performer: 'Jana Močková, Denník&nbsp;N&nbsp;(SK)'
+  title: "ART PUTIKA I.&nbsp;–&nbsp; POST&#8209;SETTLERS?"
+  argentum: true
+  general: "Programme for the young and adults"
+  occurences:
+    -
+      time: "friday 18:00"
+      location: "Art Cafe, attic"
+  perex: "Discussion and reading from the successful book Post-Settlers: Slovak People‘s Protest. <br/>Guest: Juraj Buzalka, author. Moderator: Jana Močková, editor."
+  content:
+    -
+      "The author looks mercilessly at the Slovaks, commenting factually and critically on our illusions about ourselves and our fixed ideas about the functioning of the world. He glosses key events of Slovak history and contemporary life with insight and liberating insularity. Both the book and the discussion seek to build a common progressive garden along with Post-Settlers. With and without humor. And who are the Post-Settlers? Come and find out."
+    -
+      "<i><b>Juraj Buzalka</b> is a social anthropologist working at Comenius University in Bratislava. His research focuses on social and cultural change and political movements.</i>"
+    -
+      "<i><b>Jana Močková</b> graduated in journalism at the Comenius University in Bratislava. She started her career at Radio Devín, from 2010 to 2014 she was an editor at SME‘s culture section. She has worked at Denník N since its foundation. She mainly covers topics in the field of art, architecture and cultural policy. In 2018, she received two nominations for the Journalism Award in the interview and reportage categories.</i>"
+  pictures:
+    - ART PUTIKA_Jana Mockova_Dennik N.jpg
+    - "ART PUTIKA I_Juraj Buzalka_Postsedliaci_obalka.jpg"
+    - "ART PUTIKA I_Juraj Buzalka_Dennik N.jpg"
+
+  link: "https://sk.wikipedia.org/wiki/Juraj_Buzalka"
+  foto: "Denník N"
+
+art-putika-ii-blizsie-k-sebe:
+  performer: 'Jana Močková, Denník&nbsp;N&nbsp;(SK)'
+  title: "ART PUTIKA II. – CLOSER TOGETHER?"
+  general: "Programme for young people and adults"
+  occurences:
+    -
+      time: "saturday 17:00"
+      location: "Art Cafe, attic"
+  perex: "Author‘s reading from the book Closer Together? and a discussion on how to get closer to ourselves and to others. Guest: Ján Markoš, author/critical thinking lecturer. Moderator: Jana Močková, editor."
+  content:
+    -
+      "We live in the age of means. They are everywhere: means of transport, communication, information. We are completely surrounded by our own creations. We spend most of our time inside buildings. And the ceiling isn&#39;t really the heavens. The light is not the sun. And the air conditioning is not the wind. Furthermore, we spend about half of the time we are awake in front of computer screens, mobile phones or TVs. We miss nature: the water, the forests, the clouds, the wind. We also miss the silent universe hidden inside us: in the noise of the media and the daily rush of work, we often fail to hear the subtle signals of our bodies. We need to get closer to ourselves again. But how to do it? Jan Markoš&#39;s book and the discussion will try to answer this question."
+    -
+      "<i><b>Ján Markoš</b>, chess grandmaster, lecturer in critical thinking and author of the bestseller The Power of Reason in a Crazy Time, is an exceptional author who combines philosophy, history and scientific experiments while using understandable language.</i>"
+    -
+      "<i><b>Jana Močková</b> graduated in journalism at the Comenius University in Bratislava. She started her career at Radio Devín, from 2010 to 2014 she was an editor at SME‘s culture section. She has worked at Denník N since its foundation. She mainly covers topics in the field of art, architecture and cultural policy. In 2018, she received two nominations for the Journalism Award in the interview and reportage categories.</i>"
+  pictures:
+    - ART PUTIKA_Jana Mockova_Dennik N.jpg
+    - Jan Markos_Blizsie k&nbsp;sebe.jpg
+    - ART PUTIKA II_Jan_Markos_Michal Svitok_2.jpg
+
+  link: "https://sk.wikipedia.org/wiki/J%C3%A1n_Marko%C5%A1"
+  foto: "Michal Svítok / Denník N"
+
+ddistance-generation-no-close-no-fun:
+  performer: 'D´dištanc dženerejšn & Paper Moon Trio (SK)'
+  title: "NO CLOSE, NO FUN"
+  general: "Programme for the young and adults"
+  occurences:
+    -
+      time: "sunday 14:00"
+      location: "Scout House Garden"
+  perex: "Modern art recitals about how to bring us closer together will take place behind the Scout House under the Old Castle surrounded by beautiful garden terraces and accompanied by swing music."
+  content:
+    -
+      "Special performers and their authentic interpretations of texts of world and Slovak poetry and prose, this time with the addition of a female jazz trio vintage music sound. We will wander through the peaceful, fragrant and view-rich environment of the garden above the Scout House Hostel. We will listen to a carefully cultivated selection of powerful statement about (dis)bonding in an effort to get closer to both people and nature. An attempt to re-find the roots of our humanity. You will again reconsider your preconceived ideas about conventional recitation. Don&#39;t hesitate, this programme will never be repeated!"
+    -
+      "<i>A fascinating reading from the works by contemporary authors such as Daniel Majling, Dušan Mitana, Virág Erdős, Stefanie Höfler, and classics such as Vladimir Visocki and Valentín Beniak, Kristína Bendzáková, Martina Herichová, Nicole Pavla Herna, Eliška Knižková, Mária Škarohlídová and Martin Spišák awaits you!</i>"
+  pictures:
+    - "Paper Moon Trio_SK_04.jpg"
+    - Kristina_Bendzakova_1.jpeg 
+    - Martin_Spisak.jpg 
+    - Martina_Herichova.jpg 
+    - Paper Moon Trio_SK_01.jpg
+
+    - Nicole_Herna_2.jpg
+    - Eliška Knižková.jpg
+    - Mária_Škarohlídová.jpg 
+
+
+  link: "https://amplion.eu/archiv/"
+  foto: "autors archive"
+
+
+otvorenie-festivalu:
+  performer: ''
+  title: "OPENING OF THE FESTIVAL"
+  general: "Programme for all"
+  occurences:
+    -
+      time: "friday 16:00"
+      location: "Holy Trinity Square"
+  perex: "Join us for the opening of the 9th edition of the AMPLIFIER Festival with the with the motto: “Bringing Us Closer is an Art!”"
+  content:
+    -
+      "Have a little taste of what the festival has got to offer this year. The festival anthem will be performed by the crazy band Tygroo and others &mdash; the All in Circus and Sabor-Life in Rhythm. "
+  pictures:
+    - amplion23_otvorenie_festivalu_Michal Svitok_060.jpg
+    - amplion23_otvorenie_festivalu_Kristina Svitokova_002.jpg
+    - amplion23_otvorenie_festivalu_Kristina Svitokova_019.jpg
+    - amplion23_otvorenie_festivalu_Michal Svitok_001.jpg
+    - amplion23_otvorenie_festivalu_Michal Svitok_042.jpg
+
+    - "Sabor-life in Rhythm_ES_04.JPEG"
+    - 20230524_055_22ndAJF_Tygroo_VangelisPatsialos_web.jpg
+    - All in Circus_HU_Nemeshazy Peter.jpg
+    - Tygroo_CZ_9.jpg
+    - "Sabor-life in Rhythm_ES_03.JPEG"
+  
+  link: "https://amplion.eu/archiv/"
+  foto: "Michal a&nbsp;Kristína Svítokovci a&nbsp;autors archive"
+
+der-senster-gob-promo:
+  performer: 'Der Šenster Gob (EU)'
+  title: "PROMO"
+  argentum: true
+  general: "Programme for the young and adults"
+  occurences:
+    -
+      time: "saturday 16:30"
+      location: "Trotuár Cafe"
+  perex: "Invitation to the concert of a klezmer music band"
+  content:
+    -
+      "Unique klezmer band with elements of gypsy, jazz and Balkan music in an energetic performance with an unmistakable atmosphere"
+  pictures:
+    - Der_Senster_Gob_CZ 1_Honza Vitu.JPG
+    - Der_Senster_Gob_CZ 2_Honza Vitu.jpg
+    - Der_Senster_Gob_CZ 3_Honza Vitu.jpg
+    - Der_Senster_Gob_CZ 4_Honza Vitu.jpg
+    - Der_Senster_Gob_CZ 5_Lukas Hamacek.jpg
+  link: "https://vovasko.wixsite.com/der-senster-gob/"
+  foto: "archív kapely"
+
+we-media-theater-sef-cirkusu:
+  performer: 'WE: MEDIA THEATER (UA)'
+  title: "ŠÉF CIRKUSU"
   argentum: false
   premiere: true
-  price: BUSKING
-  general: "Program for everyone"
-  perex: "22-member marching street brass band from the Netherlands"
-  occurences:
-  content:
-    -
-      "&quot;Orchestra Against the Wind&quot; is a large street brass band from Utrecht, formed in 1984 with the
-aim of bringing music to the people on the street. Their playing is attractive, full of energy and
-emotion, dispelling dark clouds and bringing sunshine to the souls of the audience. This
-adventurous orchestra is a generationally diverse group. They play music from home and from all
-corners of the world, as the street brass band gets inspired by music and people from other
-cultures and constantly comes with new musical ideas. They regularly tour to countries where
-they had never been before and this year they will perform in Slovakia for the first time.
-Welcome them with a round of applause!"
-    -
-      "<i>Since 2008, Hermine Schneider and Onno van Swigchem have been in charge of the orchestra&#39;s
-musical direction. Highlights of their travel history include performances in Ukraine, South Africa,
-Latvia, Turkey, Suriname, England, Germany, Denmark, Romania and Portugal.</i>"
-  pictures:
-    - "Orkestr_Tegenwind_01.jpg"
-    - "Orkestr_Tegenwind_02.JPG"
-    - "Orkestr_Tegenwind_03.JPG"
-  link: "https://orkesttegenwind.nl/"
-
-bon-bon-trio-bratislava:
-  performer: "BON BON trio, Bratislava&nbsp;(SK)"
-  title: "CONCERT"
-  argentum: false
-  general: "Program for young and adults"
-  perex: "Parisian chansons and world hits performed by the trio Cmorejová, Humeňanská, Baarová"
+  general: "Program pre mladých a&nbsp;dospelých"
   occurences:
     -
-      time: "Saturday 19:00"
-      location: "Art Cafe, attic"
-    -
-      time: BUSKING
+      time: "sunday 11:00"
+      location: "Art Cafe, povala"
+  perex: "Short documentary about the fate of a circus principal Ilya Borsuk, which inspired the creation of the international music and movement street show CIRCUS CARAVANA (V4+UA)."
   content:
     -
-      "Three popular and charming ladies will evoke the atmosphere of Parisian Cafés with the essence
-of chansons with their musical programme. World hits by famous artists such as Edith Piaf,
-Julliette Greco, Yan Tiersen, Queen, Astor Piazzolla, Beatles, Goran Bregovic, Michael Jackson,
-ZAZ, Nat King Cole or Sting will be performed. The concert is a charming musical and aesthetical
-experience. It combines music, emotions and friendship all wrapped up in a beautiful harmony.
-The author of musical arrangements is Peter Mankovecký. We look forward to welcoming
-Marcela Cmorejová (Vilhanová) and her saxophone and accordion, Petra Sedláková
-(Humeňanská) and her velvety vocals and Katarína Baarová with her top-notch cello playing."
+      "Young Ukrainian director Sashko Brama embarks on a several day journey with Ilya, the former circus principal, who volunteered during the war. The journey starts in Lviv in western Ukraine, where the main character loads his old Citroën with humanitarian aid and takes it to the front line cities in eastern Ukraine. The camera captures the devastated landscape of the mining towns where Ilya used to perform with his circus, the meetings with soldiers and civilians exhausted from war and uncertainty. At the end of the day, Ilya comes to to his old apartment in Druzhkivka, where he once lived with his family, to spend the night. He smokes on the balcony to the sound of artillery cannons and looks out on the front line, which is only 25 km away."
     -
-      "<i><b>Marcela Cmorejová</b> (Vilhanová), studied saxophone and accordion. She is known from the
-Banská Bystrica band Hundred Flies and from the successful project Maca and the Band of the
-Year. She performs at the Radošina Naive Theatre and the Slovak National Theatre.</i>"
-    -
-      "<i><b>Petra Sedláková</b> (Humeňanská) studied musical acting and dominates the BON BON trio as a
-singer. She has performed for at the Slovak National Theatre, the Nová scéna Theatre, and the
-Radošina Naive Theatre.</i>"
-    -
-      "<i><b>Katarína Baarová</b> plays cello and is a member of the Slovak National Theatre Orchestra and the
-Slovak Chamber Orchestra. She also records film music.</i>"
+      "<i><b>WE: MEDIA THEATER</b> (2018) is an <b>independent Ukrainian art group</b> working in the field of multimedia theatre. It was founded in Lviv by Sashko Brama, a young activist, director, screenwriter and playwright, who’s been experimenting with a line between post-documentary theatre and documentary film. Brama&#39;s work was presented at festivals in Ukraine, Poland, Germany and Slovakia. Currently, their main topic are the events of the all-out Russian war in Ukraine, where Brama operates as a war reporter.</i>"
   pictures:
-    - "BON-BON_trio_1.jpg"
-    - "BON-BON_trio_Baarova.jpg"
-    - "BON-BON_trio_Cmorejova.jpg"
-    - "BON-BON_trio_Sedlakova.jpg"
-  link: "https://www.facebook.com/TheBonbonky"
-  # foto: "Photo credit"
+    - "WE_MEDIA Theater_Sef Cirkusu_Ilja Borsuk.jpg"
+    - "WE_MEDIA Theater_Sef Cirkusu_Evacuation.jpg"
+    - "WE_MEDIA Theater_Sef Cirkusu_premiera_1_Jan Fakla.jpg"
+  link: "https://wemediatheater.com/"
+  foto: "AND archive"
 
-monika-todova-bratislava:
-  performer: "Monika Tódová & Denník N, Bratislava (SK)"
-  title: "HOW TO SAVE DEMOCRACY <br> <span style='font-size: large'>Guests: Marián Leško, Martin Šimečka, Matúš Kostolný</span>"
-  argentum: true
-  general: "Program for young and adults"
-  perex: "Discussion about the current development of our country with and without humour"
+
+and-der-senster-gob-after-koncert:
+  performer: 'AND&nbsp;&&nbsp;Der&nbsp;Šenster&nbsp;Gob&nbsp;(EU)'
+  title: "FAREWELL CONCERT + <span style='font-size:40px'>Amplion Argentum Festival Award Announcement</span>"
+  general: "Program for all"
   occurences:
     -
-      time: "Friday 19:00"
-      location: "Cultural Center"
+      time: "sunday 12:00"
+      location: "Art Cafe, teracce"
+  perex: "Are you curious who will win this year&#39;s festival awards? Don&#39;t miss out on a pleasant meeting with the best artists of the festival in the atmosphere of a unique klezmer band music."
   content:
-    -  
-      "Let’s analyse the current social events with commentators and journalists Marián Leško, Martin
-M. Šimečka and Matúš Kostolný. Moderated by Monika Tódová. Daily N (in)regularly organizes a
-series of How to Save Democracy discussions all over Slovakia. &quot;There is a lot at stake in these
-elections and we realise that it is not enough to just write about the situation. That&#39;s why we
-decided to go around Slovakia and debate about it. It is one of the privileges of democracy and I
-believe people do not want to lose it,&quot; says Matúš Kostolný, editor-in-chief of Daily N. The
-creators of AMPLIFIER also care about the democratic development of our country, so you are all
-welcome at the debate."
+    -
+      "Amplion Argentum is the festival organisers&#39; prize in three categories: new cabaret, street art and socially-engaged work. The nominations are selected by the festival&#39;s dramaturgical team. The award is traditionally presented on the last day of the festival. The word Argentum comes from Latin and means silver."
   pictures:
-    - "AKO ZACHRANIT DEMOKRACIU_1.jpg"
-    - "AKO ZACHRANIT DEMOKRACIU_2.jpg"
-    - "AKO ZACHRANIT DEMOKRACIU_3.jpg"
-  # link: ""
-  # foto: "Photo: ???"
+    - "Der_Senster_Gob_CZ 3_Honza Vitu.jpg"
+    - "Der_Senster_Gob_CZ 1_Honza Vitu.JPG"
+    - Amplion argentum_2023_Michal Svitok_006.jpg
+    - Amplion argentum_2023_Michal Svitok_009.jpg
+    - Amplion argentum_2023_Michal Svitok_013.jpg
+  link: "https://amplion.eu/archiv/"
+  foto: "archív festivalu"
 
-patrik-garaj-bratislava:
-  performer: "Patrik Garaj, Bratislava&nbsp;(SK)"
-  title: "ART PUTIKA I. – LAUGHTER THROUGH TEARS"
-  argentum: true
-  general: "Program for young and adults"
-  perex: "Discussion on attitudes towards Russian and Ukrainian literature today + reading from the
-work of Ukrainian author J. Andrukhovych, guest: translator Valerij Kupka."
+paper-moon-trio-after-koncert:
+  performer: 'Paper Moon Trio (SK)'
+  title: "AFTER KONCERT"
+  general: "Program for youth and adults"
   occurences:
     -
-      time: "Saturday 16:30"
-      location: "Art Cafe, attic"
+      time: "sunday 10:00"
+      location: "Trotuár Cafe, A. Kmeťa"
+  perex: "Female jazz trio plays and sings vintage music of the 1920s - 1940s."
   content:
     -
-      "Which authors are more prone to lean to tragedy? Which ones want to dig as deep as possible
-into the human soul until they find something dark there? And which of them bring sunshine and
-wit to literature? Is it Russians or Ukrainians? And how does a gogolesque laughter through tears
-come about? This will also be the topic of the discussion about the relationship between
-Ukrainian and Russian culture in the time of war, about the attitudes of the people of other
-countries towards Russian and Ukrainian literature and its present work. Patrik Garaj, Daily N&#39;s
-culture reporter, will discuss the topic with our guest, Russian scholar and translator, Valerij
-Kupka, and with you. The interview and informal discussion will be accompanied by reading from
-the book by Ukrainian author Yuri Andrukhovych, translated into Slovak by Valerij Kupka."
+      "After concert of Female jazz trio Paper Moon Trio"
     -
-      "<i> <b> Valerij Kupka </b> is a Slovak poet, translator and Russianist. He was born in Ukraine. In 1978 his
-family moved back to Slovakia. Until 2022, he was an associate professor of Literary Studies at the University of
-Prešov, where his main fields of research were the Russian literature of 19th and 20th century,
-Russian children&#39;s literature, Russian visual arts and film.</i>"
-    -
-      '<i> <b> Patrik Garaj </b> studied German, Philosophy and Literary Studies at the University of Prešov and at
-the University of Konstanz where he also received his PhD. In 2006 he started working for the
-Trend magazine. First as a web editor, later as editor-in-chief of Trend.sk and a deputy editor-in-
-chief of Trend. He has been working at Daily N since February 2018 as an editor and reporter. He
-mainly focuses on the areas of culture - literature, architecture and music. He also publishes a
-regular newsletter named <a href="https://dennikn.sk/tema/high-5ive/" target="_blank" rel="nofillow">High 5ive</a></i>'
+      "<i><b>Paper Moon Trio</b> tvoria Barbora Medeková: spev a&nbsp;ukulele, Andrea Kružliaková: spev a&nbsp;gitara, Juliana Šeregiová: spev a&nbsp;husle. Stretli sa v&nbsp;roku 2009 v&nbsp;orchestri Bratislava Hot Serenaders, kde spolu účinkovali ako vokálne trio Serenaders Sisters. Neskôr si založili Paper Moon Trio, ku ktorému ich inšpirovala pieseň It’s Only A Paper Moon.</i>"
   pictures:
-    - "Valerij Kupka.jpg"
-    - "Patrik Garaj_N.jpg"
-  link: "https://dennikn.sk/autor/patrik-garaj/"
-  # foto: "1 piece + 1 piece guest"
-
-and-banska-stiavnica-we-media-theater-lviv:
-  performer: "<span style='font-size: large'>AND, Banská Štiavnica&nbsp;(SK) + WE:&nbsp;MEDIA THEATER, Lviv&nbsp;(UA)</span>"
-  title: "ART PUTIKA II. – ICEBREAKING&nbsp;(V4+UA)"
-  argentum: true
-  price: 0
-  general: "Program for young and adults"
-  perex: "Premiere of a documentary on the rapprochement of local V4 residents
-with the UA refugees by the Ukrainian filmmakers followed by a discussion"
-  occurences:
-    -
-      time: "Sunday 10:30"
-      location: "Art Cafe, attic"
-  content:
-    - 
-      "At AMPLIFIER you have the opportunity to experience the premiere of the pilot of an
-international street theatre production of five theatres called HUMAN CARAVAN. It was created
-from authentic materials collected during 4 research trips to V4 countries during August 2023.
-The stories, fates and experiences of both Ukrainians and the locals the creators encountered
-will be presented to you not only as an informal debate, but also in the premiere of a video
-documentary shot by the independent Ukrainian multimedia team WE: MEDIA THEATER,
-directed by Sashko Brama. The short film also features heroes from Banská Štiavnica. Guest to be
-participating in the discussion will be (among others): the leaders of the five theatres involved in
-the project: Sashko Brama (UA), Petr Novotný (CZ), Jana Mikitková (SK), Andráš Mező (HU), Jerzy
-Zoń (PL)."
-    -
-      "<i><b>WE: MEDIA THEATER</b> (2018) is an <b>independent Ukrainian art ensemble</b> working in the field of
-multimedia theatre. It was founded in Lviv and its leader is a young activist, director, screenwriter
-Sashko Brama. Sashko (born as Oleksandr Palianychka) often experiments with post-documentary
-theatre and documentary film. Brama&#39;s productions were presented at festivals in Ukraine,
-Poland, Germany and Slovakia. Currently, their main theme are of the events of the all-out
-Russian war in Ukraine where Sashko serves as a reporter.</i>"
-  pictures:
-    - "WE_Media Theater_Lyuda Batalova_.jpg"
-    - "WE_Media Theater_Sashko Brama_press.JPG"
-  link: "https://www.and-theatre.art/icebreaking-sk/"
-  # foto: "Foto: 1 piece + 1 piece guest"
-
-human-caravana-premiere:
-  performer: "<span style='font-size: x-large'>Irregular Theatre Ensemble&nbsp;(SK) +&nbsp;Teatr&nbsp;KTO&nbsp;(PL) + Firebirds&nbsp;(HU) +&nbsp;Prostores&nbsp;(CZ)</span>"
-  title: "HUMAN CARAVANA"
-  argentum: false
-  price: 0
-  general: "Program for young and adults"
-  perex: "The premiere of the performance from the creative workshop on interpersonal bonding, presented by the international team of creators of the ICEBREAKING project (V4+UA)."
-  occurences:
-    -
-      time: "Friday 17:00"
-      location: "Old Castle 🠒 Scout House Garden"
-  content:
-    -
-      "Four theatres, led by the Ensemble of Irregular Theatre, will create during 2 days of an
-       intensive creative workshop a common international embryo of a future street
-       production aimed at bringing local V4 citizens closer to the Ukrainian exiles."
-    -
-      "The touring street happening will be based on authentic materials collected during 4
-       research trips to V4 countries and Ukraine."
-    -
-      "The common journey tells the stories of people in mixed communities, breaking down
-       prejudices and bringing people closer together in a world where we all need each other
-       without distinction."
-
-  pictures:
-  link: "https://www.and-theatre.art/icebreaking-sk/"
-  foto: ""
-
-human-caravana:
-  performer: "<span style='font-size: x-large'>Irregular Theatre Ensemble&nbsp;(SK) +&nbsp;Teatr&nbsp;KTO&nbsp;(PL) + Firebirds&nbsp;(HU) +&nbsp;Prostores&nbsp;(CZ)</span>"
-  title: "HUMAN CARAVANA"
-  argentum: false
-  price: 0
-  general: "Program for young and adults"
-  perex: "The first rerun of the performance from the creative workshop on interpersonal bonding, presented by the international team of creators of the ICEBREAKING project (V4+UA)."
-  occurences:
-    -
-      time: "Saturday 14:30"
-      location: "KTC Hájovňa, Červená studňa"
-  content:
-    -
-      "Four theatres, led by the Ensemble of Irregular Theatre, will create during 2 days of an
-       intensive creative workshop a common international embryo of a future street
-       production aimed at bringing local V4 citizens closer to the Ukrainian exiles."
-    -
-      "The touring street happening will be based on authentic materials collected during 4
-       research trips to V4 countries and Ukraine."
-    -
-      "The common journey tells the stories of people in mixed communities, breaking down
-       prejudices and bringing people closer together in a world where we all need each other
-       without distinction."
-
-  pictures:
-  link: "https://www.and-theatre.art/icebreaking-sk/"
-  foto: ""
-
-human-caravana-second:
-  performer: "<span style='font-size: x-large'>Irregular Theatre Ensemble&nbsp;(SK) +&nbsp;Teatr&nbsp;KTO&nbsp;(PL) + Firebirds&nbsp;(HU) +&nbsp;Prostores&nbsp;(CZ)</span>"
-  title: "HUMAN CARAVANA"
-  argentum: false
-  price: 0
-  general: "Program for young and adults"
-  perex: "The second reprise of the output from the creative workshop on interpersonal
-rapprochement by the international team of creators of the ICEBREAKING project
-(V4+UA)"
-  occurences:
-    -
-      time: "Sunday 15:00"
-      location: "Kolping House Recreation Area, Štiavnické Bane"
-  content:
-    -
-      "Four theatres, led by the Ensemble of Irregular Theatre, will create during 2 days of an
-       intensive creative workshop a common international embryo of a future street
-       production aimed at bringing local V4 citizens closer to the Ukrainian exiles."
-    -
-      "The touring street happening will be based on authentic materials collected during 4
-       research trips to V4 countries and Ukraine."
-    -
-      "The common journey tells the stories of people in mixed communities, breaking down
-       prejudices and bringing people closer together in a world where we all need each other
-       without distinction."
-
-  pictures:
-#    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (05).jpg"
-#    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (21).jpg"
-#    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (22).jpg"
-#    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (29).jpg"
-#    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (36).jpg"
-#    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (40).jpg"
-#    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (41).jpg"
-#    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (42).jpg"
-#    - "Teatr KTO_PL_09_Arcadia_foto Wacêaw Pyzik.jpg"
-#    - "Teatr KTO_PL_10_Arcadia_foto Wacêaw Pyzik.jpg"
-#    - "Teatr KTO_PL_42_Arcadia_foto Wacêaw Pyzik.jpg"
-#    - "Teatr KTO_PL_50_Arcadia_foto Wacêaw Pyzik.jpg"
-#    - "Teatr KTO_PL_82_Arcadia_foto Wacêaw Pyzik.jpg"
-#    - "Firebirds_FF_01.jpg"
-#    - "Firebirds_FF_02.jpg"
-#    - "Firebirds_FF_06.jpg"
-#    - "Firebirds_FF_09.jpg"
-#    - "Firebirds_FF_10.jpg"
-#    - "Firebirds_FF_11.jpg"
-#    - "FIREBIRDS_freak_csopi2.jpg"
-  link: "https://www.and-theatre.art/icebreaking-sk/"
-  foto: ""
-
-no-soft-no-fun:
-  performer: "D'sensitive generation &&nbsp;Marcela Cmorejová&nbsp;(SK)"
-  title: "NO SOFT, NO FUN"
-  argentum: false
-  general: "Program for young and adults"
-  perex: "Modern performance by young artists on the theme of (in)sensitivity with a musical performance by
-Marcela Cmorejová"
-  occurences:
-    -
-      time: "Saturday 13:00"
-      location: "Botanical Garden"
-  content:
-    -
-      "Young performers with their authentic interpretations of Slovak and international lyric poetry
-and prose, this time enriched by the input of a multi-musician and performer Marcela
-Cmorejová. We will wander through the peaceful, fragrant and precious environment of the
-botanical garden and listen to a carefully cultivated selection of powerful testimonies about
-(in)sensitivity, with the aim of becoming sensitized, getting closer to plants, animals and people,
-finding again the roots of our humanity. Once again you will be taken out of your preconceived
-notion about conventional recitation. Don&#39;t hesitate, this program will never be repeated!"
-    -
-      "<i>Exceptional art-work by contemporary authors such as Jon Fosse, Bernard Schlink, Karol D.
-Horváth, along with the classics from Jacques Prévert, Jan Werich, Jonathan Swift. Klára
-Dobšovičová, Barbora Ježová, Andrej Rácz, Elena Slížiková, Denis Šatan and Roman Thor Vítek
-recite.</i>"
-  pictures:
-    - "NO SOFT NO FUN_Andrej_Racz.jpg"
-    - "NO SOFT NO FUN_Barbora_Jezova.jpg"
-    - "NO SOFT NO FUN_Denis_Satan.JPG"
-    - "NO SOFT NO FUN_Elena_Slizikova.jpg"
-    - "NO SOFT NO FUN_Klara_Dobsovicova.jpg"
-    - "NO SOFT NO FUN_Roman_Thor_Vitek.jpg"
-  link: "https://www.facebook.com/festivalamplion"
-  foto: "author's archive"
+    - Paper Moon Trio_SK_01.jpg
+    - Paper Moon Trio_SK_05.jpg
+    - Paper Moon Trio_SK_04.jpg
+  link: "http://www.facebook.com/Paper-Moon-Trio-190925080956019"
+  foto: "Simona Babjaková"
