@@ -1,6 +1,6 @@
 - 
   time: 11:00 – 12:30
-  performer: AND + hostia & Adam Blaško & Sabor-Life is Rhythm (SK+CZ+ES)
+  performer: AND + hostia & Adam Blaško & Sabor&#8209;Life&nbsp;is&nbsp;Rhythm (SK+CZ+ES)
   top-general: Len na AMPLIÓNE!
   premiere: false
   age: 15+
@@ -14,7 +14,7 @@
   time: 14:00 – 14:55
   performer: Divadlo Falangir (SK)
   top-general: Víťaz SKETCH UP 2023
-  premiere: true
+  premiere: false
   age: 12+
   title: STMIEVA SA
   perex: "Re-generačná výpoveď mladých divadelníkov o vyhorení, ktorá vás opäť naštartuje"
@@ -33,7 +33,7 @@
   title: CIRCUS CARAVANA
   perex: "Atraktívne medzinárodné pouličné divadlo o zbližovaní"
   location: Asfaltová plocha pri SOŠSL, Kolpašská 9
-  price: 0
+  price: "Vstupné dobrovoľné"
   slug: konzorcium-icebreaking-circus-caravana
 
 - 
@@ -52,17 +52,17 @@
   time: 17:00 – 18:30
   performer: Jana Močková (SK)
   premiere: false
-  argentum: true
+  argentum: false
   age: 12+
   title: ART PUTIKA II. – BLIŽŠIE K SEBE?
-  perex: "Diskusia a autorské čítanie z knihy o tom, ako sa opäť priblížiť k sebe samému i k druhým. Hosť: autor Ján Markoš – lektor kritického myslenia. Moderuje: redaktorka Jana Močková."
+  perex: "Diskusia a autorské čítanie z knihy o tom, ako sa opäť priblížiť k sebe samému i k druhým. Hosť: autor Ján Markoš – lektor kritického myslenia. <br/> Moderuje: redaktorka Jana Močková."
   location: Art Cafe, povala
   price: 7 €
   slug: art-putika-ii-blizsie-k-sebe
 
 - 
   time: 18:00 – 19:00
-  performer: Sabor-Life is Rhythm (ES)
+  performer: Sabor-Life is Rhythm (ES, MX, FR, DE)
   premiere: true
   argentum: true
   age: 12+
@@ -94,7 +94,7 @@
   perex: "Kabaretná one-man show svetových hviezd, akú ste ešte nezažili"
   location: Kultúrne centrum, hlavná sála
   price: V predpredaji 19 €, na mieste 22 €
-  slug: ennio-marchetto-living-paper-cartoon
+  slug: ennio-marchetto
 
 - 
   time: 22:00 – 23:15

@@ -8,3 +8,14 @@
   location: Terasa u Blaškov, Počúvadlianske jazero
   price: 0
   slug: tomas-marketa-koncert
+
+- 
+  time: 15:30 – 16:45
+  performer: Konzorcium Icebreaking (V4+UA)
+  premiere: true
+  age: Family
+  title: CIRCUS CARAVANA
+  perex: "Atraktívne medzinárodné pouličné divadlo o zbližovaní"
+  location: Asfaltová plocha pri SOŠSL, Kolpašská 9
+  price: "Vstupné dobrovoľné"
+  slug: konzorcium-icebreaking-circus-caravana

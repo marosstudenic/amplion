@@ -2,7 +2,7 @@
   time: 16:00 – 16:30
   title: OTVORENIE FESTIVALU
   age: Family
-  perex: "Príďte otvoriť 9. ročník Festivalu AMPLIÓn heslom Zbližovať je umenie!\nHymna + promo: All in Circus (HU), Tygroo (CZ), Sabor-Life in Rhythm (ES)"
+  perex: "Príďte otvoriť 9. ročník Festivalu AMPLIÓn heslom Zbližovať je umenie!\nHymna&nbsp;+&nbsp;promo: All in Circus (HU), Tygroo (CZ), Sabor-Life in Rhythm (ES)"
   location: Námestie sv. Trojice
   price: 0
   slug: otvorenie-festivalu
@@ -14,14 +14,14 @@
   age: Family
   title: ALL IN TWO – zábavný pouličný cirkus
   perex: "Zábavný pouličný cirkus dvoch žonglérov, klaunov a akrobatov"
-  location: Záhrada Skautského domu, ul. A. Pécha
+  location: Záhrada Skautského domu, ul.&nbsp;A.&nbsp;Pécha
   price: 4 / 7 €
   slug: all-in-circus
 
 - 
   time: 18:00 – 19:30
   performer: Jana Močková, Denník N (SK)
-  premiere: true
+  premiere: false
   argentum: true
   age: 12+
   title: ART PUTIKA I. – POSTSEDLIACI?
@@ -38,9 +38,9 @@
   age: 15+
   title: PIATOČEK – BIZARNÝ POLITICKÝ KVÍZ
   perex: "Tvorcovia známeho a úspešného satirického podcastu SME: Piatoček majú novinku! Objavte ich nový kvíz aj nový industry pub v Banskej Štiavnici."
-  location: Pražovňa – industry pub, 1. poschodie
+  location: Pražovňa – industry pub, 1.&nbsp;poschodie
   price: 10 €
-  slug: dennik-sme-piatock
+  slug: dennik-sme-piatocek
 
 - 
   time: 20:30 – 21:40
@@ -48,9 +48,9 @@
   premiere: true
   age: 15+
   title: V BORŮVČÍ
-  perex: "Erotická lechitira alebo komediálne, šteklivé divadlo so živou hudbou"
+  perex: "Erotická lechtihra alebo komediálne, šteklivé divadlo so živou hudbou"
   location: Kultúrne centrum, hlavná sála
-  price: V predpredaji 10 €, na mieste 18 €
+  price: V predpredaji 10 €, na mieste 12 €
   slug: geisslers-hofcomoedianten-v-boruvci
 
 - 

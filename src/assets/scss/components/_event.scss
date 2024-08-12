@@ -70,13 +70,14 @@
 	}
 
 	&-location {
-		margin-right: rem-calc( 16 );
+		margin-right: rem-calc( 8 );
 		&::before {
 			background-image: url('../img/event-location.svg');
 		}
 	}
 
 	&-price {
+		margin-right: rem-calc( 8 );	
 		&::before {
 			background-image: url('../img/event-price.svg');
 		}

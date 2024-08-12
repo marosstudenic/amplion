@@ -1,102 +1,104 @@
 <li class="programmes__item programmes__item--{{this.type}} progitem">
-    <div class="progitem__header">
-        <ul class="progitem__tags">
-            {{#if this.top}}
-                <li class="progitem__tag"><span class="event-top">TOP</span></li>
-            {{/if}}
-            {{#if this.premiere}}
-                <li class="progitem__tag"><span class="event-premiere">Slovenská premiéra</span></li>
-            {{/if}}
-            {{#if this.argentum}}
-                <li class="progitem__tag"><span class="event-argentum">Nominácia na Amplion Argentum</span></li>
-            {{/if}}
-            {{#if this.general}}
-                <li class="progitem__tag"><span class="event-top">{{this.general}}</span></li>
-            {{/if}}
-        </ul>
-        <span class="event-time">{{this.time}}</span>
-        <div class="progitem__suitablefor">
-            <span class="progitem__age">
-                {{#ifequal this.age "Family" }}
-                  <span class="event-family" title="Vhodné pre celú rodinu"></span>
-                {{else}}
-                  {{this.age}}
-                {{/ifequal}}
-            </span>
-        </div>
+  <div class="progitem__header">
+    <ul class="progitem__tags">
+      {{#if this.top}}
+      <li class="progitem__tag"><span class="event-top">TOP</span></li>
+      {{/if}} {{#if this.premiere}}
+      <li class="progitem__tag">
+        <span class="event-premiere">Slovenská premiéra</span>
+      </li>
+      {{/if}} {{#if this.argentum}}
+      <li class="progitem__tag">
+        <span class="event-argentum">Nominácia na Amplion Argentum</span>
+      </li>
+      {{/if}} {{#if this.general}}
+      <li class="progitem__tag">
+        <span class="event-top">{{this.general}}</span>
+      </li>
+      {{/if}}
+    </ul>
+    <span class="event-time">{{this.time}}</span>
+    <div class="progitem__suitablefor">
+      <span class="progitem__age">
+        {{#ifequal this.age "Family" }}
+        <span class="event-family" title="Vhodné pre celú rodinu"></span>
+        {{else}} {{this.age}} {{/ifequal}}
+      </span>
     </div>
+  </div>
 
-    <div class="progitem__gutter">
-        <div class="progitem__content">
-            <div class="progitem__titles">
-                <h5 class="progitem__performer">{{{this.performer}}}
-                    {{#if this.headliner}}
-                    <br>
-                        <strong style="color:#362982;font-size:0.8em;"> Headliner festivalu </strong>
-                    {{/if}}
-                </h5>
-                
-                <h4 class="progitem__title">
-                    {{#if this.slug}}
-                    <a href="/program/{{this.slug}}/">
-                    {{/if}}
-                        {{{this.title}}}
-                    {{#if this.slug}}    
-                    </a>
-                    {{/if}}
-                </h4> 
-            </div>
-            <div class="progitem__text">
-                <p>
-                    {{{this.perex}}} 
-                    {{#if this.slug}}<br><a href="/program/{{this.slug}}/">Čítať viac...</a>{{/if}}
-                </p>
-            </div>
-        </div>
-        <div class="progitem__factual">
-            <span class="event-location">{{{this.location}}}</span>
-            <br>
-            <span class="event-price">
-                {{#ifequal this.price 0}}
-                  Vstup voľný!
-                {{else}}
-                  {{this.price}}
-                {{/ifequal}}
-            </span> 
-            {{#if @root.site-config.show-tickets}}
-                {{#ifequal this.price 0}}
-                    {{!-- intentionally left blank, dont have opposit helper --}}
-                {{else}}
-                    {{#ifequal this.price "BUSKING"}}
-                        {{!-- intentionally left blank, dont have opposit helper --}}
-                    {{else}}
-                        {{#ifequal this.cancelled true}}
-                            {{!-- intentionally left blank, dont have opposit helper --}}
-                        {{else}}
-                            <div class="progitem__cta">
-                                <a href="/program/{{this.slug}}#vstupenky" class="button progitem__buytickets">Kúpiť vstupenku</a>
-                            </div>
-                        {{/ifequal}}
-                    {{/ifequal}}
-                {{/ifequal}}
+  <div class="progitem__gutter">
+    <div class="progitem__content">
+      <div class="progitem__titles">
+        <h5 class="progitem__performer">
+          {{{this.performer}}} {{#if this.headliner}}
+          <br />
+          <strong style="color: #362982; font-size: 0.8em">
+            Headliner festivalu
+          </strong>
+          {{/if}}
+        </h5>
 
-            {{else}}
-                {{#ifequal this.price 0}}
-                    {{!-- intentionally left blank, dont have opposit helper --}}
-                {{else}}
-                    {{#ifequal this.price "BUSKING"}}
-                        {{!-- intentionally left blank, dont have opposit helper --}}
-                    {{else}}
-                    {{#ifequal this.no-button true }}
-                    {{else}}
-                    <div class="progitem__cta">
-                        <a href="https://goout.net/sk/festival-amplion-novy-kabaret-and-poulicne-umenie-2023/szoiydw/" class="button progitem__buytickets" target="blank nofollow noopener">Predpredaj od 1.9.2023</a>
-                    </div>
-                    
-                    {{/ifequal}}
-                    {{/ifequal}}
-                {{/ifequal}}
-            {{/if}}
-        </div>
+        <h4 class="progitem__title">
+          {{#if this.slug}}
+          <a href="/program/{{this.slug}}/">
+            {{/if}} {{{this.title}}} {{#if this.slug}}
+          </a>
+          {{/if}}
+        </h4>
+      </div>
+      <div class="progitem__text">
+        <p>
+          {{{this.perex}}} {{#if this.slug}}<br /><a
+            href="/program/{{this.slug}}/"
+            >Čítať viac...</a
+          >{{/if}}
+        </p>
+      </div>
     </div>
+    <div class="progitem__factual">
+      <div style="display: flex">
+        <span class="event-location"></span>
+        <span style="color: #e62e6c; font-weight: bold"
+          >{{{this.location}}}</span
+        >
+      </div>
+      <br />
+      <div style="display: flex">
+        <span class="event-price"> </span>
+        <span style="color: #e62e6c; font-weight: bold">
+          {{#ifequal this.price 0}} Vstup voľný! {{else}} {{this.price}}
+          {{/ifequal}}
+        </span>
+      </div>
+
+      {{#if @root.site-config.show-tickets}} {{#ifequal this.price 0}} {{!--
+      intentionally left blank, dont have opposit helper --}} {{else}}
+      {{#ifequal this.price "BUSKING"}} {{!-- intentionally left blank, dont
+      have opposit helper --}} {{else}} {{#ifequal this.cancelled true}} {{!--
+      intentionally left blank, dont have opposit helper --}} {{else}}
+      <div class="progitem__cta">
+        <a
+          href="/program/{{this.slug}}#vstupenky"
+          class="button progitem__buytickets"
+          >Kúpiť vstupenku</a
+        >
+      </div>
+      {{/ifequal}} {{/ifequal}} {{/ifequal}} {{else}} {{#ifequal this.price 0}}
+      {{!-- intentionally left blank, dont have opposit helper --}} {{else}}
+      {{#ifequal this.price "BUSKING"}} {{!-- intentionally left blank, dont
+      have opposit helper --}} {{else}} {{#ifequal this.no-button true }}
+      {{else}}
+      <div class="progitem__cta">
+        <a
+          href="https://goout.net/sk/festival-amplion-novy-kabaret-and-poulicne-umenie-2023/szoiydw/"
+          class="button progitem__buytickets"
+          target="blank nofollow noopener"
+          >Predpredaj od 1.9.2023</a
+        >
+      </div>
+
+      {{/ifequal}} {{/ifequal}} {{/ifequal}} {{/if}}
+    </div>
+  </div>
 </li>
