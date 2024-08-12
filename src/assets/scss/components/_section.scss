@@ -5,6 +5,7 @@ section--narrow - content je uzsi
 section--straight - nema skoseny vrch
 section--straight-bottom - nema skoseny spodok
 section--top - has no margin top
+section--bottom - has no margin bottom
 section--imagebg - full bg obrazok definovany na section elemente
 section--notopspace - without top padding
 */
@@ -55,6 +56,12 @@ section--notopspace - without top padding
 
   &--top {
     margin-top: 0;
+    z-index: 1;
+  }
+
+  &--bottom {
+    margin-bottom: 0 !important;
+    padding-bottom: 0;
     z-index: 1;
   }
 
@@ -232,6 +239,11 @@ section--notopspace - without top padding
       }
     }
 
+    &--bottom {
+      margin-bottom: 0 !important;
+      z-index: 1;
+    }
+
     &__title {
       font-size: rem-calc(30);
       margin-bottom: rem-calc(32);
@@ -360,12 +372,22 @@ section--notopspace - without top padding
     }
   }
 
+  &--bottom {
+    margin-bottom: 0 !important;
+    z-index: 1;
+  }
+
   // XLARGE //////////////////////////////////////////////////
 
   @include breakpoint(xlarge) {
     &__title {
       &--dateplace {
       }
+    }
+
+    &--bottom {
+      margin-bottom: 0 !important;
+      z-index: 1;
     }
 
     &__illustration {
@@ -387,6 +409,11 @@ section--notopspace - without top padding
         margin-bottom: 150px;
       }
     }
+
+    &--bottom {
+      margin-bottom: 0 !important;
+      z-index: 1;
+    }
   }
 
   @include breakpoint(jano) {
@@ -397,6 +424,11 @@ section--notopspace - without top padding
         margin: 0 auto;
         margin-bottom: 150px;
       }
+    }
+
+    &--bottom {
+      margin-bottom: 0 !important;
+      z-index: 1;
     }
   }
 }
