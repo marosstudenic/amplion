@@ -64,9 +64,15 @@
 			</p>
 			{{#if @root.site-config.show-tickets}} 
 				{{#ifequal this.price 0}}
+				{{#if this.voluntary-admission}}
+					<p style="margin: 0.7rem">
+					  <span class="event-time">Voluntary adminssion</span>
+					</p>
+				{{else}}
 				  <p style="margin: 0.7rem">
 					  <span class="event-time">Free Entry</span>
 				  </p>
+				{{/if}}
 				{{else}}
 				{{#ifequal this.price "BUSKING"}}
 					<p style="margin: 0.7rem">
@@ -78,9 +84,12 @@
 							<span class="event-time">CANCELLED</span>
 						</p>
 					{{else}}
+						{{#if this.no-buy-button}}
+						{{else}}
 						<p data-smooth-scroll>
 							<a href="#vstupenky" class="button">BUY TICKETS</a>
 						</p>
+					{{/if}}
 					{{/ifequal}}
 				{{/ifequal}}
 				{{/ifequal}} 

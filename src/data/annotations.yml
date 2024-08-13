@@ -1,6 +1,8 @@
+# voluntary-admission: true "Vstupné dobrovolné!
+# price: 0 - no ticket button "Volny vstup!"
 
 ennio-marchetto:
-  performer: 'Ennio Machetto (IT) <br> <strong style="color:#362982;font-size:0.8em;"> HEADLINER FESTIVALU </strong>'
+  performer: 'Ennio Marchetto (IT) <br> <strong style="color:#362982;font-size:0.8em;"> HEADLINER FESTIVALU </strong>'
   title: "LIVING PAPER CARTOON"
   argentum: true
   premiere: true
@@ -168,6 +170,7 @@ konzorcium-icebreaking-circus-caravana:
   title: "CIRCUS CARAVANA"
   premiere: true
   price: 0
+  voluntary-admission: true
   general: "Program pre všetkých"
   occurences:
     -
@@ -442,7 +445,7 @@ der-senster-gob-promo:
   performer: 'Der Šenster Gob (EU)'
   title: "PROMO"
   argentum: true
-  price: "Dobrovoľné vstupné"
+  price: 0
   no-buy-button: true
   general: "Program pre všetkých"
   occurences:
@@ -538,10 +541,10 @@ tomas-marketa-koncert:
   general: "Program pre mladých a&nbsp;dospelých"
   occurences:
     -
-      time: "sobota 14:15 – 15:00"
-      location: Terrace at Blaškov, Počúvadlo Lake
+      time: "sobota 14:15"
+      location: Terasa u Blaškov, Počúvadlianske jazero
   title: CONCERT
-  perex: "Vlastná tvorba česko-slovenského dua z moravy"
+  perex: "Autorské piesne česko-slovenskej dvojice z Moravy"
   # pictures: 
   # link: 
   # foto: 

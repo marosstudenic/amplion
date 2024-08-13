@@ -76,6 +76,7 @@
       {{#ifequal this.price "BUSKING"}} {{!-- intentionally left blank, dont
       have opposit helper --}} {{else}} {{#ifequal this.cancelled true}} {{!--
       intentionally left blank, dont have opposit helper --}} {{else}}
+      {{#ifequal this.no-buy-button true}} {{else}}
       <div class="progitem__cta">
         <a
           href="/en/programme/{{this.slug}}#tickets"
@@ -83,7 +84,7 @@
           >Buy tickets</a
         >
       </div>
-      {{/ifequal}} {{/ifequal}} {{/ifequal}} {{/if}}
+      {{/ifequal}} {{/ifequal}} {{/ifequal}} {{/ifequal}} {{/if}}
     </div>
   </div>
 </li>

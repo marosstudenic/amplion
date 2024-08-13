@@ -64,9 +64,15 @@
       </p>
       {{#if @root.site-config.show-tickets}} 
         {{#ifequal this.price 0}}
+        {{#if this.voluntary-admission}}
+        <p style="margin: 0.7rem">
+          <span class="event-time">Vstupné dobrovolné</span>
+        </p>
+        {{else}}
           <p style="margin: 0.7rem">
             <span class="event-time">Vstup voľný</span>
           </p>
+        {{/if}}
         {{else}}
           {{#ifequal this.price "BUSKING"}}
             <p style="margin: 0.7rem">
