@@ -29,8 +29,9 @@ performed by new talents"
   premiere: true
   age: Family
   title: CIRCUS CARAVANA
+  general: "AMPLION KARAVANA"
   perex: "attractive international street theatre about bringing us closer together"
-  location: Area near the Secondary School of Services and Foresty, Koplašská 9&nbsp;St.
+  location: Area near the Secondary School of Services and Foresty, Kolpašská&nbsp;9&nbsp;St.
   price: "Voluntary Admission"
   slug: konzorcium-icebreaking-circus-caravana
 
@@ -42,7 +43,7 @@ performed by new talents"
   age: 12+
   title: PROMO
   perex: "invitation to the concert of a klezmer world music group"
-  location: Trotuár Cafe, A. Kmeť&nbsp;St.
+  location: Trotuár Cafe, A. Kmeťa&nbsp;St.
   price: 0
   slug: der-senster-gob-promo
 
@@ -77,7 +78,7 @@ Guest: Ján Markoš (author) – critical thinking lecturer. Moderated by editor
   premiere: false
   age: 12+
   title: CONCERT
-  perex: "female jazz trio plays and sings vintage music of the 1920s − 1940s"
+  perex: "female jazz trio plays and sings vintage music of the 1920s &mdash; 1940s"
   location: Art Cafe, garden
   price: 9 €
   slug: paper-moon-trio-koncert
@@ -101,8 +102,8 @@ Guest: Ján Markoš (author) – critical thinking lecturer. Moderated by editor
   premiere: false
   argentum: true
   age: 15+
-  title: KONCERT
-  perex: "klezmer band with elements of gypsy, jazz and Balkan music in an energetic way"
+  title: CONCERT
+  perex: "klezmer band with elements of gypsy, jazz and Balkan music in&nbsp;an&nbsp;energetic&nbsp;way"
   location: Art Cafe, attic
   price: Pre-sale 10 €, on-site 12 €
   slug: der-senster-gob-koncert

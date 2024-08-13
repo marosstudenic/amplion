@@ -3,9 +3,9 @@
   chapter: 1
   content:
     - <strong>Ubytovanie</strong> si rezervujte čo najskôr. Štiavnica je obľúbené turistické mesto a pokojne by sa vám mohlo stať, že pred festivalom už v meste žiadne voľné ubytovanie nezoženiete.
-    - <strong>Vstupenky</strong> si kúpite od 15. 8. 2024 online na <a href="https://www.amplion.eu/vstupenky"> www.amplion.eu/vstupenky </a>
-      <br> (resp. na <a href="https://goout.net/sk/festival-amplion-novy-kabaret-and-poulicne-umenie-2024/szeqdix/" target="_blank"> www.goout.sk</a>)
-      až do začiatku každého predstavenia a od 19. 9. 2024 aj osobne v Centrálnom predaji vstupeniek
+    - <strong>Vstupenky</strong> si kúpite od 15. 8. 2024 online na <a class="moreinfo"  href="https://www.amplion.eu/vstupenky"> www.amplion.eu/vstupenky </a>
+      alebo na <a class="moreinfo"  href="https://goout.net/sk/festival-amplion-novy-kabaret-and-poulicne-umenie-2024/szeqdix/" target="_blank"> www.goout.net</a>
+      až do začiatku každého predstavenia a od 19. 9. 2024 od 15:00 aj osobne v Centrálnom predaji vstupeniek
       (Kultúrne centrum, bočný vchod z Akademickej ulice).
     - <strong>Začiatok predstavenia</strong> je presne podľa programu. Preto si nastavte veliteľský čas a príďte vždy načas, pretože by sa vám mohlo stať, že budete musieť chvíľu čakať pred vchodom, pokým vás kontrolóri vpustia. A zatiaľ by ste boli smutní :(
     - <strong>Svetre a dobré topánky</strong> na AMPLIÓN určite patria. Večery môžu byť chladné a terén je v meste takmer vysokohorský!
@@ -13,7 +13,7 @@
   chapter: 2
   id: vstupenky
   content:
-    - Chcete mať istotu, že sa na vybrané produkcie dostanete? <strong>Kúpte si vstupenky vopred online na <a class="moreinfo" href="/vstupenky/">www.amplion.eu/vstupenky</a></strong>. Niektoré priestory majú obmedzenú kapacitu a nikto predsa nechce pred predstavením zistiť, že je už vypredané! Vstupenky si môžete pohodlne kúpiť zo svojho PC alebo mobilu najneskôr minútu pred začiatkom predstavenia.
+    - Chcete mať istotu, že sa na vybrané produkcie dostanete? <strong>Kúpte si vstupenky vopred online na <a class="moreinfo" href="/vstupenky/">www.amplion.eu/vstupenky</a></strong> alebo <a class="moreinfo"  href="https://goout.net/sk/festival-amplion-novy-kabaret-and-poulicne-umenie-2024/szeqdix/" target="_blank">www.goout.net</a>. Niektoré priestory majú obmedzenú kapacitu a nikto predsa nechce pred predstavením zistiť, že je už vypredané! Vstupenky si môžete pohodlne kúpiť zo svojho PC alebo mobilu najneskôr minútu pred začiatkom predstavenia.
     - <strong>Po začiatku programu už online nákup vstupeniek nie je možný.</strong>
     - Počas celého festivalu si môžete vstupenky kúpiť aj osobne v <b>Centrálnom predaji vstupeniek</b>. Tu si môžete kúpiť vstupenku aj po začiatku produkcie, kedy už je online predaj zastavený. Nájdete ho v bočnom vchode Kultúrneho centra (z Akademickej ulice), otvorené je vo štvrtok 19. 9. 2024 od 15:00 do 20:00 hod., v piatok a sobotu od 9:00 do 23:00 hod. a v nedeľu 22. 09. 2024 od 10:00 do 16:00 hod.
     - <strong>Nezabudnite, že na jednotlivých scénach sa vstupenky nepredávajú.</strong>
@@ -62,7 +62,7 @@
     - Chystáte sa na festival ako účinkujúci alebo hosť? Už na vás čaká mäkká posteľ na jednom z týchto skvelých miest našich láskavých partnerov, ktorým aj takto ďakujeme za ústretovosť! Návštevníkom festivalu tieto ubytovania odporúčame v čase mimo termínu festivalu, pretože páni domáci sú tu naozaj veľmi milí a ochotní.
     - <a href="http://www.nostalgia.stiavnica.sk/" target="_blank">Penzión Nostalgia</a><br>
       <a href="https://www.rozalia.sk/" target="_blank">Penzión Rozália</a><br>
-      <a href="https://www.grandmatej.sk/" target="_blank">Hotel GRAND Matej</a>
+      <a href="https://www.grandmatej.sk/" target="_blank">Hotel GRAND Matej</a><br/>
       <a href="http://www.hostel.stiavnica.sk/" target="_blank">Hostel Skautský dom</a><br>
 - title: Kde sa najem?
   chapter: 7
@@ -74,7 +74,7 @@
   chapter: 8
   id: miesta-predstaveni
   content:
-    - Programy sa konajú na 11 rôznych exteriéroch a interiéroch v centre a okolí Banskej Štiavnice.  <!-- Pozrite sa na mapu, kde sú všetky miesta prehľadne vyznačené.--> Predstavenia obvykle začínajú od 10:00 dopoludnia a končia o 23:00.
+    - Programy sa konajú na 11 rôznych exteriéroch a interiéroch v centre a okolí Banskej Štiavnice.  <!-- Pozrite sa na mapu, kde sú všetky miesta prehľadne vyznačené.--> Predstavenia obvykle začínajú od 10:00 dopoludnia a končia po 23:00.
     - <strong>Nastavte si veliteľský čas, pretože sa začínajú presne podľa programu!</strong> Kto mešká, riskuje, že si <strong>chvíľu počká, pokým ho organizátori pustia na predstavenie alebo ho nemusia pustiť vôbec</strong>, keďže oneskorené vstupy rušia umelcov aj divákov.
     - Všetky scény v exteriéroch sú pes friendly, v interiéroch Art Cafe a Kocka. Vstup so psíkom je zakázaný do Kultúrneho centra a Hotela GRAND Matej.
     - <small>(Kliknutím otvoríte mapu na novej karte, bude sa vám lepšie čítať)</small>

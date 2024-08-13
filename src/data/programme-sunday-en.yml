@@ -4,8 +4,8 @@
   argentum: true
   age: 12+
   title: AFTER CONCERT
-  perex: "female jazz trio plays and sings vintage music of the 1920s − 1940s"
-  location: Trotuár Cafe, A. Kmeť&nbsp;St.
+  perex: "female jazz trio plays and sings vintage music of the 1920s &mdash; 1940s"
+  location: Trotuár Cafe, A. Kmeťa&nbsp;St.
   price: 0
   slug: paper-moon-trio-after-koncert
 
@@ -50,7 +50,7 @@
   headliner: true
   age: 15+
   title: EUROPEANA
-  perex: "a brief history of the European 20 th century told with insight, humor and poignant
+  perex: "a brief history of the European 20<sup>th</sup> century told with insight, humor and poignant
 irony in an informal and mesmerizing way by one of the most legendary Prague theatres."
   location: Cultural Centre, Main Hall
   price: Pre-sale 15 €, on-site 18 €

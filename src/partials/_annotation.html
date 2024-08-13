@@ -78,9 +78,12 @@
                 <span class="event-time">Zrušené</span>
               </p>
             {{else}}
+              {{#if this.no-buy-button}}
+                {{else}}
               <p data-smooth-scroll>
                 <a href="#vstupenky" class="button">Kúpiť vstupenky</a>
               </p>
+              {{/if}}
             {{/ifequal}}
           {{/ifequal}}
         {{/ifequal}} 
@@ -142,7 +145,7 @@
     {{#if foto}}
     <p>&nbsp;</p>
 
-    <p class="text-center">Foto: {{foto}}</p>
+    <p class="text-center">Foto: {{{foto}}}</p>
     {{/if}}
   </div>
 </section>

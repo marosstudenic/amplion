@@ -4,7 +4,7 @@
   age: Family
   perex: "Opening of the 9th edition of the AMPLIFIER Festival with the motto:
 “Bringing Us Closer is an Art!”, anthem + promo: All in Circus (HU), Tygroo (CZ),
-Sabor-Life in Rhythm (ES)"
+Sabor-Life&nbsp;is&nbsp;Rhythm (ES)"
   location: Holy Trinity Square
   price: 0
   slug: otvorenie-festivalu
@@ -27,7 +27,7 @@ Sabor-Life in Rhythm (ES)"
   argentum: true
   age: 12+
   title: ART PUTIKA I. – POST-SETTLERS?
-  perex: "Discussion and reading from the successful book Post-Settlers: Slovak People’s Protest Guest: Juraj Buzalka (author). Moderated by editor Jana Močková."
+  perex: "Discussion and reading from the successful book Post-Settlers: Slovak People’s Protest. Guest: Juraj Buzalka (author). Moderated by editor Jana Močková."
   location: Art Cafe, attic
   price: 7 €
   slug: art-putika-i-postsedliaci
@@ -40,7 +40,7 @@ Sabor-Life in Rhythm (ES)"
   age: 15+
   title: BIZARRE POLITICAL QUIZ − PIATOČEK
   perex: "The creators of a well-known and successful satirical podcast Piatoček have news! Discover their new quiz and new industry pub in Banská Štiavnica."
-  location: Pražovňa − industry pub, 1<sup>st</sup>&nbsp;floor
+  location: Pražovňa &mdash; industry pub, 1<sup>st</sup>&nbsp;floor
   price: 10 €
   slug: dennik-sme-piatocek
 

@@ -31,8 +31,10 @@
   premiere: true
   age: Family
   title: CIRCUS CARAVANA
+  general: "AMPLION KARAVANA"
   perex: "Atraktívne medzinárodné pouličné divadlo o zbližovaní"
   location: Asfaltová plocha pri SOŠSL, Kolpašská 9
+  no-buy-button: true
   price: "Vstupné dobrovoľné"
   slug: konzorcium-icebreaking-circus-caravana
 

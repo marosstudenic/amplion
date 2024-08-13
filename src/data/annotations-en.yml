@@ -1,16 +1,16 @@
 
 ennio-marchetto:
-  performer: 'Ennio Machetto (IT) <br> <strong style="color:#362982;font-size:0.8em;"> FESTIVAL HEADLINER</strong>'
+  performer: 'Ennio Marchetto (IT) <br> <strong style="color:#362982;font-size:0.8em;"> FESTIVAL HEADLINER</strong>'
   title: "LIVING PAPER CARTOON"
   argentum: true
   premiere: true
   general: "Only at Amplifier"
   top-general: "TOP programme for all"
 
-  perex: "A one-man cabaret show with world stars like you&#39;ve never seen before!"
+  perex: "A one-man cabaret show with world stars like you&#39;ve never&nbsp;seen&nbsp;before!"
   occurences:
     -
-      time: "saturday 20:30"
+      time: "Saturday 20:30"
       location: "Culture Centre"
   content:
     -
@@ -32,7 +32,7 @@ ennio-marchetto:
     - Ennio_Marchetto_portrait civil.jpg
     - Ennio_Marchetto_portrait face.jpg
   link: "https://enniomarchetto.com/"
-  foto: "archive&nbsp;Ennia Marchetta"
+  foto: "archive of Ennio Marchetto"
 
 
 divadlo-na-zabradli-europeana:
@@ -41,14 +41,14 @@ divadlo-na-zabradli-europeana:
   argentum: true
   premiere: true
   top-general: "TOP programme for the young and adults"
-  perex: "A brief history of the European twentieth century told with insight, humor and poignant irony in an informal and mesmerizing way by one of the most legendary Prague theatres. An extraordinary cast of theatre personalities performing for the first time in Banska Stiavnica."
+  perex: "A brief history of the European twentieth century told with insight, humor and poignant irony in an informal and mesmerizing way by one of the most legendary Prague theatres. An extraordinary cast of theatre personalities performing for the first time in Banská Štiavnica."
   occurences:
     -
-      time: "sunday 16:00"
+      time: "Sunday 16:00"
       location: "Culture Centre"
   content:
     -
-      "No more boring history! Here is a dramatisation of <i>Patrik Ouředník&#39;s</i> internationally successful book and his gripping and bizarre account of the world in the20th century. A world in which war, invention of the bra and perforated toilet paper all played an important role. Banalities and pivotal moments are given equal space here, and the result is a new perspective on our past. The twentieth century as in the palm of your hand. Directed by Jan Mikulášek, the cast includes Dita Kaplanová, Anežka Kubátová, Magdaléna Sidonová, Jan Hájek, Václav Vašák, Jiří Kniha, Miloslav König, Jiří Vyorálek. The performance will be followed by a discussion with the actors moderated by journalist <i>Eva Sládková</i>."
+      "No more boring history! Here is a dramatisation of <i>Patrik Ouředník&#39;s</i> internationally successful book and his gripping and bizarre account of the world in the 20th century. A world in which war, invention of the bra and perforated toilet paper all played an important role. Banalities and pivotal moments are given equal space here, and the result is a new perspective on our past. The twentieth century as in the palm of your hand. Directed by Jan Mikulášek, the cast includes Dita Kaplanová, Anežka Kubátová, Magdaléna Sidonová, Jan Hájek, Václav Vašák, Jiří Kniha, Miloslav König, Jiří Vyorálek. The performance will be followed by a discussion with the actors moderated by journalist <i>Eva Sládková</i>."
     -
       "<i>Dramaturgy of <b>Theatre Na zabradlí </b>is following the path of original authorial theatre, dramatisations of novels and radical interpretations of classics. It brings fresh, often semi- documentary productions, that demand an engaged and open-minded audience, not afraid to think about the art it is being exposed to. The company regularly performs at home and abroad, frequently visiting Poland, Hungary, Slovakia, Germany, but has also performed in Bosnia and Herzegovina, Serbia, Colombia, and the USA. It will be Na zabradli’s first visit to Banská&nbsp;Štiavnica!</i>"
   pictures:
@@ -68,13 +68,13 @@ divadlo-na-zabradli-europeana:
 
 sabor-life-is-rhythm-chut-zivota:
   performer: 'Sabor-Life is Rhythm (ES)'
-  title: "TASTE OF LIFE IS IN THE RHYTHM"
+  title: "TASTE OF LIFE IS <br/> IN THE RHYTHM"
   argentum: true
   premiere: true
   general: "Programme for the young and adults"
   occurences:
     -
-      time: "saturday 18:00"
+      time: "Saturday 18:00"
       location: "Cube"
   perex: "A joyful and refreshing new cabaret full of music, tap dance and energy!"
   content:
@@ -96,9 +96,9 @@ geisslers-hofcomoedianten-v-boruvci:
   general: "Programme for the young and adults"
   occurences:
     -
-      time: "friday 20:30"
+      time: "Friday 20:30"
       location: "Culture Centre"
-  perex: "Erotic tickling or a spicy comedy theatre with live music (and no words)"
+  perex: "Erotic tickling or a spicy comedy theatre with live music (and&nbsp;no&nbsp;words)"
   content:
     -
       "Enjoy the capricious theatrical beauty! Love moves mountains, but passion does wonders to people. If you don&#39;t want to lose your heart, get out of the kitchen! A saucy comedy full of forest fruit and lovesick animals. Inspired by the play La Mirtilla (1588) written by the famous actress and writer Isabella Andreini. For ages 15 and up."
@@ -121,7 +121,7 @@ divadlo-falangir-stmieva-sa:
   top-general: "Winner of SKETCH UP 2023 2023 "
   occurences:
     -
-      time: "saturday 14:00"
+      time: "Saturday 14:00"
       location: "Culture Centre"
   perex: "Re-generational testimony of young theatre artists about burnout that will get you started again"
   content:
@@ -140,14 +140,14 @@ divadlo-falangir-stmieva-sa:
 
 
 and-adam-blasko-sketch-up:
-  performer: 'AND &amp; hostia &amp;(SK+ES)'
+  performer: 'AND &amp; guests (SK+ES)'
   title: "SKETCH UP"
   top-general: "Only at AMPLIFIER"
   general: "Programme for the young and adults"
   occurences:
     -
-      time: "saturday 11:00"
-      location: "Kocka"
+      time: "Saturday 11:00"
+      location: "Cube"
   perex: "The 6th edition of the successful annual Czech-Slovak competition of cabaret sketches of new talents. Hosted by Adam Blaško from the successful SME: Piatoček podcast. Sabor-Life Is Rhythm, the international group of tap dancers and musicians will perform as a musical guest. Don&#39;t miss out on this packed programme!"
   content:
     -
@@ -170,14 +170,14 @@ konzorcium-icebreaking-circus-caravana:
   general: "Programme for all"
   occurences:
     -
-      time: "saturday 15:30"
-      location: "Area near the Secondary School of Services and Forestry, Kolpasska 9&nbsp;St."
-  perex: "International music and movement street theatre about bringing people closer together. In Slovak premiere."
+      time: "Saturday 15:30"
+      location: "Area near the Secondary School of Services and Forestry, Kolpašská&nbsp;9&nbsp;St."
+  perex: "International music and movement street theatre about bringing people closer together."
   content:
     -
       "At this year’s AMPLIFIER, you will have an opportunity to experience the premiere of an international street production of five theatres, promoting a more tolerant relations between the V4 locals and the Ukrainian expatriates. <br/> There is war at home, the circus has broken up, the performers have scattered abroad. What are the fates of the members of the circus family which is looking for a new place to live and a new opportunity fo their circus in Europe? What kind of people do they meet in the V4 countries? Will they manage to renew their roots? The problem of refugees and their (non)acceptance is up in the air. It is inflated by prejudices, it contaminates the air, it weighs it down and it creates various interpersonal distances. The performance, in the form of a circus and grotesque, ventilates barriers, pumps humanity, resuscitates dreams and hopes of a tolerant future. Or is it just a utopian bubble?"
     - 
-      "<i><b>Konzorcium Icebreaking</b> is a unique ensemble of theatre performers and creators from five theatres in V4 countries and Ukraine. Under the leadership of the Ensemble of Irregular Theatre (SK), the famous Teatr KTO from Krakow (PL), the captivating new-circus group Firebirds from Budapest (H), the cheerful author-theatre group Krvik Totr/Prostores from Prague (CZ) and the Ukrainian multimedia theatre WE: MEDIA THEATER from Lviv are participating in the project.</i>"
+      "<i><b>Conzorcium Icebreaking</b> is a unique ensemble of theatre performers and creators from five theatres in V4 countries and Ukraine. Under the leadership of the Ensemble of Irregular Theatre (SK), the famous Teatr KTO from Krakow (PL), the captivating new-circus group Firebirds from Budapest (H), the cheerful author-theatre group Krvik Totr/Prostores from Prague (CZ) and the Ukrainian multimedia theatre WE: MEDIA THEATER from Lviv are participating in the project.</i>"
     -
       "<i>Libretto/Script: Petr Novotný &amp; Tomáš Kout (CZ), Jana Mikitková (SK), dramaturgy and production by Ján Fakla (SK), set design by Tomáš Žižka (CZ), costumes by Anna Weszelovszky (HU), music by Róbert Mankovecký (SK), movement coordination by Ladislav Cmorej (SK), directorial supervision by Jerzy Zoń (PL), directed by Jana Mikitková (SK), performed by Slawek Bendykowski, Paulina Lasyk, Mieszko Syc (PL), Bálint Turai, Gergely Kiss, Dorottya Podmaniczky (HU), Daniela Voráčková, Angela Nwagbo (CZ), Anton Eliáš, Henrich Žucha and Dušan Krnáč (SK). Technical support by Milan Slama (SK).</i>"
     -
@@ -206,12 +206,12 @@ konzorcium-icebreaking-circus-caravana:
 all-in-circus:
   performer: 'All in Circus (HU)'
   title: "ALL IN TWO"
-  argentum: true
+  argentum: false
   premiere: true
   general: "Family programme"
   occurences:
     -
-      time: "friday 17:00"
+      time: "Friday 17:00"
       location: "Scout House Garden"
   perex: "Entertaining street circus by two jugglers, clowns and acrobats"
   content:
@@ -236,14 +236,14 @@ tygroo-koncert:
   general: "Programme for the young and adults"
   occurences:
     -
-      time: "firday 22:30"
+      time: "Friday 22:30"
       location: "Cube"
-  perex: "A wild mix of electronic dance music, Balkan, jazz, and rap."
+  perex: "A wild mix of electronic dance music, balkan, jazz, and rap."
   content:
     -
-      "Do you remember how <b>the TooT Ensemble </b>entertained the heck out of you at AMPLIFIER 2022? Well, what we have for you this year is another unbridled brass ensemble that made even pensioners and wheelchair users hit the dancefloor. Each of their compositions takes something different from those genres, and otherwise uses the possibility of combining seemingly unrelated styles. The whole concert is then journey from the unexpected to the next unexpected, only more and more in a dance trance. For Tygroo, playing live is something like a ritual, an opportunity to return to the original madness, a moment when one can joyfully dissolve in music and dance, together with the band, together with the audience. Come burn calories at their concert!"
+      "Do you remember how <b>The TooT Ensemble </b>entertained the heck out of you at AMPLIFIER 2022? Well, what we have for you this year is another unbridled brass ensemble that made even pensioners and wheelchair users hit the dancefloor. Each of their compositions takes something different from those genres, and otherwise uses the possibility of combining seemingly unrelated styles. The whole concert is then journey from the unexpected to the next unexpected, only more and more in a dance trance. For Tygroo, playing live is something like a ritual, an opportunity to return to the original madness, a moment when one can joyfully dissolve in music and dance, together with the band, together with the audience. Come burn calories at their concert!"
     -
-      "<i><b>Tygroo</b> is a Czech band that creates the atmosphere of an electronic music concert using brass instruments, following the example of the American bands Moon Hooch and Too Many Zooz, while combining eastern and western genres in an original way. They have created an original way of connecting instruments that allows us to use real-time effects that you would not expect in acoustic music. This also gives us the sound we have, and thus we are able to tighten even a large stage, for which these instruments (brass and drums) alone would not be enough.</b>"
+      "<i><b>Tygroo</b> is a Czech band that creates the atmosphere of an electronic music concert using brass instruments, following the example of the American bands Moon Hooch and Too Many Zooz, while combining eastern and western genres in an original way. They have created an original way of connecting instruments that allows us to use real-time effects that you would not expect in acoustic music. This also gives us the sound we have, and thus we are able to tighten even a large stage, for which these instruments (brass and drums) alone would not be enough.</b></i>"
   pictures:
     - 20230524_047_22ndAJF_Tygroo_VangelisPatsialos_web.jpg 
     
@@ -265,7 +265,7 @@ der-senster-gob-koncert:
   general: "Programme for the young and adults"
   occurences:
     -
-      time: "saturday 22:00"
+      time: "Saturday 22:00"
       location: "Art Cafe"
   perex: "Unique klezmer band with elements of gypsy, jazz and Balkan music in an energetic performance with an unmistakable atmosphere"
   content:
@@ -288,9 +288,8 @@ paper-moon-trio-koncert:
   general: "Programme for young people and adults"
   occurences:
     -
-      time: "saturday 19:00"
-      location: "Art Cafe, garden"
-  perex: "Female jazz trio plays and sings vintage music of the 1920s - 1940s."
+      time: "Saturday 19:00"
+  perex: "Female jazz trio plays and sings vintage music of the&nbsp;1920s&nbsp;&mdash;&nbsp;1940s."
   content:
     -
       "Let yourself be carried away by swing music in the moonlight in a beautiful garden setting with a captivating view of Banská Štiavnica. Immerse yourself in the atmosphere of style, fashion and refinement of the 1920s. It will be brought to you by a vocal-instrumental female trio with tender voices playing violin, ukulele and guitar. They perform grotesque charleston and flirtatious swing with only one intention - authentic and original interpretation so you can be to transported to the golden era of the past century when entertainment meant quality and refinement was a virtue."
@@ -305,20 +304,20 @@ paper-moon-trio-koncert:
 
 dennik-sme-piatocek:
   performer: 'Denník SME (SK)'
-  title: "PIATOČEK – Bizarre political quiz PIATOCEK"
+  title: "PIATOČEK <br/> Bizarre political quiz"
   argentum: true
   general: "Programme for the young and adults"
   occurences:
     -
-      time: "friday 20:00"
-      location: "Pražovňa - industry pub, 1st floor"
-  perex: "The creators of the well-known and successful satirical podcast SME: Piatoček have news. Discover their new quiz and come join us in a new industry pub in Banská Štiavnica. Great fun guaranteed"
+      time: "Friday 20:00"
+      location: "Pražovňa &mdash; industry pub, 1st floor"
+  perex: "The creators of the well-known and successful satirical podcast SME: Piatoček have news. Discover their new quiz and come join us in a new industry pub in Banská Štiavnica. Great fun guaranteed!"
 
   content:
     -
       "Are you familiar with the most bizarre corners of Slovak politics, even if you are not a historian? Come and test your knowledge on this unique quiz. You will test your insight into the figures of our politics as well as the important or completely insignificant events that contribute to the current atmosphere in society. Put together a team of 5 and show others that you&#39;re the real deal. If you don&#39;t have a team, don&#39;t worry, we&#39;ll find you some mates and build one for you. Feel free to come!"
     -
-      "<i><b>Piatocek (Friday)</b> is an award-winning weekly satirical podcast about more than just politics. It comes out, surprisingly, every Friday. It is the brainchild of a young creative team consisting of Adam Blaško, Kristína Gyuriková, Kristina Janščová and Viktor Hlavatovič. They are all looking forward to seeing you in the new industry pub in Banská Štiavnica!</i>"
+      "<i><b>Piatoček (Friday)</b> is an award-winning weekly satirical podcast about more than just politics. It comes out, surprisingly, every Friday. It is the brainchild of a young creative team consisting of Adam Blaško, Kristína Gyuriková, Kristina Janščová and Viktor Hlavatovič. They are all looking forward to seeing you in the new industry pub in Banská Štiavnica!</i>"
   pictures:
     - SME_Piatocek_team_1.JPG
     - SME_Adam Blasko_1.jpg
@@ -334,7 +333,7 @@ art-putika-i-postsedliaci:
   general: "Programme for the young and adults"
   occurences:
     -
-      time: "friday 18:00"
+      time: "Friday 18:00"
       location: "Art Cafe, attic"
   perex: "Discussion and reading from the successful book Post-Settlers: Slovak People‘s Protest. <br/>Guest: Juraj Buzalka, author. Moderator: Jana Močková, editor."
   content:
@@ -350,7 +349,7 @@ art-putika-i-postsedliaci:
     - "ART PUTIKA I_Juraj Buzalka_Dennik N.jpg"
 
   link: "https://sk.wikipedia.org/wiki/Juraj_Buzalka"
-  foto: "Denník N"
+  foto: "Denník N & author's archive"
 
 art-putika-ii-blizsie-k-sebe:
   performer: 'Jana Močková, Denník&nbsp;N&nbsp;(SK)'
@@ -358,7 +357,7 @@ art-putika-ii-blizsie-k-sebe:
   general: "Programme for young people and adults"
   occurences:
     -
-      time: "saturday 17:00"
+      time: "Saturday 17:00"
       location: "Art Cafe, attic"
   perex: "Author‘s reading from the book Closer Together? and a discussion on how to get closer to ourselves and to others. Guest: Ján Markoš, author/critical thinking lecturer. Moderator: Jana Močková, editor."
   content:
@@ -370,7 +369,7 @@ art-putika-ii-blizsie-k-sebe:
       "<i><b>Jana Močková</b> graduated in journalism at the Comenius University in Bratislava. She started her career at Radio Devín, from 2010 to 2014 she was an editor at SME‘s culture section. She has worked at Denník N since its foundation. She mainly covers topics in the field of art, architecture and cultural policy. In 2018, she received two nominations for the Journalism Award in the interview and reportage categories.</i>"
   pictures:
     - ART PUTIKA_Jana Mockova_Dennik N.jpg
-    - Jan Markos_Blizsie k&nbsp;sebe.jpg
+    - Jan Markos_Blizsie k sebe.jpg
     - ART PUTIKA II_Jan_Markos_Michal Svitok_2.jpg
 
   link: "https://sk.wikipedia.org/wiki/J%C3%A1n_Marko%C5%A1"
@@ -382,7 +381,7 @@ ddistance-generation-no-close-no-fun:
   general: "Programme for the young and adults"
   occurences:
     -
-      time: "sunday 14:00"
+      time: "Sunday 14:00"
       location: "Scout House Garden"
   perex: "Modern art recitals about how to bring us closer together will take place behind the Scout House under the Old Castle surrounded by beautiful garden terraces and accompanied by swing music."
   content:
@@ -403,21 +402,22 @@ ddistance-generation-no-close-no-fun:
 
 
   link: "https://amplion.eu/archiv/"
-  foto: "autors archive"
+  foto: "author's archive"
 
 
 otvorenie-festivalu:
   performer: ''
-  title: "OPENING OF THE FESTIVAL"
+  title: "OPENING CEREMONY"
   general: "Programme for all"
+  price: 0
   occurences:
     -
-      time: "friday 16:00"
+      time: "Friday 16:00"
       location: "Holy Trinity Square"
   perex: "Join us for the opening of the 9th edition of the AMPLIFIER Festival with the with the motto: “Bringing Us Closer is an Art!”"
   content:
     -
-      "Have a little taste of what the festival has got to offer this year. The festival anthem will be performed by the crazy band Tygroo and others &mdash; the All in Circus and Sabor-Life in Rhythm. "
+      "Have a little taste of what the festival has got to offer this year. The festival anthem will be performed by the crazy band Tygroo and followed by other great artists &mdash; the All in Circus and Sabor-Life is Rhythm. "
   pictures:
     - amplion23_otvorenie_festivalu_Michal Svitok_060.jpg
     - amplion23_otvorenie_festivalu_Kristina Svitokova_002.jpg
@@ -432,16 +432,17 @@ otvorenie-festivalu:
     - "Sabor-life in Rhythm_ES_03.JPEG"
   
   link: "https://amplion.eu/archiv/"
-  foto: "Michal a&nbsp;Kristína Svítokovci a&nbsp;autors archive"
+  foto: "Michal &&nbsp;Kristína Svítokovci &&nbsp;author's archive"
 
 der-senster-gob-promo:
   performer: 'Der Šenster Gob (EU)'
   title: "PROMO"
   argentum: true
+  price: 0
   general: "Programme for the young and adults"
   occurences:
     -
-      time: "saturday 16:30"
+      time: "Saturday 16:30"
       location: "Trotuár Cafe"
   perex: "Invitation to the concert of a klezmer music band"
   content:
@@ -454,18 +455,19 @@ der-senster-gob-promo:
     - Der_Senster_Gob_CZ 4_Honza Vitu.jpg
     - Der_Senster_Gob_CZ 5_Lukas Hamacek.jpg
   link: "https://vovasko.wixsite.com/der-senster-gob/"
-  foto: "archív kapely"
+  foto: "archive of the band"
 
 we-media-theater-sef-cirkusu:
   performer: 'WE: MEDIA THEATER (UA)'
-  title: "ŠÉF CIRKUSU"
+  title: "CHIEF OF THE CIRCUS"
   argentum: false
   premiere: true
-  general: "Program pre mladých a&nbsp;dospelých"
+  price: 0
+  general: "Programme for youth and adults"
   occurences:
     -
-      time: "sunday 11:00"
-      location: "Art Cafe, povala"
+      time: "Sunday 11:00"
+      location: "Art Cafe, attic"
   perex: "Short documentary about the fate of a circus principal Ilya Borsuk, which inspired the creation of the international music and movement street show CIRCUS CARAVANA (V4+UA)."
   content:
     -
@@ -484,9 +486,10 @@ and-der-senster-gob-after-koncert:
   performer: 'AND&nbsp;&&nbsp;Der&nbsp;Šenster&nbsp;Gob&nbsp;(EU)'
   title: "FAREWELL CONCERT + <span style='font-size:40px'>Amplion Argentum Festival Award Announcement</span>"
   general: "Program for all"
+  price: 0
   occurences:
     -
-      time: "sunday 12:00"
+      time: "Sunday 12:00"
       location: "Art Cafe, teracce"
   perex: "Are you curious who will win this year&#39;s festival awards? Don&#39;t miss out on a pleasant meeting with the best artists of the festival in the atmosphere of a unique klezmer band music."
   content:
@@ -499,20 +502,21 @@ and-der-senster-gob-after-koncert:
     - Amplion argentum_2023_Michal Svitok_009.jpg
     - Amplion argentum_2023_Michal Svitok_013.jpg
   link: "https://amplion.eu/archiv/"
-  foto: "archív festivalu"
+  foto: "archive of festival"
 
 paper-moon-trio-after-koncert:
   performer: 'Paper Moon Trio (SK)'
-  title: "AFTER KONCERT"
+  title: "AFTER CONCERT"
   general: "Program for youth and adults"
+  price: 0
   occurences:
     -
-      time: "sunday 10:00"
+      time: "Sunday 10:00"
       location: "Trotuár Cafe, A. Kmeťa"
-  perex: "Female jazz trio plays and sings vintage music of the 1920s - 1940s."
+  perex: "Female jazz trio plays and sings vintage music of&nbsp;the&nbsp;1920s&nbsp;&mdash;&nbsp;1940s."
   content:
     -
-      "After concert of Female jazz trio Paper Moon Trio"
+      "Immerse yourself in the atmosphere of style, fashion and refinement of the 1920s. It will be brought to you by a vocal-instrumental female trio with tender voices playing violin, ukulele and guitar. They perform grotesque charleston and flirtatious swing with only one intention - authentic and original interpretation so you can be to transported to the golden era of the past century when entertainment meant quality and refinement was a virtue."
     -
       "<i><b>Paper Moon Trio</b> tvoria Barbora Medeková: spev a&nbsp;ukulele, Andrea Kružliaková: spev a&nbsp;gitara, Juliana Šeregiová: spev a&nbsp;husle. Stretli sa v&nbsp;roku 2009 v&nbsp;orchestri Bratislava Hot Serenaders, kde spolu účinkovali ako vokálne trio Serenaders Sisters. Neskôr si založili Paper Moon Trio, ku ktorému ich inšpirovala pieseň It’s Only A Paper Moon.</i>"
   pictures:
@@ -521,3 +525,20 @@ paper-moon-trio-after-koncert:
     - Paper Moon Trio_SK_04.jpg
   link: "http://www.facebook.com/Paper-Moon-Trio-190925080956019"
   foto: "Simona Babjaková"
+
+
+
+tomas-marketa-koncert:
+  performer: Tomáš & Markéta (SK+CZ)
+  premiere: false
+  general: "Program pre mladých a&nbsp;dospelých"
+  occurences:
+    -
+      time: "sobota 14:15 – 15:00"
+      location: Terrace at Blaškov, Počúvadlo Lake
+  title: CONCERT
+  perex: "original songs by a Czech-Slovak duo from Moravia"
+  # pictures: 
+  # link: 
+  # foto: 
+  price: 0

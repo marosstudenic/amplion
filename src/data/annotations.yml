@@ -167,6 +167,7 @@ konzorcium-icebreaking-circus-caravana:
   performer: 'Konzorcium Icebreaking (V4+UA)'
   title: "CIRCUS CARAVANA"
   premiere: true
+  price: 0
   general: "Program pre všetkých"
   occurences:
     -
@@ -181,7 +182,7 @@ konzorcium-icebreaking-circus-caravana:
     -
       "<i><b>Konzorcium Icebreaking</b> je jedinečné spojenie tvorcov 5 divadiel z&nbsp;krajín V4 a&nbsp;Ukrajiny vo vzájomnej spolupráci. Pod vedením Ansámblu nepravidelného divadla (SK) na projekte kooperujú slávne Teatr KTO z&nbsp;Krakova, podmanivá novocirkusová skupina Firebirds z&nbsp;Budapešti, veselé autorsko-divadelné zoskupenie Krvik Totr/Prostores z&nbsp;Prahy aj ukrajinské multimediálne divadlo WE: MEDIA THEATER z&nbsp;Lviva.</i>"
     -
-      "<i>Libreto/scenár: Petr Novotný &amp; Tomáš Kout (CZ), Jana Mikitková (SK), dramaturgia a&nbsp;produkcia: Ján Fakla (SK), výprava: Tomáš Žižka (CZ), kostýmy: Anna Weszelovszky (HU), hudba: Róbert Mankovecký (SK), pohybová spolupráca: Ladislav Cmorej (SK), režijný dozor: Jerzy Zoń (PL), réžia: Jana Mikitková (SK). Účinkujú: Slawek Bendykowski, Paulina Lasyk, Mieszko Syc (PL), Bálint Turai, Gergely Kiss, Dorottya Podmaniczky (HU), Daniela Voráčková, Angela Nwagbo (CZ), Anton Eliáš, Henrich Žucha a&nbsp;Dušan Krnáč (SK). Technická podpora: Milan Slama (SK).</i>"
+      "<i>Libreto/scenár: Petr Novotný &amp; Tomáš Kout (CZ), Jana Mikitková (SK), dramaturgia a&nbsp;produkcia: Ján Fakla (SK), výprava: Tomáš Žižka (CZ), kostýmy: Anna Weszelovszky (HU), hudba: Róbert Mankovecký (SK), pohybová spolupráca: Ladislav Cmorej (SK), režijný dozor: Jerzy Zoń (PL), réžia: Jana Mikitková (SK). Účinkujú: Slawek Bendykowski, Paulina Lasyk, Mieszko Syc (PL), Bálint Turai, Gergely Kiss, Dorottya Podmaniczky (HU), Daniela Voráčková, Angela Nwagbo (CZ), Anton Eliáš, Henrich Žucha a&nbsp;Dušan Krnáč (SK). <br/> Technická podpora: Milan Slama (SK).</i>"
     -
       "<i>Financované Európskou úniou.</i>"
   pictures:
@@ -208,7 +209,7 @@ konzorcium-icebreaking-circus-caravana:
 all-in-circus:
   performer: 'All in Circus (HU)'
   title: "ALL IN TWO"
-  argentum: true
+  argentum: false
   premiere: true
   general: "Program rodiny s&nbsp;deťmi"
   occurences:
@@ -352,7 +353,7 @@ art-putika-i-postsedliaci:
     - "ART PUTIKA I_Juraj Buzalka_Dennik N.jpg"
 
   link: "https://sk.wikipedia.org/wiki/Juraj_Buzalka"
-  foto: "Denník N"
+  foto: "Denník N a archív účinkujúcich"
 
 art-putika-ii-blizsie-k-sebe:
   performer: 'Jana Močková, Denník&nbsp;N&nbsp;(SK)'
@@ -372,7 +373,7 @@ art-putika-ii-blizsie-k-sebe:
       "<i><b>Jana Močková</b> vyštudovala žurnalistiku na UK v&nbsp;Bratislave. Začínala v&nbsp;rádiu Devín, v&nbsp;rokoch 2010 až 2014 bola redaktorkou denníka SME, na oddelení kultúry. V&nbsp;Denníku N pôsobí od jeho vzniku. Venuje sa najmä témam z&nbsp;oblasti umenia, architektúry a&nbsp;kultúrnej politiky. V&nbsp;roku 2018 získala dve nominácie na Novinársku cenu v&nbsp;kategóriách rozhovor a&nbsp;reportáž.</i>"
   pictures:
     - ART PUTIKA_Jana Mockova_Dennik N.jpg
-    - Jan Markos_Blizsie k&nbsp;sebe.jpg
+    - Jan Markos_Blizsie k sebe.jpg
     - ART PUTIKA II_Jan_Markos_Michal Svitok_2.jpg
 
   link: "https://sk.wikipedia.org/wiki/J%C3%A1n_Marko%C5%A1"
@@ -405,13 +406,14 @@ ddistance-generation-no-close-no-fun:
 
 
   link: "https://amplion.eu/archiv/"
-  foto: "archív autorov"
+  foto: "archív účinkujúcich"
 
 
 otvorenie-festivalu:
   performer: ''
   title: "OTVORENIE FESTIVALU"
   general: "Program pre všetkých"
+  price: 0
   occurences:
     -
       time: "piatok 16:00"
@@ -419,7 +421,7 @@ otvorenie-festivalu:
   perex: "Príďte otvoriť 9. ročník Festivalu AMPLIÓN heslom <br> Zbližovať je umenie!"
   content:
     -
-      "Čaká vás ochutnávka umelcov i&nbsp;festivalová hymna v&nbsp;podaní bláznivej kapely Tygroo a&nbsp;dalších skvelých umelcov  &mdash;  Sabor-Life&nbsp;is&nbsp;Rhythm&nbsp;(ES) & All&nbsp;in&nbsp;Circus&nbsp;(HU)."
+      "Čaká vás ochutnávka umelcov i&nbsp;festivalová hymna v&nbsp;podaní bláznivej kapely Tygroo a&nbsp;další skvelí umelci  &mdash;  Sabor-Life&nbsp;is&nbsp;Rhythm&nbsp;(ES) & All&nbsp;in&nbsp;Circus&nbsp;(HU)."
   pictures:
     - amplion23_otvorenie_festivalu_Michal Svitok_060.jpg
     - amplion23_otvorenie_festivalu_Kristina Svitokova_002.jpg
@@ -440,6 +442,8 @@ der-senster-gob-promo:
   performer: 'Der Šenster Gob (EU)'
   title: "PROMO"
   argentum: true
+  price: "Dobrovoľné vstupné"
+  no-buy-button: true
   general: "Program pre všetkých"
   occurences:
     -
@@ -463,6 +467,7 @@ we-media-theater-sef-cirkusu:
   title: "ŠÉF CIRKUSU"
   argentum: false
   premiere: true
+  price: 0
   general: "Program pre mladých a&nbsp;dospelých"
   occurences:
     -
@@ -486,6 +491,7 @@ and-der-senster-gob-after-koncert:
   performer: 'AND&nbsp;&&nbsp;Der&nbsp;Šenster&nbsp;Gob&nbsp;(EU)'
   title: "AFTER KONCERT + <span style='font-size:40px'>vyhlásenie cien festivalu Amplion Argentum</span>"
   general: "Program pre všetkých"
+  price: 0
   occurences:
     -
       time: "nedeľa 12:00"
@@ -507,6 +513,7 @@ paper-moon-trio-after-koncert:
   performer: 'Paper Moon Trio (SK)'
   title: "AFTER KONCERT"
   general: "Program pre mladých a&nbsp;dospelých"
+  price: 0
   occurences:
     -
       time: "nedeľa 10:00"
@@ -514,7 +521,7 @@ paper-moon-trio-after-koncert:
   perex: "Vintage jazzové dámske trio hrá a&nbsp;spieva hudbu 20.&nbsp;– 40.&nbsp;rokov 20.&nbsp;storočia"
   content:
     -
-      "Nechajte sa unášať swingovou hudbou za mesačného svitu v&nbsp;nádhernom prostredí záhrady s&nbsp;podmanivým výhľadom na Banskú Štiavnicu. Ponorte sa do atmosféry štýlu, módy a&nbsp;noblesy 20. storočia. Navodí vám ju vokálno-inštrumentálne dámske trio. Hrou na husle, ukulele, gitaru a&nbsp;nežnými hlasmi prevedú groteskný charleston aj koketný swing s&nbsp;jediným zámerom – autentickou a&nbsp;originálnou interpretáciou vás preniesť do zlatých ér, kedy zábava znamenala kvalitu a&nbsp;noblesa bola cnosťou."
+      "Ponorte sa do atmosféry štýlu, módy a&nbsp;noblesy 20. storočia. Navodí vám ju vokálno-inštrumentálne dámske trio. Hrou na husle, ukulele, gitaru a&nbsp;nežnými hlasmi prevedú groteskný charleston aj koketný swing s&nbsp;jediným zámerom – autentickou a&nbsp;originálnou interpretáciou vás preniesť do zlatých ér, kedy zábava znamenala kvalitu a&nbsp;noblesa bola cnosťou."
     -
       "<i><b>Paper Moon Trio</b> tvoria Barbora Medeková: spev a&nbsp;ukulele, Andrea Kružliaková: spev a&nbsp;gitara, Juliana Šeregiová: spev a&nbsp;husle. Stretli sa v&nbsp;roku 2009 v&nbsp;orchestri Bratislava Hot Serenaders, kde spolu účinkovali ako vokálne trio Serenaders Sisters. Neskôr si založili Paper Moon Trio, ku ktorému ich inšpirovala pieseň It’s Only A Paper Moon.</i>"
   pictures:
@@ -523,3 +530,19 @@ paper-moon-trio-after-koncert:
     - Paper Moon Trio_SK_04.jpg
   link: "http://www.facebook.com/Paper-Moon-Trio-190925080956019"
   foto: "Simona Babjaková"
+
+
+tomas-marketa-koncert:
+  performer: Tomáš & Markéta (SK+CZ)
+  premiere: false
+  general: "Program pre mladých a&nbsp;dospelých"
+  occurences:
+    -
+      time: "sobota 14:15 – 15:00"
+      location: Terrace at Blaškov, Počúvadlo Lake
+  title: CONCERT
+  perex: "Vlastná tvorba česko-slovenského dua z moravy"
+  # pictures: 
+  # link: 
+  # foto: 
+  price: 0

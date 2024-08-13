@@ -72,11 +72,14 @@
         </span>
       </div>
 
-      {{#if @root.site-config.show-tickets}} {{#ifequal this.price 0}} {{!--
-      intentionally left blank, dont have opposit helper --}} {{else}}
+      {{#if @root.site-config.show-tickets}} 
+        {{#ifequal this.price 0}} 
+          {{!--intentionally left blank, dont have opposit helper --}} {{else}}
       {{#ifequal this.price "BUSKING"}} {{!-- intentionally left blank, dont
-      have opposit helper --}} {{else}} {{#ifequal this.cancelled true}} {{!--
-      intentionally left blank, dont have opposit helper --}} {{else}}
+      have opposit helper --}} {{else}} {{#ifequal this.cancelled true}}
+      {{!--intentionally left blank, dont have opposit helper --}} {{else}}
+      {{#if this.no-buy-button}} {{!-- intentionally left blank, dont have
+      opposit helper --}}  {{ else }}
       <div class="progitem__cta">
         <a
           href="/program/{{this.slug}}#vstupenky"
@@ -84,7 +87,7 @@
           >Kúpiť vstupenku</a
         >
       </div>
-      {{/ifequal}} {{/ifequal}} {{/ifequal}} {{else}} {{#ifequal this.price 0}}
+      {{/if}}{{/ifequal}} {{/ifequal}} {{/ifequal}} {{else}} {{#ifequal this.price 0}}
       {{!-- intentionally left blank, dont have opposit helper --}} {{else}}
       {{#ifequal this.price "BUSKING"}} {{!-- intentionally left blank, dont
       have opposit helper --}} {{else}} {{#ifequal this.no-button true }}
