@@ -2,7 +2,7 @@ show-tickets: true
 show-program: true
 show-program-en: true
 busking-menu: false 
-sketchup-menu: false
+sketchup-menu: true
 year: 2024
 show-festivalove-noviny: false
 rocnik: 9
