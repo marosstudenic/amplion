@@ -6,6 +6,7 @@ ennio-marchetto:
   title: "LIVING PAPER CARTOON"
   argentum: true
   premiere: true
+  price: 19
   general: "Len na Amplióne"
   top-general: "TOP program pre všetkých"
 
@@ -486,6 +487,8 @@ we-media-theater-sef-cirkusu:
     - "WE_MEDIA Theater_Sef Cirkusu_Ilja Borsuk.jpg"
     - "WE_MEDIA Theater_Sef Cirkusu_Evacuation.jpg"
     - "WE_MEDIA Theater_Sef Cirkusu_premiera_1_Jan Fakla.jpg"
+    - Milan Bator_web.jpg
+
   link: "https://wemediatheater.com/"
   foto: "archív AND"
 
@@ -547,5 +550,9 @@ tomas-marketa-koncert:
   perex: "Autorské piesne česko-slovenskej dvojice z Moravy"
   # pictures: 
   # link: 
-  # foto: 
+  foto: 'archív umelcov' 
   price: 0
+  pictures: 
+    - Tomas & Marketa 2_web.jpg
+    - Milan Bator_web.jpg
+    - Tomas & Marketa 1_web.jpg

@@ -480,6 +480,7 @@ we-media-theater-sef-cirkusu:
     - "WE_MEDIA Theater_Sef Cirkusu_Ilja Borsuk.jpg"
     - "WE_MEDIA Theater_Sef Cirkusu_Evacuation.jpg"
     - "WE_MEDIA Theater_Sef Cirkusu_premiera_1_Jan Fakla.jpg"
+    - Milan Bator_web.jpg
   link: "https://wemediatheater.com/"
   foto: "AND archive"
 
@@ -525,6 +526,7 @@ paper-moon-trio-after-koncert:
     - Paper Moon Trio_SK_01.jpg
     - Paper Moon Trio_SK_05.jpg
     - Paper Moon Trio_SK_04.jpg
+
   link: "http://www.facebook.com/Paper-Moon-Trio-190925080956019"
   foto: "Simona Babjaková"
 
@@ -542,5 +544,9 @@ tomas-marketa-koncert:
   perex: "original songs by a Czech-Slovak duo from Moravia"
   # pictures: 
   # link: 
-  # foto: 
+  foto: 'archive of the band'
   price: 0
+  pictures: 
+    - Tomas & Marketa 2_web.jpg
+    - Milan Bator_web.jpg
+    - Tomas & Marketa 1_web.jpg
