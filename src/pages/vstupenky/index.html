@@ -2,45 +2,48 @@
 # list of paid events as we want to list them in order
 paid-events:
   #friday
-  - pev-title: monika-todova-bratislava
+  - pev-title: all-in-circus
     pev-occurence: 0
 
-  - pev-title: ansambel-nepravidelneho-divadla
+  - pev-title: art-putika-i-postsedliaci
     pev-occurence: 0
-  - pev-title: krvik-totr-praha
+
+  - pev-title: dennik-sme-piatocek
+    pev-occurence: 0
+
+  - pev-title: geisslers-hofcomoedianten-v-boruvci
+    pev-occurence: 0
+
+  - pev-title: tygroo-koncert
     pev-occurence: 0
 
   #saturday
-  - pev-title: circo-teatro-nimu-bilbao
-    pev-occurence: 0
-  - pev-title: no-soft-no-fun
+  - pev-title: and-adam-blasko-sketch-up
     pev-occurence: 0
 
-  - pev-title: circo-teatro-nimu-bilbao-2
+  - pev-title: divadlo-falangir-stmieva-sa
     pev-occurence: 0
 
-  - pev-title: and-hostia-bonbon-trio
+  - pev-title: art-putika-ii-blizsie-k-sebe
     pev-occurence: 0
 
-  - pev-title: patrik-garaj-bratislava
+  - pev-title: sabor-life-is-rhythm-chut-zivota
     pev-occurence: 0
 
-  - pev-title: katanari-ivana-mer-kosice-bb
+  - pev-title: paper-moon-trio-koncert
     pev-occurence: 0
 
-  - pev-title: teatr-kto-krakow
+  - pev-title: ennio-marchetto
     pev-occurence: 0
 
-  - pev-title: bon-bon-trio-bratislava
-    pev-occurence: 0
-  - pev-title: firebirds-budapest
-    pev-occurence: 0
-
-  - pev-title: miramundo-barcelona
+  - pev-title: der-senster-gob-koncert
     pev-occurence: 0
 
   #sunday
-  - pev-title: katanari-ivana-mer-kosice-bb-2
+  - pev-title: ddistance-generation-no-close-no-fun
+    pev-occurence: 0
+
+  - pev-title: divadlo-na-zabradli-europeana
     pev-occurence: 0
 ---
 
@@ -60,7 +63,7 @@ paid-events:
     <p class="section__introtext text-center">
       Všetky platené predstavenia pekne pokope.
     </p>
-    
+
     <p class="section__introtext text-center">
       V prípade, že sa Vám vstupenky nenačítajú, môžete prejsť na stránku
       predajcu
@@ -76,20 +79,29 @@ paid-events:
       <a href="tel:+421948960696" style="color: #e62e6c">+421 948 145 483</a> /
       <a href="mailto: info@goout.sk" style="color: #e62e6c">info@goout.sk</a>
     </p>
-
-   
   </div>
 </section>
 <section class="section">
   <div class="section__inner">
     <div class="section__content">
       <p class="text-center section__introsubtext" style="font-size: 16px">
-        <strong>Vstupenky</strong> si kúpite od 15. 8. 2024 online na <a class="moreinfo"  href="https://www.amplion.eu/vstupenky"> www.amplion.eu/vstupenky </a>
-        alebo na <a class="moreinfo"  href="https://goout.net/sk/festival-amplion-novy-kabaret-and-poulicne-umenie-2024/szeqdix/" target="_blank"> www.goout.net</a>
-        až do začiatku každého predstavenia a od 19. 9. 2024 od 15:00 aj osobne v Centrálnom predaji vstupeniek
-        (Kultúrne centrum, bočný vchod z Akademickej ulice).</p>
+        <strong>Vstupenky</strong> si kúpite od 15. 8. 2024 online na
+        <a class="moreinfo" href="https://www.amplion.eu/vstupenky">
+          www.amplion.eu/vstupenky
+        </a>
+        alebo na
+        <a
+          class="moreinfo"
+          href="https://goout.net/sk/festival-amplion-novy-kabaret-and-poulicne-umenie-2024/szeqdix/"
+          target="_blank"
+        >
+          www.goout.net</a
+        >
+        až do začiatku každého predstavenia a od 19. 9. 2024 od 15:00 aj osobne
+        v Centrálnom predaji vstupeniek (Kultúrne centrum, bočný vchod
+        z Akademickej ulice).
+      </p>
       <ul class="ticketslist">
-       
         {{!-- go through events one by one, for readability sake use |event|
         instead {{this}} --}} {{#each paid-events as |event|}} {{!-- use nested
         lookup - because the data source is nested as well first find the event
