@@ -460,7 +460,7 @@ der-senster-gob-promo:
   foto: "archive of the band"
 
 we-media-theater-sef-cirkusu:
-  performer: 'WE: MEDIA THEATER (UA)'
+  performer: 'WE: MEDIA THEATER + Milan Bátor (UA + CZ)'
   title: "CHIEF OF THE CIRCUS"
   argentum: false
   premiere: true
@@ -470,18 +470,30 @@ we-media-theater-sef-cirkusu:
     -
       time: "Sunday 11:00"
       location: "Art Cafe, attic"
-  perex: "Short documentary about the fate of a circus principal Ilya Borsuk, which inspired the creation of the international music and movement street show CIRCUS CARAVANA (V4+UA)."
+  perex: "Projection of documentary about the fate of a circus principal Ilya Borsuk, which inspired the creation of the international street show CIRCUS CARAVANA (V4+UA) + guitar concert"
   content:
     -
       "Young Ukrainian director Sashko Brama embarks on a several day journey with Ilya, the former circus principal, who volunteered during the war. The journey starts in Lviv in western Ukraine, where the main character loads his old Citroën with humanitarian aid and takes it to the front line cities in eastern Ukraine. The camera captures the devastated landscape of the mining towns where Ilya used to perform with his circus, the meetings with soldiers and civilians exhausted from war and uncertainty. At the end of the day, Ilya comes to to his old apartment in Druzhkivka, where he once lived with his family, to spend the night. He smokes on the balcony to the sound of artillery cannons and looks out on the front line, which is only 25 km away."
     -
       "<i><b>WE: MEDIA THEATER</b> (2018) is an <b>independent Ukrainian art group</b> working in the field of multimedia theatre. It was founded in Lviv by Sashko Brama, a young activist, director, screenwriter and playwright, who’s been experimenting with a line between post-documentary theatre and documentary film. Brama&#39;s work was presented at festivals in Ukraine, Poland, Germany and Slovakia. Currently, their main topic are the events of the all-out Russian war in Ukraine, where Brama operates as a war reporter.</i>"
+    - 
+      "<i><b>Milan Bátor </b>is a Czech guitarist, music journalist and pedagogue. He is the author of dozens
+of arrangements of popular songs for solo guitar, which are characterized by respect for
+originals and sophisticated use of guitar techniques. As a solo guitarist, he caught the
+attention of YouTube with the series Milan Bátor plays Vlasta Redl, where he published his
+arrangements of Vlasta Redl&#39;s songs for solo guitar. In 2020, he released his debut album
+titled Milan Bátor Mario Gangi: Works for solo guitar. In 2023 he released his second solo
+album I Beatles, which contains 18 instrumental arrangements of the famous English band.
+On the occasion of Karel Kryl&#39;s 80th birthday, he played several successful concerts with a
+programme of his songs. His work has provoked a positive response from music critics and
+the public.</i>"
   pictures:
     - "WE_MEDIA Theater_Sef Cirkusu_Ilja Borsuk.jpg"
     - "WE_MEDIA Theater_Sef Cirkusu_Evacuation.jpg"
     - "WE_MEDIA Theater_Sef Cirkusu_premiera_1_Jan Fakla.jpg"
     - Milan Bator_web.jpg
   link: "https://wemediatheater.com/"
+  link2: "https://www.youtube.com/@MilanBator81"
   foto: "AND archive"
 
 
@@ -533,15 +545,31 @@ paper-moon-trio-after-koncert:
 
 
 tomas-marketa-koncert:
-  performer: Tomáš & Markéta (SK+CZ)
+  performer: Tomáš &amp; Markéta + Milan&nbsp;Bátor (SK+CZ)
   premiere: false
-  general: "Program pre mladých a&nbsp;dospelých"
+  general: "Program for the young and adults"
   occurences:
     -
       time: "sobota 14:15"
       location: Terrace at Blaškov, Počúvadlo Lake
   title: CONCERT
-  perex: "original songs by a Czech-Slovak duo from Moravia"
+  perex: "Original songs of the Czech-Slovak duo + original guitar arrangements of Beatles"
+  content: 
+    -  
+      "<i><b>Tomáš a Markéta</b> is a promising musical ensemble that has been overlooked by
+professionals and the general public for several decades. Nevertheless, with unceasing
+enthusiasm, they devote all their free time to refining their concert performances in detail.
+Tomáš is the author of music and lyrics and his undeniable and at the same time
+unattainable role models are Jaro Filip and Milan Lasica. Despite the fact that he is aware
+that he will be the second best composer and lyricist in the history of Slovak popular music,
+he accepted this fact with his own modesty and does not resist. Markéta is a singer who, in
+addition to recitation of Tomáš songs, has been used in recent years as a so-called live
+playback at Marie Rottrová&#39;s concerts, singing her songs backstage, while the legendary
+singer concentrates on eye contact with the audience with the microphone turned off.</i>"
+    -
+      "<i><b>Milan Bátor</b> is a Czech guitarist, music scientist and professor. On the occasion of Karel Kryl&#39;s
+80th missed birthday, he played several successful concerts with a program consisting of his
+songs. His art work have received a positive response from music critics and the public.</i>"
   # pictures: 
   # link: 
   foto: 'archive of the band'

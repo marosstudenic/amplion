@@ -467,8 +467,8 @@ der-senster-gob-promo:
   foto: "archív kapely"
 
 we-media-theater-sef-cirkusu:
-  performer: 'WE: MEDIA THEATER (UA)'
-  title: "ŠÉF CIRKUSU"
+  performer: 'WE: MEDIA THEATER + Milan&nbsp;Bátor'
+  title: "ŠÉF CIRKUSU + koncert piesní Karla Kryla"
   argentum: false
   premiere: true
   price: 0
@@ -477,12 +477,13 @@ we-media-theater-sef-cirkusu:
     -
       time: "nedeľa 11:00"
       location: "Art Cafe, povala"
-  perex: "Krátky dokumentárny film o osude principála ukrajinského cirkusu Ilyu Borsuka, ktorý bol inšpiráciou k&nbsp;tvorbe medzinárodnej hudobno-pohybovej pouličnej show CIRCUS CARAVANA (V4+UA)."
+  perex: "Projekcia krátkeho dokumentárneho filmu o osude principála ukrajinského cirkusu Ilyu Borsuka, ktorý bol inšpiráciou k tvorbe medzinárodnej hudobno-pohybovej pouličnej show CIRCUS CARAVANA (V4+UA) spojená s gitarovým koncertom originálnych úprav piesní Kryla."
   content:
     -
-      "Mladý ukrajinský režisér Sashko Brama sa vydáva na niekoľkodňovú cestu s&nbsp;Ilyom, bývalým šéfom cirkusu, ktorý sa počas vojny stal dobrovoľníkom. Trasa sa začína vo Ľvive na západnej Ukrajine, kde hlavný hrdina naloží svoj starý Citroën humanitárnou pomocou a&nbsp;vezie ju do frontových miest na východnej Ukrajine. Kamera zachytáva zdevastovanú krajinu banských miest, kde Ilya v&nbsp;minulosti účinkoval so svojím cirkusom, stretnutia s&nbsp;vojakmi a&nbsp;civilistami vyčerpanými vojnou i&nbsp;neistotou. Na konci dňa prichádza llya prenocovať do svojho bytu v&nbsp;meste Družkivka, kde kedysi žil so svojou rodinou. Za zvukov delostreleckých kanonád fajčí na balkóne a&nbsp;hľadí na frontovú líniu, ktorá je vzdialená 25 km."
+      "Mladý ukrajinský režisér Sashko Brama sa vydáva na niekoľkodňovú cestu s Ilyom, bývalým Šéfom cirkusu, ktorý sa počas vojny stal dobrovoľníkom. Trasa sa začína vo Ľvive na západnej Ukrajine, kde hlavný hrdina naloží svoj starý Citroën humanitárnou pomocou a vezie ju do Frontových miest na východnej Ukrajine. Kamera zachytáva zdevastovanú krajinu banských miest, kde Ilya v minulosti účinkoval so svojím cirkusom, stretnutia s vojakmi a civilistami vyčerpanými vojnou i neistotou. Na konci dňa prichádza llya prenocovať do svojho bytu v meste Družkivka, kde kedysi žil so svojou rodinou. Za zvukov delostreleckých kanonád fajčí na balkóne a hľadí na frontovú líniu, ktorá je vzdialená 25 km."
     -
       "<i><b>WE: MEDIA THEATER</b> (2018) je <b>nezávislý ukrajinský umelecký súbor</b> pracujúci v&nbsp;oblasti multimediálneho divadla. Vznikol v&nbsp;Ľvive a&nbsp;jeho lídrom je mladý aktivista, režisér, scenárista a&nbsp;dramatik Sashko Brama, vlastným menom Oleksandr Palianychka, ktorý experimentuje na pomedzí postdokumentárneho divadla a&nbsp;dokumentárneho filmu. Bramove inscenácie boli uvedené na festivaloch na Ukrajine, v&nbsp;Poľsku, Nemecku a&nbsp;na Slovensku. V&nbsp;súčasnosti sú ich hlavnou témou udalosti totálnej ruskej vojny na Ukrajine, v&nbsp;ktorej Brama pôsobí ako vojnový reportér.</i>"
+    - "<i><b>Milan Bátor</b> je český gitarista, hudobný publicista a pedagóg. Je autorom desiatok aranžmánov populárnych piesní pre sólovú gitaru, ktoré sa vyznačujú úctou k originálom a sofistikovanému použitiu gitarových techník. Ako sólový gitarista zaujal YouTube sériou Milan Bátor plays Vlasta Redl, kde publikoval svoje úpravy piesní Vlasty Redla pre sólovú gitaru. V roku 2020 vydal debutový album s názvom Milan Bátor Mario Gangi: Works for solo guitar. V roku 2023 vyšiel druhý sólový album I Beatles, ktorý obsahuje 18 inštrumentálnych aranžmánov slávnej anglickej kapely. Pri príležitosti 80. narodenín Karla Kryla odohral niekoľko úspešných koncertov s programom jeho piesní. Jeho tvorba vyvolala pozitívny ohlas hudobných kritikov aj verejnosti.</i>"
   pictures:
     - "WE_MEDIA Theater_Sef Cirkusu_Ilja Borsuk.jpg"
     - "WE_MEDIA Theater_Sef Cirkusu_Evacuation.jpg"
@@ -490,6 +491,7 @@ we-media-theater-sef-cirkusu:
     - Milan Bator_web.jpg
 
   link: "https://wemediatheater.com/"
+  link2: "https://www.youtube.com/@MilanBator81"
   foto: "archív AND"
 
 
@@ -547,9 +549,23 @@ tomas-marketa-koncert:
       time: "sobota 14:15"
       location: Terasa u Blaškov, Počúvadlianske jazero
   title: CONCERT
-  perex: "Autorské piesne česko-slovenskej dvojice z Moravy"
-  # pictures: 
-  # link: 
+  perex: "Autorské piesne česko-slovenskej dvojice + originálne gitarové úpravy Beatles"
+  content: 
+    -
+      "<i><b>Tomáš a Markéta</b> je perspektívny hudobný súbor, ktorý už niekoľko desaťročí prehliada
+odborná aj laická verejnosť. Napriek tomu s neutíchajúcim nadšením venujú všetok voľný čas,
+aby do detailov vyprecizovali svoje koncertné vystúpenia. Tomáš je autor hudby a textov a
+jeho nedostižnými vzormi sú Jaro Filip a Milan Lasica. Napriek tomu, že si je vedomý, že bude
+až druhý najlepší skladateľ a textár v histórii slovenskej populárnej hudby, so skromnosťou
+sebe vlastnou prijal túto skutočnosť a nevzpiera sa. Markéta je speváčka, ktorá sa okrem
+prednesu Tomášových skladieb v posledných rokoch uplatňuje ako tzv. živý playback pri
+koncertoch Marie Rottrové, keď v zákulisí spieva jej piesne, zatiaľ čo sa legendárna speváčka
+sústreďuje s vypnutým mikrofónom na očný kontakt s publikom.</i>"
+    - 
+      "<i><b>Milan Bátor</b> je český gitarista, hudobný publicista a pedagóg. Pri príležitosti 80. narodenín
+Karla Kryla odohral niekoľko úspešných koncertov s programom jeho piesní. Jeho tvorba
+vyvolala pozitívny ohlas hudobných kritikov aj verejnosti.</i>"
+  link: https://www.youtube.com/@MilanBator81
   foto: 'archív umelcov' 
   price: 0
   pictures: 

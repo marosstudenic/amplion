@@ -11,11 +11,12 @@
 
 - 
   time: 11:00 – 11:30
-  performer: "WE: MEDIA THEATER (UA)"
+  performer: "WE: MEDIA THEATER + Milan Bátor (UA + CZ)"
   premiere: true
+  argentum: true
   age: 12+
-  title: ŠÉF CIRKUSU
-  perex: "Dokumentárny film o osude principála cirkusu Ilyu Borsuka, ktorý bol inšpiráciou k tvorbe medzinárodnej hudobno-pohybovej pouličnej show CIRCUS CARAVANA (V4+UA)"
+  title: ŠÉF CIRCUSU + koncert piesní Karla Kryla
+  perex: "Projekcia krátkeho dokumentárneho filmu o osude principála ukrajinského cirkusu Ilyu Borsuka, ktorý bol inšpiráciou k tvorbe medzinárodnej hudobno-pohybovej pouličnej show CIRCUS CARAVANA (V4+UA) spojená s gitarovým koncertom originálnych úprav piesní Kryla."
   location: Art Cafe, povala
   price: 0
   slug: we-media-theater-sef-cirkusu
