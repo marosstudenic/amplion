@@ -468,7 +468,7 @@ der-senster-gob-promo:
 
 we-media-theater-sef-cirkusu:
   performer: 'WE: MEDIA THEATER + Milan&nbsp;Bátor'
-  title: "ŠÉF CIRKUSU + koncert piesní Karla Kryla"
+  title: "ŠÉF CIRKUSU + koncert&nbsp;piesní&nbsp;Kryla"
   argentum: false
   premiere: true
   price: 0
@@ -548,7 +548,7 @@ tomas-marketa-koncert:
     -
       time: "sobota 14:15"
       location: Terasa u Blaškov, Počúvadlianske jazero
-  title: CONCERT
+  title: KONCERT
   perex: "Autorské piesne česko-slovenskej dvojice + originálne gitarové úpravy Beatles"
   content: 
     -

@@ -110,6 +110,11 @@ paid-events:
           www.goout.net</a
         >
       </p>
+
+      {{>_permanentky}}
+
+      <h2>Vstupenky podľa programu</h2>
+
       <ul class="ticketslist">
         {{!-- go through events one by one, for readability sake use |event|
         instead {{this}} --}} {{#each paid-events as |event|}} {{!-- use nested

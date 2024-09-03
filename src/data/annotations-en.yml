@@ -460,8 +460,8 @@ der-senster-gob-promo:
   foto: "archive of the band"
 
 we-media-theater-sef-cirkusu:
-  performer: 'WE: MEDIA THEATER + Milan Bátor (UA + CZ)'
-  title: "CHIEF OF THE CIRCUS"
+  performer: 'WE: MEDIA THEATER + Milan&nbsp;Bátor&nbsp;(UA + CZ)'
+  title: "CHIEF OF THE CIRCUS  + concert of Kryl’s songs"
   argentum: false
   premiere: true
   price: 0
@@ -550,7 +550,7 @@ tomas-marketa-koncert:
   general: "Program for the young and adults"
   occurences:
     -
-      time: "sobota 14:15"
+      time: "Saturday 14:15"
       location: Terrace at Blaškov, Počúvadlo Lake
   title: CONCERT
   perex: "Original songs of the Czech-Slovak duo + original guitar arrangements of Beatles"

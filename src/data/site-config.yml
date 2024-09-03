@@ -22,9 +22,9 @@ busking-form-link-en: https://docs.google.com/forms/d/e/1FAIpQLSdCWg8PfirmMYOv1E
 
 # sketch-up
 sketch-up-last-sentence: "Šiesty ročník súťaže SKETCH UP je tematicky zameraný na tému ZBLIŽOVANIE."
-sketch-up-deadline: "31.&nbsp;7.&nbsp;2024"
-sketch-up-deadline-nominativ: "31.&nbsp;júl&nbsp;2024"
-sketch-up-annoucment: "15.&nbsp;augusta&nbsp;2024"
+sketch-up-deadline: "31.&nbsp;8.&nbsp;2024"
+sketch-up-deadline-nominativ: "31.&nbsp;august&nbsp;2024"
+sketch-up-annoucment: "10.&nbsp;septembra&nbsp;2024"
 sketch-up-event-time: "21.&nbsp;9.&nbsp;2024&nbsp;o&nbsp;11:00&nbsp;hod."
 sketch-up-next-year: "Opcia&nbsp;na&nbsp;uvedenie celovečerného programu na&nbsp;10.&nbsp;ročníku Festivalu&nbsp;AMPLIÓN&nbsp;2025 pre&nbsp;víťaza"
 sketch-up-form-link: https://docs.google.com/forms/d/e/1FAIpQLSfyiD32Ar-W6nrgOLyg5Pvg8wGUIa4NqgsPwg_uXrX0YPVayw/viewform
@@ -36,9 +36,9 @@ show-busking-program: true
 
 
 festivalove-noviny-sk: "FN_AMP_2023.pdf"
-tlacova_sprava-sk: "AMPLION_2023_TS_SK.pdf"
+tlacova_sprava-sk: "AMPLION_2024_TS_SK.pdf"
 
-tlacova_sprava-en: "AMPLION_2023_TS_ENG.pdf"
+tlacova_sprava-en: "AMPLION_2024_TS_EN.pdf"
 
 statistics-data:
   performances: 270
