@@ -5,43 +5,30 @@
 	justify-content: center;
 	align-items: center;
 	margin-bottom: rem-calc( 16 );
+	gap: rem-calc( 16 );
 
 	&__item {
 		display: flex;
 		justify-content: center;
 		align-items: center;
-		max-width: rem-calc( 180 );
+		max-width: rem-calc( 130 );
 		margin-bottom: rem-calc( 16 );
 
-		&--dennikn {
-			max-width: rem-calc( 90 );
-			// margin-top: rem-calc( 40 );
-			img {
-				max-height: rem-calc( 65 );
-			}
+		&--larger {
+			max-width: rem-calc( 250 );
 		}
 
-		&--fpu {
-			max-width: rem-calc( 200 );
+		img {
+			object-fit: contain;
+			margin: auto auto;
 		}
-
-		&--banskastiavnica {
-			img {
-				max-height: rem-calc( 140 );
-			}
-		}
-
-		&--mia {
-			img {
-				min-width: rem-calc( 220 );
-			}
-		}
-
-
 	}
 
 	&__href {
-		display: block;
+		height: 100%;
+		display: flex;
+		justify-content: center;
+		align-items: center;
 	}
 
 	@include breakpoint( medium ) {
@@ -52,84 +39,8 @@
 			max-width: rem-calc( 160 );
 			margin: rem-calc( 0 30 30 30 );
 
-			img {
-				max-height: rem-calc( 160 );
-				max-width: rem-calc( 160 );
-			}
-
-			&--piercom {
-				img {
-					max-height: rem-calc( 100 );
-				}
-			}
-
-			&--fpu {
-				flex-basis: 40%;
-				max-width: none;
-
-				img {
-					max-width: rem-calc( 250 );
-				}
-			}
-
-			&--dennikn {
-				// margin: rem-calc( 16 );
-				max-width: rem-calc( 84 );
-				img {
-					max-height: rem-calc( 65 );
-				}
-			}
-
-			&--re {
-				// margin: rem-calc( 0 16 );
-				margin-left: 0;
-			}
-
-			&--trotuarcafe {
-				img {
-					max-height: rem-calc( 100 );
-					position: relative;
-					top: -20px;
-				}
-			}
-
-			&--bbsk {
-				margin-left: 1rem;
-				margin-right: 1rem;
-
-				img {
-					max-width: rem-calc( 210 );
-				}
-			}
-
-			&--mia {
-				img {
-					min-width: rem-calc( 230 );
-					max-width: rem-calc( 230 );
-					margin-left: rem-calc( 30 );
-				}
-			}
-
-			&--aura {
-				img {
-					max-height: rem-calc( 100 );
-				}
-			}
-
-			&--important {
-				max-width: rem-calc( 230 );
-
-				img {
-					max-width: rem-calc( 280 );	
-				}
-
-				&.partnerslist__item--dennikn {
-					img {
-						max-height: rem-calc( 100 );				
-					}
-				}
-
-
+			&--larger {
+				max-width: rem-calc( 200 );
 			}
 		}
 	}
