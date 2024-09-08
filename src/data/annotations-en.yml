@@ -118,7 +118,7 @@ divadlo-falangir-stmieva-sa:
   title: "IT’S GETTING DARK"
   argentum: false
   general: "Programme for the young and adults"
-  top-general: "Winner of SKETCH UP 2023 2023 "
+  top-general: "Winner of SKETCH UP 2023"
   occurences:
     -
       time: "Saturday 14:00"
@@ -151,7 +151,7 @@ and-adam-blasko-sketch-up:
   perex: "The 6th edition of the successful annual Czech-Slovak competition of cabaret sketches of new talents. Hosted by Adam Blaško from the successful SME: Piatoček podcast. Sabor-Life Is Rhythm, the international group of tap dancers and musicians will perform as a musical guest. Don&#39;t miss out on this packed programme!"
   content:
     -
-      "A competition of new cabaret performances by individuals and artistic groups in various genres related to cabaret such as stand up, slam poetry, theatre, music, movement art and clown acts. All sketches will be connected by one common theme – bringing us closer is an art. The leitmotif of the festival will be delivered in an experiential and entertaining way by a diverse range of competing performers, judged by an international jury. In addition to the AMPLION ARGENTUM award, the winner will also receive the option to perform their independent cabaret show at the AMPLIFIER 2025 Festival."
+      "A competition of new cabaret performances by individuals and artistic groups in various genres related to cabaret such as stand up, slam poetry, theatre, music, movement art and clown acts. All sketches will be connected by one common theme – bringing us closer is an art. The leitmotif of the festival will be delivered in an experiential and entertaining way by a diverse range of competing performers: Theatre group TyMyJán, musical duo Tomáš & Markéta, master of words Elena Slížiková and rebel Mochi Čomalblchy from Banská Štiavnica, judged by an international jury. In addition to the AMPLION ARGENTUM award, the winner will also receive the option to perform their independent cabaret show at the AMPLIFIER 2025 Festival."
   pictures:
     - Sketch up_2021_Michal Svitok_070.jpg
     - Sketch up_2022_Peter Stit_1198.jpg
@@ -550,7 +550,7 @@ tomas-marketa-koncert:
   general: "Program for the young and adults"
   occurences:
     -
-      time: "Saturday 14:15"
+      time: "Saturday 14:00"
       location: Terrace at Blaškov, Počúvadlo Lake
   title: CONCERT
   perex: "Original songs of the Czech-Slovak duo + original guitar arrangements of Beatles"

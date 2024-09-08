@@ -154,7 +154,9 @@ and-adam-blasko-sketch-up:
   perex: "6. ročník úspešnej česko-slovenskej súťaže kabaretných skečov nových talentov. Moderuje Adam Blaško z&nbsp;úspešného podcastu SME: Piatoček. Hudobno-tanečným hosťom bude medzinárodná skupina steperov a&nbsp;tanečníkov Sabor-Life is Rhythm. <br/> Nenechajte si tento nadupaný program ujsť!"
   content:
     -
-      "Súťaž nových kabaretných výstupov jednotlivcov a&nbsp;umeleckých skupín v&nbsp;rôznych žánroch príbuzných kabaretu ako je stand up, slam poetry, divadlo, hudba, pohybové umenie či klaunské čísla. Všetky skeče prepojí jedna téma – <i>zbližovať je umenie</i>, ktorú podá zážitkovou a&nbsp;zábavnou formou pestrá paleta účinkujúcich. Nebude chýbať ani medzinárodná porota. Víťaz získa okrem ceny AMPLION ARGENTUM aj opciu na uvedenie svojho samostatného kabaretného programu na 10. ročníku Festivalu AMPLIÓN 2025. <br/> Nenechajte si tento jedinečný program ujsť."
+      "Súťaž nových kabaretných výstupov jednotlivcov a&nbsp;umeleckých skupín v&nbsp;rôznych žánroch príbuzných kabaretu ako je stand up, slam poetry, divadlo, hudba, pohybové umenie či klaunské čísla. Všetky skeče prepojí jedna téma – <i>zbližovať je umenie</i>, ktorú podá zážitkovou a&nbsp;zábavnou formou pestrá paleta účinkujúcich: Divadelné zoskupenie TyMyJán, hudobné duo Tomáš & Markéta, majsterka slova Elena Slížiková aj rebel Mochi Čomalblchy z Banskej Štiavnice!" 
+    - 
+      "Nebude chýbať ani medzinárodná porota. Víťaz získa okrem ceny AMPLION ARGENTUM aj opciu na uvedenie svojho samostatného kabaretného programu na 10. ročníku Festivalu AMPLIÓN 2025. <br/> Nenechajte si tento jedinečný program ujsť."
   pictures:
     - Sketch up_2021_Michal Svitok_070.jpg
     - Sketch up_2022_Peter Stit_1198.jpg
@@ -546,7 +548,7 @@ tomas-marketa-koncert:
   general: "Program pre mladých a&nbsp;dospelých"
   occurences:
     -
-      time: "sobota 14:15"
+      time: "sobota 14:00"
       location: Terasa u Blaškov, Počúvadlianske jazero
   title: KONCERT
   perex: "Autorské piesne česko-slovenskej dvojice + originálne gitarové úpravy Beatles"
