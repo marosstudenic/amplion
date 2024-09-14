@@ -49,9 +49,10 @@
   premiere: true
   argentum: true
   headliner: true
+  cancelled: true
   age: 15+
   title: EUROPEANA
   perex: "kultové pražské divadlo známych hercov a európske dejiny 20. storočia s humorom"
   location: Kultúrne centrum, hlavná sála
-  price: V predpredaji 15 €, na mieste 18 €
+  price: Predpredaj 15 €, na mieste 18 €
   slug: divadlo-na-zabradli-europeana

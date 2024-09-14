@@ -186,6 +186,9 @@
 
 </section>
 {{else}}
+{{#ifequal this.cancelled true}}
+<!-- blank intentionally -->
+ {{else}}
 <!--Only to sctroll naviagtion to work-->
 <!--  <section id="vstupenky" class="section section&#45;&#45;straight section&#45;&#45;notopspace">-->
 <!--  </section>-->
@@ -201,6 +204,7 @@
     </p>
   </div>
 </section>
+{{/ifequal}}
 {{/ifequal}}
 {{/if}}
 

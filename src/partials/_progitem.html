@@ -64,6 +64,9 @@
         >
       </div>
       <br />
+      {{#ifequal this.cancelled true}}
+      <!-- left blank -->
+      {{else}}
       <div style="display: flex">
         <span class="event-price"> </span>
         <span style="color: #e62e6c; font-weight: bold">
@@ -71,15 +74,17 @@
           {{/ifequal}}
         </span>
       </div>
-
-      {{#if @root.site-config.show-tickets}} 
-        {{#ifequal this.price 0}} 
-          {{!--intentionally left blank, dont have opposit helper --}} {{else}}
+      {{/ifequal}} {{#if @root.site-config.show-tickets}} {{#ifequal this.price
+      0}} {{!--intentionally left blank, dont have opposit helper --}} {{else}}
       {{#ifequal this.price "BUSKING"}} {{!-- intentionally left blank, dont
       have opposit helper --}} {{else}} {{#ifequal this.cancelled true}}
-      {{!--intentionally left blank, dont have opposit helper --}} {{else}}
-      {{#if this.no-buy-button}} {{!-- intentionally left blank, dont have
-      opposit helper --}}  {{ else }}
+      <div>
+        <p style="font-weight: bold; color: #362982; text-transform: uppercase">
+          Zrušené
+        </p>
+      </div>
+      {{else}} {{#if this.no-buy-button}} {{!-- intentionally left blank, dont
+      have opposit helper --}} {{ else }}
       <div class="progitem__cta">
         <a
           href="/program/{{this.slug}}#vstupenky"
@@ -87,11 +92,11 @@
           >Kúpiť vstupenku</a
         >
       </div>
-      {{/if}}{{/ifequal}} {{/ifequal}} {{/ifequal}} {{else}} {{#ifequal this.price 0}}
-      {{!-- intentionally left blank, dont have opposit helper --}} {{else}}
-      {{#ifequal this.price "BUSKING"}} {{!-- intentionally left blank, dont
-      have opposit helper --}} {{else}} {{#ifequal this.no-button true }}
-      {{else}}
+      {{/if}}{{/ifequal}} {{/ifequal}} {{/ifequal}} {{else}} {{#ifequal
+      this.price 0}} {{!-- intentionally left blank, dont have opposit helper
+      --}} {{else}} {{#ifequal this.price "BUSKING"}} {{!-- intentionally left
+      blank, dont have opposit helper --}} {{else}} {{#ifequal this.no-button
+      true }} {{else}}
       <div class="progitem__cta">
         <a
           href="https://goout.net/sk/festival-amplion-novy-kabaret-and-poulicne-umenie-2023/szoiydw/"

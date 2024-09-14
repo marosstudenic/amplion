@@ -30,8 +30,8 @@
   <div class="progitem__gutter">
     <div class="progitem__content">
       <div class="progitem__titles">
-        <h5 class="progitem__performer">{{{this.performer}}}
-          {{#if this.headliner}}
+        <h5 class="progitem__performer">
+          {{{this.performer}}} {{#if this.headliner}}
           <br />
           <strong style="color: #362982; font-size: 0.8em">
             Festival Headliner
@@ -63,6 +63,9 @@
         >
       </div>
       <br />
+      {{#ifequal this.cancelled true}}
+      <!-- left blank -->
+      {{else}}
       <div style="display: flex">
         <span class="event-price"> </span>
         <span style="color: #e62e6c; font-weight: bold">
@@ -70,13 +73,16 @@
           {{/ifequal}}
         </span>
       </div>
-
-      {{#if @root.site-config.show-tickets}} {{#ifequal this.price 0}} {{!--
-      intentionally left blank, dont have opposit helper --}} {{else}}
+      {{/ifequal}} {{#if @root.site-config.show-tickets}} {{#ifequal this.price
+      0}} {{!-- intentionally left blank, dont have opposit helper --}} {{else}}
       {{#ifequal this.price "BUSKING"}} {{!-- intentionally left blank, dont
-      have opposit helper --}} {{else}} {{#ifequal this.cancelled true}} {{!--
-      intentionally left blank, dont have opposit helper --}} {{else}}
-      {{#ifequal this.no-buy-button true}} {{else}}
+      have opposit helper --}} {{else}} {{#ifequal this.cancelled true}}
+      <div>
+        <p style="font-weight: bold; color: #362982; text-transform: uppercase">
+          Cancelled
+        </p>
+      </div>
+      {{else}} {{#ifequal this.no-buy-button true}} {{else}}
       <div class="progitem__cta">
         <a
           href="/en/programme/{{this.slug}}#tickets"

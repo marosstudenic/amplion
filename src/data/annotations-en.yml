@@ -40,12 +40,9 @@ divadlo-na-zabradli-europeana:
   title: "EUROPEANA"
   argentum: true
   premiere: true
+  cancelled: true
   top-general: "TOP programme for the young and adults"
   perex: "A brief history of the European twentieth century told with insight, humor and poignant irony in an informal and mesmerizing way by one of the most legendary Prague theatres. An extraordinary cast of theatre personalities performing for the first time in Banská Štiavnica."
-  occurences:
-    -
-      time: "Sunday 16:00"
-      location: "Culture Centre"
   content:
     -
       "No more boring history! Here is a dramatisation of <i>Patrik Ouředník&#39;s</i> internationally successful book and his gripping and bizarre account of the world in the 20th century. A world in which war, invention of the bra and perforated toilet paper all played an important role. Banalities and pivotal moments are given equal space here, and the result is a new perspective on our past. The twentieth century as in the palm of your hand. Directed by Jan Mikulášek, the cast includes Dita Kaplanová, Anežka Kubátová, Magdaléna Sidonová, Jan Hájek, Václav Vašák, Jiří Kniha, Miloslav König, Jiří Vyorálek. The performance will be followed by a discussion with the actors moderated by journalist <i>Eva Sládková</i>."

@@ -43,12 +43,9 @@ divadlo-na-zabradli-europeana:
   title: "EUROPEANA"
   argentum: true
   premiere: true
+  cancelled: true
   top-general: "TOP program pre mladých a&nbsp;dospelých"
   perex: "Kultové pražské divadlo známych hercov&nbsp;a európske dejiny 20. storočia s&nbsp;humorom i&nbsp;štipľavou iróniou. Plejáda výnimočných osobností po prvýkrát v&nbsp;Banskej Štiavnici!"
-  occurences:
-    -
-      time: "nedeľa 16:00"
-      location: "Kultúrne centrum"
   content:
     -
       "Koniec nudným dejinám! Je tu dramatizácia medzinárodne úspešnej českej knihy <i>Patrika Ouředník</i> a&nbsp;jeho strhujúce i&nbsp;bizarné svedectvo o svete 20. storočia, v&nbsp;ktorom zohrali dôležitú úlohu vojna, vynález podprsenky i&nbsp;perforovaného toaletného papiera. Banality aj kľúčové okamihy tu dostávajú rovnaký priestor a&nbsp;výsledkom je nový pohľad na našu minulosť. Dvadsiate storočie ako na dlani. v&nbsp;réžii Jana Mikuláška účinkujú: Dita Kaplanová, Anežka Kubátová, Magdaléna Sidonová, Jan Hájek, Václav&nbsp;Vašák, Jiří Kniha, Miloslav&nbsp;König, Jiří Vyorálek. Po predstavení nasleduje diskusia s&nbsp;hercami a&nbsp;novinárkou <i>Evou Sládkovou</i>."

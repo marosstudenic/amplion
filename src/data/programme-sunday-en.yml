@@ -48,10 +48,10 @@
   premiere: true
   argentum: true
   headliner: true
+  cancelled: true
   age: 15+
   title: EUROPEANA
-  perex: "a brief history of the European 20<sup>th</sup> century told with insight, humor and poignant
-irony in an informal and mesmerizing way by one of the most legendary Prague theatres."
+  perex: "a brief history of the European 20<sup>th</sup> century told with insight, humor and poignantirony in an informal and mesmerizing way by one of the most legendary Prague theatres."
   location: Cultural Centre, Main Hall
   price: Pre-sale 15 €, on-site 18 €
   slug: divadlo-na-zabradli-europeana
