@@ -1,0 +1,363 @@
+edition: 8
+date: 20. – 22. 9. 2024
+introtext: Témou 9. ročníka Festivalu AMPLIÓN bolo medziľudské zbližovanie, obnova citlivosti, tolerancie a vzájomného porozumenia napriek kultúrnym, vzdelanostným či iným rozdielom.
+
+
+premieres: 
+  - performer: All in Circus (HU)
+    title: ALL IN TWO
+  - performer: Geisslers Hofcomoedianten (CZ)
+    title: IN THE BLUEBERRY BUSHES
+  - performer: Icebreaking Consortium (V4+UA)
+    title: CIRCUS CARAVANA
+  - performer: Sabor-Life is Rhythm (ES)
+    title: THE TASTE OF LIFE IS IN THE RHYTHM
+  - performer: Ennio Marchetto (IT)
+    title: LIVING PAPER CARTOON
+  - performer: "WE: MEDIA THEATER (UA)"
+    title: CHIEF OF THE CIRCUS
+  
+
+argentums:
+  - "Sabor-Life in Rhythm (ES)"
+  - "Der Šenster Gob (CZ)"
+  - "Adam Blaško & Daily SME team (SK)"
+  - "TyMyJán (SK)"
+
+argentums-pro:
+  - Ennio Marchetto (IT)
+download:
+  - title: x
+    link: x
+videos:
+  - title: Aftermovie
+    id: aftermovie
+    link: https://www.youtube.com/embed/F4Otc2JfZA4
+    screenshot: aftermovie.png
+  - title: Dokument
+    id: dokument
+    link: https://www.youtube.com/embed/Ihp6Ghwrcoc
+    screenshot: dokument.jpg
+  - title: Promo spot
+    id: promospot
+    link: https://www.youtube.com/embed/ObAkZ5VAROw
+    screenshot: promospot.jpg
+
+
+
+festival-newspaper: "FN_AMP_2024.pdf"
+photofolder: fotogaleria-festivalu-2024
+photos:
+  - AMPLION_2024_01_01.jpg
+  - AMPLION_2024_01_02.jpg
+  - AMPLION_2024_01_03.jpg
+  - AMPLION_2024_01_04.jpg
+  - AMPLION_2024_01_05.jpg
+  - AMPLION_2024_01_06.jpg
+  - AMPLION_2024_01_07.jpg
+  - AMPLION_2024_01_08.jpg
+  - AMPLION_2024_01_09.jpg
+  - AMPLION_2024_01_10.jpg
+  - AMPLION_2024_01_11.jpg
+  - AMPLION_2024_01_12.jpg
+  - AMPLION_2024_01_13.jpg
+  - AMPLION_2024_01_14.jpg
+  - AMPLION_2024_01_15.jpg
+  - AMPLION_2024_01_16.jpg
+  - AMPLION_2024_01_17.jpg
+  - AMPLION_2024_01_18.jpg
+  - AMPLION_2024_01_19.jpg
+  - AMPLION_2024_01_20.jpg
+  - AMPLION_2024_01_21.jpg
+  - AMPLION_2024_01_22.jpg
+  - AMPLION_2024_01_23.jpg
+  - AMPLION_2024_01_24.jpg
+  - AMPLION_2024_01_25.jpg
+  - AMPLION_2024_01_26.jpg
+  - AMPLION_2024_01_27.jpg
+  - AMPLION_2024_01_28.jpg
+  - AMPLION_2024_01_29.jpg
+  - AMPLION_2024_01_30.jpg
+  - AMPLION_2024_01_31.jpg
+  - AMPLION_2024_01_32.jpg
+  - AMPLION_2024_01_33.jpg
+  - AMPLION_2024_01_34.jpg
+  - AMPLION_2024_01_35.jpg
+  - AMPLION_2024_01_36.jpg
+  - AMPLION_2024_01_37.jpg
+  - AMPLION_2024_01_38.jpg
+  - AMPLION_2024_01_39.jpg
+  - AMPLION_2024_01_40.jpg
+  - AMPLION_2024_01_41.jpg
+  - AMPLION_2024_01_42.jpg
+  - AMPLION_2024_01_43.jpg
+  - AMPLION_2024_01_44.jpg
+  - AMPLION_2024_01_45.jpg
+  - AMPLION_2024_01_46.jpg
+  - AMPLION_2024_01_47.jpg
+  - AMPLION_2024_01_48.jpg
+  - AMPLION_2024_01_49.jpg
+  - AMPLION_2024_01_50.jpg
+  - AMPLION_2024_02_01.jpg
+  - AMPLION_2024_02_02.jpg
+  - AMPLION_2024_02_03.jpg
+  - AMPLION_2024_02_04.jpg
+  - AMPLION_2024_02_05.jpg
+  - AMPLION_2024_02_06.jpg
+  - AMPLION_2024_02_07.jpg
+  - AMPLION_2024_02_08.jpg
+  - AMPLION_2024_02_09.jpg
+  - AMPLION_2024_02_10.jpg
+  - AMPLION_2024_02_11.jpg
+  - AMPLION_2024_02_12.jpg
+  - AMPLION_2024_02_13.jpg
+  - AMPLION_2024_02_14.jpg
+  - AMPLION_2024_03_01.jpg
+  - AMPLION_2024_03_02.jpg
+  - AMPLION_2024_03_03.jpg
+  - AMPLION_2024_03_04.jpg
+  - AMPLION_2024_03_05.jpg
+  - AMPLION_2024_04_01.jpg
+  - AMPLION_2024_04_02.jpg
+  - AMPLION_2024_04_03.jpg
+  - AMPLION_2024_04_04.jpg
+  - AMPLION_2024_04_05.jpg
+  - AMPLION_2024_04_06.jpg
+  - AMPLION_2024_04_07.jpg
+  - AMPLION_2024_04_08.jpg
+  - AMPLION_2024_05_01.jpg
+  - AMPLION_2024_05_02.jpg
+  - AMPLION_2024_05_03.jpg
+  - AMPLION_2024_05_04.jpg
+  - AMPLION_2024_05_05.jpg
+  - AMPLION_2024_05_06.jpg
+  - AMPLION_2024_05_07.jpg
+  - AMPLION_2024_05_08.jpg
+  - AMPLION_2024_05_09.jpg
+  - AMPLION_2024_05_10.jpg
+  - AMPLION_2024_05_11.jpg
+  - AMPLION_2024_05_12.jpg
+  - AMPLION_2024_05_13.jpg
+  - AMPLION_2024_05_14.jpg
+  - AMPLION_2024_06_01.jpg
+  - AMPLION_2024_06_02.jpg
+  - AMPLION_2024_06_03.jpg
+  - AMPLION_2024_06_04.jpg
+  - AMPLION_2024_06_05.jpg
+  - AMPLION_2024_06_06.jpg
+  - AMPLION_2024_06_07.jpg
+  - AMPLION_2024_06_08.jpg
+  - AMPLION_2024_06_09.jpg
+  - AMPLION_2024_06_10.jpg
+  - AMPLION_2024_07_01.jpg
+  - AMPLION_2024_07_02.jpg
+  - AMPLION_2024_07_03.jpg
+  - AMPLION_2024_07_04.jpg
+  - AMPLION_2024_07_05.jpg
+  - AMPLION_2024_07_06.jpg
+  - AMPLION_2024_07_07.jpg
+  - AMPLION_2024_07_08.jpg
+  - AMPLION_2024_07_09.jpg
+  - AMPLION_2024_07_10.jpg
+  - AMPLION_2024_07_11.jpg
+  - AMPLION_2024_07_12.jpg
+  - AMPLION_2024_07_13.jpg
+  - AMPLION_2024_07_14.jpg
+  - AMPLION_2024_07_15.jpg
+  - AMPLION_2024_07_16.jpg
+  - AMPLION_2024_07_17.jpg
+  - AMPLION_2024_07_18.jpg
+  - AMPLION_2024_07_19.jpg
+  - AMPLION_2024_08_01.jpg
+  - AMPLION_2024_08_02.jpg
+  - AMPLION_2024_08_03.jpg
+  - AMPLION_2024_08_04.jpg
+  - AMPLION_2024_08_05.jpg
+  - AMPLION_2024_08_06.jpg
+  - AMPLION_2024_08_07.jpg
+  - AMPLION_2024_08_08.jpg
+  - AMPLION_2024_08_09.jpg
+  - AMPLION_2024_08_10.jpg
+  - AMPLION_2024_08_11.jpg
+  - AMPLION_2024_08_12.jpg
+  - AMPLION_2024_09_01.jpg
+  - AMPLION_2024_09_02.jpg
+  - AMPLION_2024_09_03.jpg
+  - AMPLION_2024_10_01.jpg
+  - AMPLION_2024_10_02.jpg
+  - AMPLION_2024_10_03.jpg
+  - AMPLION_2024_10_04.jpg
+  - AMPLION_2024_10_05.jpg
+  - AMPLION_2024_10_06.jpg
+  - AMPLION_2024_10_07.jpg
+  - AMPLION_2024_10_08.jpg
+  - AMPLION_2024_10_09.jpg
+  - AMPLION_2024_10_10.jpg
+  - AMPLION_2024_10_11.jpg
+  - AMPLION_2024_10_12.jpg
+  - AMPLION_2024_10_13.jpg
+  - AMPLION_2024_10_14.jpg
+  - AMPLION_2024_10_15.jpg
+  - AMPLION_2024_10_16.jpg
+  - AMPLION_2024_10_17.jpg
+  - AMPLION_2024_10_18.jpg
+  - AMPLION_2024_10_19.jpg
+  - AMPLION_2024_10_20.jpg
+  - AMPLION_2024_10_21.jpg
+  - AMPLION_2024_10_22.jpg
+  - AMPLION_2024_10_23.jpg
+  - AMPLION_2024_10_24.jpg
+  - AMPLION_2024_10_25.jpg
+  - AMPLION_2024_10_26.jpg
+  - AMPLION_2024_10_27.jpg
+  - AMPLION_2024_10_28.jpg
+  - AMPLION_2024_10_29.jpg
+  - AMPLION_2024_10_30.jpg
+  - AMPLION_2024_10_31.jpg
+  - AMPLION_2024_10_32.jpg
+  - AMPLION_2024_10_33.jpg
+  - AMPLION_2024_10_34.jpg
+  - AMPLION_2024_10_35.jpg
+  - AMPLION_2024_10_36.jpg
+  - AMPLION_2024_10_37.jpg
+  - AMPLION_2024_10_38.jpg
+  - AMPLION_2024_10_39.jpg
+  - AMPLION_2024_10_40.jpg
+  - AMPLION_2024_10_41.jpg
+  - AMPLION_2024_10_42.jpg
+  - AMPLION_2024_10_43.jpg
+  - AMPLION_2024_10_44.jpg
+  - AMPLION_2024_10_45.jpg
+  - AMPLION_2024_10_46.jpg
+  - AMPLION_2024_10_47.jpg
+  - AMPLION_2024_10_48.jpg
+  - AMPLION_2024_10_49.jpg
+  - AMPLION_2024_10_50.jpg
+  - AMPLION_2024_11_01.jpg
+  - AMPLION_2024_11_02.jpg
+  - AMPLION_2024_11_03.jpg
+  - AMPLION_2024_12_01.jpg
+  - AMPLION_2024_12_02.jpg
+  - AMPLION_2024_12_03.jpg
+  - AMPLION_2024_12_04.jpg
+  - AMPLION_2024_12_05.jpg
+  - AMPLION_2024_13_01.jpg
+  - AMPLION_2024_13_02.jpg
+  - AMPLION_2024_13_03.jpg
+  - AMPLION_2024_13_04.jpg
+  - AMPLION_2024_13_05.jpg
+  - AMPLION_2024_13_06.jpg
+  - AMPLION_2024_13_07.jpg
+  - AMPLION_2024_13_08.jpg
+  - AMPLION_2024_13_09.jpg
+  - AMPLION_2024_13_10.jpg
+  - AMPLION_2024_13_11.jpg
+  - AMPLION_2024_13_12.jpg
+  - AMPLION_2024_14_01.jpg
+  - AMPLION_2024_14_02.jpg
+  - AMPLION_2024_14_03.jpg
+  - AMPLION_2024_15_01.jpg
+  - AMPLION_2024_15_02.jpg
+  - AMPLION_2024_15_03.jpg
+  - AMPLION_2024_15_04.jpg
+  - AMPLION_2024_15_05.jpg
+  - AMPLION_2024_15_06.jpg
+  - AMPLION_2024_15_07.jpg
+  - AMPLION_2024_15_08.jpg
+  - AMPLION_2024_15_09.jpg
+  - AMPLION_2024_15_10.jpg
+  - AMPLION_2024_15_11.jpg
+  - AMPLION_2024_15_12.jpg
+  - AMPLION_2024_15_13.jpg
+  - AMPLION_2024_15_14.jpg
+  - AMPLION_2024_15_15.jpg
+  - AMPLION_2024_15_16.jpg
+  - AMPLION_2024_15_17.jpg
+  - AMPLION_2024_15_18.jpg
+  - AMPLION_2024_15_19.jpg
+  - AMPLION_2024_15_20.jpg
+  - AMPLION_2024_15_21.jpg
+  - AMPLION_2024_15_22.jpg
+  - AMPLION_2024_15_23.jpg
+  - AMPLION_2024_15_24.jpg
+  - AMPLION_2024_15_25.jpg
+  - AMPLION_2024_15_26.jpg
+  - AMPLION_2024_15_27.jpg
+  - AMPLION_2024_15_28.jpg
+  - AMPLION_2024_15_29.jpg
+  - AMPLION_2024_15_30.jpg
+  - AMPLION_2024_16_01.jpg
+  - AMPLION_2024_16_02.jpg
+  - AMPLION_2024_16_03.jpg
+  - AMPLION_2024_16_04.jpg
+  - AMPLION_2024_16_05.jpg
+  - AMPLION_2024_16_06.jpg
+  - AMPLION_2024_16_07.jpg
+  - AMPLION_2024_17_01.jpg
+  - AMPLION_2024_17_02.jpg
+  - AMPLION_2024_17_03.jpg
+  - AMPLION_2024_17_04.jpg
+  - AMPLION_2024_17_05.jpg
+  - AMPLION_2024_18_01.jpg
+  - AMPLION_2024_18_02.jpg
+  - AMPLION_2024_18_03.jpg
+  - AMPLION_2024_18_04.jpg
+  - AMPLION_2024_18_05.jpg
+  - AMPLION_2024_18_06.jpg
+  - AMPLION_2024_18_07.jpg
+  - AMPLION_2024_19_01.jpg
+  - AMPLION_2024_19_02.jpg
+  - AMPLION_2024_19_03.jpg
+  - AMPLION_2024_19_04.jpg
+  - AMPLION_2024_19_05.jpg
+  - AMPLION_2024_19_06.jpg
+  - AMPLION_2024_19_07.jpg
+  - AMPLION_2024_19_08.jpg
+  - AMPLION_2024_19_09.jpg
+  - AMPLION_2024_19_10.jpg
+  - AMPLION_2024_19_11.jpg
+  - AMPLION_2024_19_12.jpg
+  - AMPLION_2024_19_13.jpg
+  - AMPLION_2024_19_14.jpg
+  - AMPLION_2024_19_15.jpg
+  - AMPLION_2024_19_16.jpg
+  - AMPLION_2024_19_17.jpg
+  - AMPLION_2024_19_18.jpg
+  - AMPLION_2024_19_19.jpg
+  - AMPLION_2024_19_20.jpg
+  - AMPLION_2024_19_21.jpg
+  - AMPLION_2024_19_22.jpg
+  - AMPLION_2024_19_23.jpg
+  - AMPLION_2024_19_24.jpg
+  - AMPLION_2024_19_25.jpg
+  - AMPLION_2024_19_26.jpg
+  - AMPLION_2024_19_27.jpg
+  - AMPLION_2024_19_28.jpg
+  - AMPLION_2024_19_29.jpg
+  - AMPLION_2024_19_30.jpg
+  - AMPLION_2024_20_01.jpg
+  - AMPLION_2024_20_02.jpg
+  - AMPLION_2024_20_03.jpg
+  - AMPLION_2024_20_04.jpg
+  - AMPLION_2024_20_05.jpg
+  - AMPLION_2024_20_06.jpg
+  - AMPLION_2024_20_07.jpg
+  - AMPLION_2024_20_08.jpg
+  - AMPLION_2024_20_09.jpg
+  - AMPLION_2024_20_10.jpg
+  - AMPLION_2024_20_11.jpg
+  - AMPLION_2024_20_12.jpg
+  - AMPLION_2024_20_13.jpg
+  - AMPLION_2024_21_01.jpg
+
+text: 
+  - "<b>AMPLIFIER brought audiences and artists together</b>"
+  - "The leitmotif of the 9th edition of the international multi-genre AMPLIFIER Festival − New Cabaret &amp; Street Art was BRINGING TOGETHER people divided by social situation, opinions and interests, preference for traditional vs. contemporary culture, intolerance vs. acceptance of our new neighbours from Ukraine. We are losing solidarity, empathy, we are selfish to the point of hatred. Culture and art, however, help us to get to know each other, to educate, to think critically, to cultivate and tolerate each other. It was precisely this human rapprochement through various forms and fusions of theatre, music, dance, visual and literary arts that 75 artists from 10 European countries sought to achieve on 11 stages in the exteriors and interiors of Banská Štiavnica and its surroundings. The beautiful sunny weather attracted many visitors to the UNESCO city, who could choose from 20 programmes for their unique cultural experience. The festival presented up to 6 Slovak premieres of foreign productions and productions, and there was also special programmes created just for this festival."
+  - "At the opening of the festival, the organizers, Slovak artists and spectators symbolically joined the Cultural Strike and with joined hands opened the festival with the slogan TO CONVERGE IS ART!"
+  - "<b>The new cabaret</b> is fresh and fully alive. Prague&#39;s Geisslers Hofcomoedianten theatre proved it with the baroque erotic tickler V BORŮVČÍ. The 6th edition of the Czech-Slovak cabaret sketch competition SKETCH UP was also not to be missed. Mochi from Banská Štiavnica and Tomáš &amp; Markéta from Krnov competed for the festival prize. The most successful was the young theatre group TyMyJán from Bratislava, which won the Amplion Argentum prize from the jury for its imaginative and witty sketch and the option for its own full-length programme at the 10th edition of Amplion in 2025. Slovak Falangir Theatre, last year&#39;s winner of the Sketch Up competition, performed a successful re-generation of the burnout narrative IT´S GETTING DARK. In a packed Cube, the Spanish contemporary tap dancing team Sabor-Life in Rhythm showcased their artistry in the Slovakian premiere with a spirited, music and dance cabaret, THE TASTE OF LIFE IS IN THE RYTHM, which had the audience roaring and dancing along with them. The headliner of the festival was the world-famous comedian Ennio Marchetto from Italy, who performed in Slovakia for the first time. In his dynamic cabaret one-man show LIVING PAPER CARTOON he fantastically revived and parodied world singing celebrities. The almost full hall of the cultural centre gave him a well-deserved standing ovation on Saturday evening."
+  - "<br>In the street theatre</b>, families with children were entertained by the interactive circus ALL IN TWO from Hungary. The Slovak premiere of the international street show CIRCUS CARAVANA by the Icebreaking Consortium, prepared by the local Ensemble of Irregular Theatre with partner theatres from the V4+UA countries on the theme of rapprochement between locals and Ukrainian expatriates, was an exceptional experience in the natural environment of the asphalt area under the Drieňová housing estate. The participation was high, regardless of age or nationality, and the reactions of the audience were very spontaneous and warm. The atmosphere in the streets, on the terraces or in the gardens was also created by genre-diverse bands all the time. TYGROO brass electronics had everyone in the Cube dancing. In the moonlight, visitors intimately enjoyed the musical atmosphere of the 1920s-1950s in the evening garden above the Art Cafe, where the women&#39;s jazz band PAPER MOON TRIO from Bratislava played and sang. The full attic of the Art Cafe was intensely entertained and bonded to the gypsy and Balkan music of the Prague band DER ŠENSTER GOB."
+  - "Der Šenster Gob did not lose their energy even late at night and spontaneously jammed along with the trio of Slovak female singers from Paper Moon Trio and Spanish step soloists to the enthusiastic ovation of the festival attendees present at the Art Cafe. It was there and then that the synergy of art, humanity and naturally the leitmotif of the festival was fulfilled."
+  - "<b>Socially Critical Art</b>"
+  - "This year, the ART PUTIKA series of pub disputes was enjoyed by a large audience. The first discussion attracted an attractive guest, the social anthropologist and writer Juraj Buzalka, author of POSTSEDLING. There was also great interest in the second discussion ART PUTIKA in Art Cafe with the lecturer of critical thinking and writer Ján Markoš, author of the book CLOSER TO YOURSELF. Both were moderated by Jana Močková from Denník N. A novelty of the festival was a bizarre political quiz by the creators of the popular podcast of Denník SME - PIATOČEK. The premiere of the documentary film THE CHIEF OF THE CIRCUS by the Ukrainian WE: Media Theatre about the fate of a former circus principal in eastern Ukraine was also strong. The film reflection of the occupation was complemented by Milan Bátor from Moravia with songs by Karel Kryl."
+  - "Who are the <b> winners of the Amplion Argentum Award </b>of the 9th edition of AMPLIFIER? In the category of new cabaret it was awarded to the tap dancers of the group Sabor-Life in Rhythm from Barcelona, the prize for socially-engaged art was awarded to the quiz Piatoček and a special prize went to Ennio Marchetto in Venice. In the street art category, the award went to the band Der Schenster Gob."
+  - "The end of the festival unconventionally belonged to the artistic performances of the ad hoc group of reciters D´dištanc dženerejšn, who with the program NO CLOSE, NO FUN accompanied by swing music Paper Moon Trio completed the theme of rapprochement in the beautiful surroundings of the garden terraces of the Scout House. They ended it with the still relevant sentence, <b>we are with you, be with us − culture needs you!</b>"
