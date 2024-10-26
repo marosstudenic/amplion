@@ -63,7 +63,12 @@
         >
       </div>
       <br />
-      {{#ifequal this.cancelled true}}
+      {{#ifequal this.cancelled true}} 
+      <div></div>
+        <p style="font-weight: bold; color: #362982; text-transform: uppercase">
+          CANCELLED!
+        </p>
+      </div>
       <!-- left blank -->
       {{else}}
       <div style="display: flex">
@@ -82,7 +87,8 @@
           CANCELLED!
         </p>
       </div>
-      {{else}} {{#ifequal this.no-buy-button true}} {{else}}
+      {{else}} {{#ifequal this.no-buy-button true}} {{#ifequal
+      @root.site-config.archive-mode-program true}} {{else}}
       <div class="progitem__cta">
         <a
           href="/en/programme/{{this.slug}}#tickets"
@@ -90,7 +96,7 @@
           >Buy tickets</a
         >
       </div>
-      {{/ifequal}} {{/ifequal}} {{/ifequal}} {{/ifequal}} {{/if}}
+      {{/ifequal}} {{/ifequal}} {{/ifequal}} {{/ifequal}} {{/ifequal}} {{/if}}
     </div>
   </div>
 </li>
