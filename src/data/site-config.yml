@@ -1,11 +1,11 @@
 show-tickets: false
-show-program: true
-show-program-en: true
+show-program: false
+show-program-en: false
 # true after festival 
 archive-mode-program: true 
 busking-menu: false 
 sketchup-menu: false
-year: 2024
+year: 2025
 show-festivalove-noviny: true
 rocnik: 10
 slogan: "ZBLIŽOVAŤ JE UMENIE"
@@ -35,7 +35,6 @@ sketch-up-form-link: https://docs.google.com/forms/d/e/1FAIpQLSfyiD32Ar-W6nrgOLy
 
 show-caravana: true
 show-busking-program: true
-
 
 festivalove-noviny-sk: "FN_AMP_2024.pdf"
 tlacova_sprava-sk: "AMPLION_2024_TS_SK.pdf"
