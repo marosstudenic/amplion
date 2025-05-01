@@ -18,6 +18,7 @@ hideFooterNewsletter: true
       i zahraničného kabaretného a pouličného umenia. Využite nádhernú jeseň
       obohatenú vzácnymi zážitkami a prvotriednou zábavou v meste UNESCO.
     </p>
+    {{#if @root.site-config.show-program-promospot}}
     <p class="launch-video" data-open="modal-festival-video">
       <img src="/assets/img/button-play.svg" alt="Prehrať video" class="launch-video__icon" />
       <span class="launch-video__label">PROMOSPOT AMPLIÓNU 2024</span>
@@ -39,6 +40,7 @@ hideFooterNewsletter: true
         <span aria-hidden="true">&times;</span>
       </button>
     </div>
+    {{/if}}
   </div>
 </section>
 
@@ -61,17 +63,22 @@ hideFooterNewsletter: true
     </h3>
 
 
+    {{#if @root.site-config.show-program-pdf-home}}
     <h2 class="section__title pink" style="padding: 70px 5% 0 5%">
               <div class="expanded button-group">
                 <a href="/assets/PROGRAM_AMPLION_24_SK_V5.pdf" target="_blank" class="button secondary">PROGRAM v PDF (2024)</a>
               </div>
       </div>
     </div>
+    {{/if}}
     
     <!-- {{>_permanentky}} -->
 
     <!-- to iste v sekcii vyssie -->
-    {{>_lauretani}}
+    {{#if @root.site-config.show-laureates}}
+    {{>_lauretani}} 
+    {{/if}}
+
 
 
     <!-- <div class="programme-teaser__double">
@@ -79,6 +86,8 @@ hideFooterNewsletter: true
         <h4 class="programme-teaser__title"><span class="programme-teaser__performer">Kompletný program festivalu  </span></br>16. augusta 2021</h4>
       </div> -->
   </div>
+  <iframe src="https://donio.sk/widget2/10001" width="100%" height="600" frameborder="0"></iframe>
+
   <!--    {{#if @root.site-config.show-festivalove-noviny}}-->
   <!--    <p class="section__footertext">-->
   <!--      {{!&#45;&#45; <a href="/program/" class="button">Pozrite si celý program!</a> &#45;&#45;}}-->

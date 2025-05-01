@@ -26,6 +26,7 @@ layout: english
             entertainment in UNESCO city.
         </p>
     </div>
+    {{#if @root.site-config.show-program-promospot}}
     <p class="launch-video" data-open="modal-festival-video">
         <img src="/assets/img/button-play.svg" alt="Play video" class="launch-video__icon" />
         <span class="launch-video__label">Promospot 2024</span>
@@ -48,7 +49,10 @@ layout: english
             <span aria-hidden="true">&times;</span>
         </button>
     </div>
+    {{/if}}
 </section>
+
+
 
 <section class="section">
     <img src="/assets/img/balintR.png" alt="" class="
@@ -65,12 +69,13 @@ layout: english
             entertainment in UNESCO city.
         </h3>
 
+        {{#if @root.site-config.show-program-pdf-home}}
         <h2 class="section__title pink" style="padding: 70px 5% 0 5%">
             <div class="expanded button-group">
               <a href="/assets/PROGRAM_AMPLION_24_EN_V5.pdf" target="_blank" class="button secondary">PROGRAMME in PDF (2024)</a>
             </div>
-    </div>
-  </div>
+        </div>
+        {{/if}}
         <!-- to iste v sekcii vyssie -->
         <!-- <h2 class="section__title">Amplion Argentum Award Winners - 5th year</h2> -->
         {{>_lauretani-en}}
@@ -79,8 +84,12 @@ layout: english
             <a href="/en/programme/" class="button">See the full programme!</a>
         </p>
         {{/if}}
+
+
         <!-- <p class="text-center"><a href="/en/busking/" class="button secondary">See the programme and buy tickets!</a></p> -->
     </div>
+    <!-- <iframe src="https://donio.sk/widget2/10001" width="100%" height="600" frameborder="0"></iframe> -->
+
     <img src="/assets/img/Morocco.png" alt="" class="
       section__illustration
       section__illustration--bottom
@@ -89,6 +98,7 @@ layout: english
       section__illustration--smaller
     " />
 </section>
+
 
 <section class="section section--plain section--narrow" id="newsletter">
     <div class="section__inner">

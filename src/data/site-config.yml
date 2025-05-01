@@ -10,7 +10,9 @@ show-festivalove-noviny: true
 rocnik: 10
 slogan: "ZBLIŽOVAŤ JE UMENIE"
 slogan-en: "TO CONVERGE IS AN ART"
-
+show-laureates: false
+show-program-pdf-home: false
+show-program-promospot: false
 # busking
 busking-form-deadline: "15.&nbsp;júla&nbsp;2024"
 busking-form-deadline-nominativ: "15.&nbsp;júl&nbsp;2024"
