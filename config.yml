@@ -13,8 +13,8 @@ UNCSS_OPTIONS:
     # Search for used CSS classes in generated HTML files
     - "dist/**/*.html"
   ignore:
-    - !!js/regexp .foundation-mq
-    - !!js/regexp ^\.is-.*
+    - ".foundation-mq"
+    - "^\\.is-.*"
 
 # Gulp will reference these paths when it copies files
 PATHS:
