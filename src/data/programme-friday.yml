@@ -2,65 +2,75 @@
   time: 16:00 – 16:30
   title: OTVORENIE FESTIVALU
   age: Family
-  perex: "Príďte otvoriť 9. ročník Festivalu AMPLIÓn heslom Zbližovať je umenie!\nHymna&nbsp;+&nbsp;promo: All in Circus (HU), Tygroo (CZ), Sabor-Life&nbsp;is&nbsp;Rhythm (ES)"
+  perex: "Príďte otvoriť 10. ročník Festivalu AMPLIÓN heslom: Byť slobodný je umenie!\nHymna + promo: Tomáš Edelsberger (SK+CZ), gipsy-jazz kapela Giľora (CZ)"
   location: Námestie sv. Trojice
   price: 0
   slug: otvorenie-festivalu
 
 - 
-  time: 17:00 – 17:35
-  performer: All in Circus (HU)
-  premiere: true
-  age: Family
-  title: ALL IN TWO – zábavný pouličný cirkus
-  perex: "Zábavný pouličný cirkus dvoch žonglérov, klaunov a akrobatov"
-  location: Záhrada Skautského domu, ul.&nbsp;A.&nbsp;Pécha
-  price: 4 / 7 €
-  slug: all-in-circus
+  time: 17:00 – 18:30
+  performer: Ansámbel&nbsp;nepravidelného&nbsp;divadla&nbsp;n.o.&nbsp;(SK)
+  premiere: false
+  age: 15+
+  title: EX-TRÉMISTI – hrdinovia, ktorí stratili strach II.
+  perex: "Jedinečná forma divadla a silné príbehy dvojakých hrdinov hrané aj divákmi"
+  location: Rubigall, Nám. Sv. Trojice
+  price: 4 / 8 €
+  slug: ex-tremisti
 
 - 
-  time: 18:00 – 19:30
-  performer: Jana Močková, Denník N (SK)
+  time: 17:30 – 18:15
+  performer: Mario Šeparovič & Vojta Šňupárek (CZ)
+  premiere: false
+  age: 12+
+  title: KONCERT
+  perex: "Blues, soul a funk gitarového dua z Ostravy alias Eric Clapton v Banskej Štiavnici"
+  location: Trotuár Cafe, A. Kmeťa
+  price: 0
+  slug: mario-separovic-vojta-snuparek
+
+- 
+  time: 19:00 – 20:15
+  performer: Vladimír Šnídl, Denník N (SK)
   premiere: false
   argentum: true
   age: 12+
-  title: ART PUTIKA I. – POSTSEDLIACI?
-  perex: "Diskusia a čítanie z úspešnej knihy Postsedliaci – slovenský ľudový protest. Hosť: autor Juraj Buzalka. Moderuje: redaktorka Jana Močková."
+  title: ART PUTIKA I. – KAMARÁT VERÍ HOAXOM, ČO S TÝM?
+  perex: "Diskusia a ukážky z pripravovanej knihy o tom ako viesť dialóg s blízkymi, ktorých svet sa nám vzďaľuje. Hosť: Vladimír Šnídl − uznávaný reportér a odborník na konšpirácie a hoaxy na internete"
   location: Art Cafe, povala
   price: 7 €
-  slug: art-putika-i-postsedliaci
+  slug: art-putika-i-kamarat-veri-hoaxom
 
 - 
-  time: 20:00 – 22:00
+  time: 19:30 – 20:15
+  performer: GIĽORA (SK+CZ)
+  premiere: false
+  age: 12+
+  title: KONCERT
+  perex: "Spontánne a interaktívne jazzové tradicionály i rómske piesne parádnej českej kapely"
+  location: Archanjel bar, Radničné námestie
+  price: 7 €
+  slug: gilora-koncert
+
+- 
+  time: 20:30 – 22:30
   performer: Denník SME (SK)
   premiere: false
   argentum: true
   age: 15+
   title: PIATOČEK – BIZARNÝ POLITICKÝ KVÍZ
-  perex: "Tvorcovia známeho a úspešného satirického podcastu SME: Piatoček majú novinku! Objavte ich nový kvíz aj nový industry pub v Banskej Štiavnici."
-  location: Pražovňa – industry pub, 1.&nbsp;poschodie
-  price: 10 €
+  perex: "Tvorcovia satirického podcastu otestujú vaše vedomosti zo zákutí slovenskej politiky s poriadnou dávkou recesie a nadhľadu"
+  location: Pražovňa, Industry pub
+  price: V predpredaji 10 €, na mieste 12 €
   slug: dennik-sme-piatocek
 
 - 
-  time: 20:30 – 21:40
-  performer: Geisslers Hofcomoedianten (CZ)
-  premiere: true
-  age: 15+
-  title: V BORŮVČÍ
-  perex: "Erotická lechtihra alebo komediálne, šteklivé divadlo so živou hudbou"
-  location: Kultúrne centrum, hlavná sála
-  price: V predpredaji 10 €, na mieste 12 €
-  slug: geisslers-hofcomoedianten-v-boruvci
-
-- 
   time: 22:30 – 23:45
-  performer: Tygroo (CZ)
-  premiere: true
-  argentum: true
+  performer: Kráter Kartel
+  premiere: false
   age: 15+
   title: KONCERT
-  perex: "Divoká zmes elektro-tanečnej hudby, balkánu, jazzu a rapu do bláznivého tanca"
-  location: Kocka, Kammerhofská 6
-  price: V predpredaji 10 €, na mieste 12 €
-  slug: tygroo-koncert
+  perex: "Worldmusic, latino, gypsy, swing, balkán aj ľudovka do tanca"
+  location: Art Cafe, povala
+  price: 7 €
+  slug: krater-kartel-koncert

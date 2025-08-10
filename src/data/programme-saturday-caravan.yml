@@ -1,22 +1,11 @@
+
 - 
-  time: 14:00 – 14:45
-  performer: Tomáš &amp; Markéta + Milan Bátor (SK+CZ)
+  time: 14:00 – 15:00
+  performer: Mario Šeparovič & Vojta Šňupárek (CZ)
   premiere: false
   age: Family
   title: KONCERT
-  perex: "Autorské piesne česko-slovenskej dvojice + originálne gitarové úpravy Beatles"
+  perex: "Blues, soul a funk gitarového dua z Ostravy alias Eric Clapton na Počúvadle"
   location: Terasa u Blaškov, Počúvadlianske jazero
   price: 0
-  slug: tomas-marketa-koncert
-
-- 
-  time: 15:30 – 16:45
-  performer: Konzorcium Icebreaking (V4+UA)
-  premiere: true
-  age: Family
-  title: CIRCUS CARAVANA
-  no-buy-button: true
-  perex: "Atraktívne medzinárodné pouličné divadlo o zbližovaní"
-  location: Asfaltová plocha pri SOŠSL, Kolpašská 9
-  price: "Vstupné dobrovoľné"
-  slug: konzorcium-icebreaking-circus-caravana
+  slug: mario-separovic-vojta-snuparek-pocuvadle

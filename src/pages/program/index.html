@@ -12,13 +12,13 @@ friday:
 saturday:
   previd: piatok
   prevtext: Piatok 
-  nextid: nedela
-  nexttext: Nedeľa 
-sunday:
+  <!-- nextid: nedela
+  nexttext: Nedeľa  -->
+<!-- sunday:
   previd: sobota
   prevtext: Sobota 
   nextid:
-  nexttext:
+  nexttext: -->
 ---
 <section class="section section--plain section--straight section--top section--notopspace">
   <div class="section__inner">
@@ -57,6 +57,8 @@ sunday:
           <dd>Označenie X znamená zľavnené vstupné pre deti od 5 do 15 rokov, Y je vstupné pre dospelých. Deti do 5 rokov majú vstup zadarmo.</dd>
            <dt style="color:#E62E6C">BUSKING</dt>
           <dd>Dobrovoľné vstupné do klobúka</dd>
+          <dt style="color:#E62E6C">Vstupné Z €*</dt>
+          <dd>Zľava 50% pre študentov od 15 do 26 rokov a držiteľov ISIC, držiteľov karty Štiavnica plus, dôchodcov a ŤZP</dd>
         
         </dl>
       </p>
@@ -84,8 +86,10 @@ sunday:
           <!-- <li class="tabs-title is-active"><a href="#stvrtok" aria-selected="true">Štvrtok</a></li> -->
           <li class="tabs-title is-active" aria-selected="true"><a href="#piatok">Piatok</a></li>
           <li class="tabs-title"><a href="#sobota">Sobota</a></li>
+          {{#if programme-sunday.length}}
           <li class="tabs-title"><a href="#nedela">Nedeľa</a></li>
-        </ul>
+          {{/if}}
+        </ul> 
 
         <div class="tabs-content" data-tabs-content="deeplinked-tabs">
 
