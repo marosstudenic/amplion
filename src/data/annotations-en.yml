@@ -1,0 +1,409 @@
+# voluntary-admission: true "Vstupné dobrovolné!
+# price: 0 - no ticket button "Volny vstup!"
+
+otvorenie-festivalu:
+  performer: 'Festival AMPLIÓN'
+  title: "OPENING CEREMONY"
+  general: "Family"
+  price: 0
+  occurences:
+    -
+      time: "Friday 16:00"
+      location: "Holy Trinity Square"
+  perex: "Come and open the 10th annual of the AMPLIFIER Festival with the slogan: <i>Being free is an art!</i>"
+  content:
+    - "We will present you the festival program and add its tastings. Everything will culminate in another original version of the Amplifier anthem, this time performed by singer, pianist and recess player Tomáš Edelsberger. The gypsy-jazz band Giľora from the Czech Republic will also put you in a great mood and EX-TREMISTS will also give a strong singing performance. Everyone is welcome!"
+  pictures:
+    - "Amplion24_otvorenie_festivalu_Kristina Svitokova_024.webp"
+    - "Amplion24_otvorenie_festivalu_Kristina Svitokova_034.webp"
+    - "Amplion_24_otvorenie festivalu_Peter Stit_3015.webp"
+    - "Amplion_24_otvorenie festivalu_Peter Stit_3018.webp"
+  foto: "Kristína Svítoková, Peter Štít"
+  link: "https://www.amplion.eu"
+
+  
+
+ex-tremisti:
+  performer: 'The Ensemble of Irregular Theatre (SK)'
+  title: "EX-TREMISTS – heroes who lost their fear II."
+  general: "Program for youth and adults"
+  price: "4 / 8 €"
+  occurences:
+    -
+      time: "Friday 17:00"
+      location: "Rubigall, Holy Trinity Square"
+  perex: "A unique form of theatre performed by the audience and powerful stories of dual heroes"
+  content:
+    - "A docu-theatre based on real events, in which the audience becomes the actors. An original production not only for teenagers about strong stories of dual heroes. About those who have lost stage fright = fear and act without inhibitions and about those who have lost stage fright = fear and act courageously and honestly. Stories of young exceptional and contradictory personalities from contemporary life about personal courage, eco-activism vs. eco-extremism, nationalism, neo-fascism or digital extremism presented in an action-packed, engaging and humorous way. The atmosphere of the play is enhanced by live music and songs."
+    - "The play is a new continuation of a successful project that was created during the City of Culture Banská Štiavnica 2019 and successfully resonated with its meaningfulness in many schools in Slovakia. Due to the unique form of the production, the capacity of the auditorium is limited to a maximum of 40 people."
+    - "<i><b>The Ensemble of Irregular Theatre</b> is an independent group of theatre professionals and friends of contemporary art with a similar humanistic mindset and worldview, based in Banská Štiavnica. It was established through the generational and programmatic transformation of the Kremnica Underground Theatre (2012–2017), which founded the Kremnica Gags Festival of Humor and Satire in 1981 and organized it for 25 years. AND is dedicated to finding new forms of modern cabaret, street and engaged productions. In 2016, it founded the international AMPLIFIER Festival – New Cabaret & Street Art in Banská Štiavnica. Its members were co-creators of the projects City of Culture Banská Štiavnica 2019 and City of Culture Humenné 2024.</i>"
+  pictures:
+    - "EX-TREMISTI II_MK HE_2025_AG_016.webp"
+    - "EX-TREMISTI II_MK HE_2025_AG_023.webp"
+    - "EX-TREMISTI II_MK HE_2025_AG_037.webp"
+    - "EX-TREMISTI II_MK HE_2025_AG_063.webp"
+    - "EX-TREMISTI II_MK HE_2025_AG_075.webp"
+  foto: "Anna Gondová"
+  link: "https://www.and-theatre.art"
+
+mario-separovic-vojta-snuparek:
+  performer: 'Mario Šeparović & Vojta Šňupárek (CZ) Slovak premiere!'
+  title: "CONCERT"
+  general: "Program for youth and adults"
+  price: 0
+  occurences:
+    -
+      time: "Friday 17:30"
+      location: "Trotuár Cafe"
+  perex: "Blues, soul, and funk from the guitar duo aka Ostrava's Eric Clapton in Banská Štiavnica!"
+  content:
+    - "Singer and guitarist Mario Šeparović, who is of Serbo-Croatian descent, plays energetic music that blends blues, soul, and funk, accompanied by Ostrava guitarist Vojta Šňupárek. Mario Šeparović is a great singer, multi-instrumentalist and, above all, guitarist, who is also known as the \"Eric Clapton of Ostrava\". Not only because his music is based on blues, but also because of his cross-genre approach and playing skills. Together with Šnupárka, they play well-known and big names, but also original songs from the album Crosswalk, whose song September was nominated for the Jantár Award for Song of the Year 2020 in the Czech Republic."
+  pictures:
+    - "Mario Separovic_cb.webp"
+    - "Vojtech Snuparek_cb.webp"
+    - "Snuparek a Separovic.webp"
+  foto: "performers archive"
+  link: "bez"
+
+art-putika-i-kamarat-veri-hoaxom:
+  performer: 'Vladimír Šnídl, Daily N (SK) AA'
+  title: "ART PUTIKA I. – My friend believes hoaxes, what should I do?"
+  argentum: true
+  general: "Program for youth and adults"
+  price: "7 €"
+  occurences:
+    -
+      time: "Friday 19:00"
+      location: "Art Cafe, attic"
+  perex: "Discussion and excerpts from the upcoming book by the debunker of conspiracies and hoaxes on how to talk to loved ones whose world is drifting away from ours"
+  content:
+    - "Vladimír Šnídl is a renowned reporter and debunker of conspiracies and hoaxes on the internet. As he says, he exposes the nonsense that even your friends may believe and offers tips on what to do about it. We all need to come together. Thanks to this discussion, you will gain practical advice on how to engage in dialogue with loved ones who believe in conspiracies and hoaxes without unnecessary conflict. You will be the first to hear excerpts from the author's new book and see inspiring video projections. Come and debate freely with a great expert from the field!"
+    - "<i>Vladimír Šnídl is a reporter for the domestic news section of Daily N. He lived in Prague for eleven years. He studied political science at Charles University and worked for the Czech newspaper Hospodářské noviny and the weekly Ekonom from 2007. In September 2014, he moved to the Daily SME. In 2015, he was one of the founding editors of Daily N. He specializes in topics such as military procurement, transportation, and the spread of disinformation. In 2017, he wrote the book Truth and Lies on Facebook, which examines the phenomenon of hoaxes and conspiracy theories on the Slovak and Czech internet. He also regularly gives lectures on this topic at Slovak schools.</i>"
+  pictures:
+    - "ART PUTIKA I_Vladimir Snidl_Dennik N.webp"
+  foto: "Tomáš Benedikovič"
+  link: "https://dennikn.sk/autor/vlado-snidl/"
+
+gilora-koncert:
+  performer: 'GIĽORA (CZ) Slovak premiere!'
+  title: "CONCERT"
+  general: "Program for youth and adults"
+  price: "7 €"
+  occurences:
+    -
+      time: "Friday 19:30"
+      location: "Archanjel bar"
+  perex: "Free jazz traditional songs and Roma songs by a great Czech band with a special guest"
+  content:
+    - "A wonderful experience! This is Giľora, a free-spirited trio consisting of violin, guitar, and trumpet, whose music straddles the line between traditional jazz and Romani songs. Music is a joy and a spontaneous part of life for them—they play on the street, on trains, on their way to the forest, and in Romani settlements. They enjoy busking, so their concerts can take place at any time and in any place where there is enthusiasm and an audience. Come and join in by playing, singing, or dancing. Ondřej Skovajsa, Martin Gális, Adam Pospíšil and, exceptionally, a special guest: young Roma singer Natália Malíková are looking forward to seeing you."
+  pictures:
+    - "Foto_Gilora_01.webp"
+    - "Foto_Gilora_02.webp"
+    - "Foto_Gilora_03.webp"
+    - "Foto_Gilora_05.webp"
+    - "Foto_Gilora_06.webp"
+    - "Foto_Gilora_07.webp"
+    - "Happening_Gilora_01.webp"
+  foto: "band archive"
+  link: "bez"
+
+dennik-sme-piatocek:
+  performer: 'Daily SME (SK)'
+  title: "BIZARRE POLITICAL QUIZ – PIATOČEK"
+  argentum: true
+  general: "Program for youth and adults"
+  price: "Advance 10 €, at the door 12 €"
+  occurences:
+    -
+      time: "Friday 20:30"
+      location: "Pražovňa − industry pub, 1st floor"
+  perex: "The creators of a well-known and successful satirical podcast Piatoček bring another quiz hurricane with a healthy dose of humor and perspective. Guaranteed fun!"
+  content:
+    - "Are you familiar with the most bizarre corners of Slovak politics, even though you are not a historian? Come and test your knowledge in this unique quiz. You will test your knowledge of political figures and important or completely insignificant events that contribute to the current atmosphere in society. Put together a team of 5 people and show others that you are really the best. If you don't have a team, don't worry, we'll find you some friends and create one for you. Come on over! Adam Blaško, Kristína Gyuriková, Kristina Janščová, and Viktor Hlavatovič are looking forward to seeing you."
+  pictures:
+    - "SME_Piatocek_team_1.webp"
+    - "SME_Piatocek v BS_autor foto_Peter Stit_1.webp"
+    - "SME_Piatocek v BS_autor foto_Peter Stit_2.webp"
+    - "SME_Piatocek v BS_autor foto_Peter Stit_3.webp"
+
+  foto: "archive SME/Piatoček"
+  link: "https://podcasty.sme.sk/t/8343/podcast-piatocek"
+
+krater-kartel-koncert:
+  performer: 'Kráter Kartel (SK)'
+  title: "CONCERT"
+  general: "Program for youth and adults"
+  price: "7 €"
+  occurences:
+    -
+      time: "Friday 22:30"
+      location: "Art Cafe, attic"
+  perex: "World music, latino, gypsy, swing, balkan and folk music for dancing, the right choice for a Friday night!"
+  content:
+    - "Music from around the world performed by a band from the Štiavnica crater. A great mix of genres that will cheer you up and get you dancing. Kráter Kartel is a group of friends who will share with you songs collected from their travels around the world and much more. They will conjure up a unique Friday evening experience that you will remember for a long time to come. Treat yourself!"
+  pictures:
+    - "Krater Kartel_1.webp"
+    - "Krater Kartel_2.webp"
+    - "Krater Kartel_3.webp"
+    - "Krater Kartel_4.webp"
+  foto: "band archive"
+  link: "https://www.facebook.com/KraterKartel/"
+
+kocur-v-cizmach:
+  performer: 'New Theatre Nitra (SK)'
+  title: "PUSS IN BOOTS"
+  general: "3+"
+  price: "3 / 6 €"
+  occurences:
+    -
+      time: "Saturday 10:00"
+      location: "Scout House Garden, A. Pécha St."
+  perex: "Punk-animal-puppet-comedy thriller for children and parents"
+  content:
+    - "Friends, not all cats are the same! A lively and humorous play awaits you, showing that truth, love, and honor always triumph over self-interest and immorality. This playful, energetic production with live music, movement, visual objects, puppets, and excellent acting will delight all generations. Come and enjoy quality theater that is not just for children! Directed by Šimon Spišák."
+    - "<i>The New Theatre in Nitra was founded in May 2016 by prominent artists from the Old Theatre of Karol Spišák in Nitra. In the nine years of its existence, it has staged more than 850 performances for over 85,000 spectators. The New Theatre's productions have been presented at many important international and domestic festivals. The theatre has been recognized with four nominations for the Dosky Awards, and in the end, Lucia Korená won the 2017 Dosky Award for Best Female Performance in the play Anna Franková.</i>"
+  pictures:
+    - "ND_Kocur v cizmach_Collavino-3485.webp"
+    - "ND_Kocur v cizmach_Collavino-3500.webp"
+    - "ND_Kocur v cizmach_Collavino-3552.webp"
+    - "ND_Kocur v cizmach_Collavino-3807.webp"
+    - "ND_Kocur v cizmach_Collavino-3988.webp"
+  foto: "Collavino"
+  link: "https://novedivadlo.sk/"
+
+
+happening-slobodnej-slovenskej-kultury:
+  performer: 'The Ensemble of Irregular Theatre & guests (SK+CZ)'
+  title: "HAPPENING OF FREE SLOVAK CULTURE"
+  general: "Program for youth and adults"
+  price: 0
+  occurences:
+    -
+      time: "Saturday 11:30"
+      location: "Holy Trinity Square → Art Cafe, terrace"
+  perex: "Artistic response to current events in culture with Dorota Nvotová, Little Cynic, the band Giľora and strong personalities from Slovak culture"
+  content:
+    - "Become part of an artistic protest happening in support of free Slovak culture! Representatives of cultural initiatives and institutions whose support was rejected by the new board of Slovak Arts Council under Šimkovičová and Machala, or who lost their jobs, will perform, continuing to fight bravely for a free domestic cultural scene for all of us. There will also be musical performances by free artists and, finally, an artistic parade through the city enriched with works of art and a marching band. Let's stand together and make it clear that we, the free creators of Slovak culture, and you, our free and supportive audience, are not going anywhere!"
+  pictures:
+    - "Happening_Maly Cynik_01_foto_Jan Fakla.webp"
+    - "Happening_Gilora_01.webp"
+    - "Happening_Dorota Nvotova_cepiec_color_foto_Marek Sulik.webp"
+    - "Happening_Dorota Nvotova a Lazy_2.webp"
+
+  foto: "inštalácia SOS kultúra"
+  link: "https://amplion.eu/"
+
+
+maly-cynik-koncert:
+  performer: 'Little Cynic (SK)'
+  title: "CONCERT"
+  general: "Program for youth and adults"
+  price: 0
+  occurences:
+    -
+      time: "Saturday 12:15"
+      location: "Art Cafe, terrace"
+  perex: "A concert of the lost generation that will not be lost, or protest songs for Slovakia"
+  content:
+    - "The protest songs of Little Cynic (Jakub Pohle) consist of his own compositions, but also songs by living and long-gone songwriters such as Dušan Vlk, Fvck_Kvlt, Kryl, Lasica, and Slobodná Európa. A mix of socially engaged songs from the last fifty years and one great common desire will come to life. Apparently, for fifty years, we have all been longing for the same freedom, love, and tolerance. Did Karel Kryl and Jaro Filip sing about the same thing? Does their work reflect today's world? Come and see for yourself at an intimate concert with spontaneous energy!"
+    - "<i>Jakub Pohle is an activist, investigative journalist, war reporter, and satirist known under the pseudonym Little Cynic. He sings beautifully and even plays not only the guitar but also in the theatre.</i>"
+  pictures:
+    - "Happening_Maly Cynik_01_foto_Jan Fakla.webp"
+    - "Maly Cynik_02_ foto_Jan Fakla.webp"
+    - "Maly Cynik_foto_Anna Gondova.webp"
+  foto: "Anna Gondová"
+  link: "https://www.instagram.com/malycynik/" 
+
+
+dprotest-dzenerejsn-edel-pocuvadlo:
+  performer: 'D´protest dženerejšn + Edel & Počúvadlo band (SK+CZ)'
+  title: "NO FREEDOM, NO FUN"
+  general: "Program for youth and adults"
+  price: "7 €"
+  occurences:
+    -
+      time: "Saturday 13:30"
+      location: "Scout House Garden, A. Pécha St."
+  perex: "Modern artistic recitals and original songs on the theme of (un)freedom in the beautiful surroundings of the garden terraces of the Scout House below the Old Castle accompanied by excellent music"
+  content:
+    - "Special reciters and their authentic renditions of world and Slovak poetry and prose, this time enriched with jazz-cabaret songs by the Czech-Slovak band Edel & Počúvadlo. We will wander through the peaceful, fragrant and panoramic surroundings of the garden above the Scout House Hostel. A carefully cultivated selection of powerful statements about (un)freedom will be presented in an effort to bring people closer to nature. An attempt to rediscover the roots of our openness, tolerance, and humanity. This will also be the theme of a different and specially designed program of quality literature each year, which will once again dispel your preconceptions about conventional recitation. Don't hesitate, this program will never be repeated!"
+    - "<i>You can look forward to captivating works by contemporary authors such as Dominika Moravčíková, Peter Pečonka, Daniel Pastirčák, Brane Mozetič, as well as classics by Wisława Szymborska and Ľudmila Podjavorinská. Reciters: Tereza Falátová, Mariana Ondrejová, Andrej Rácz, Jakub Szöke, and Marek Sivák. Music and vocals: Tomáš Edelsberger & band.</i>"
+  pictures:
+    - "NO_FREEDOM_NO_FUN_Jakub Szöke.webp"
+    - "NO_FREEDOM_NO_FUN_Marek Sivák.webp"
+    - "NO_FREEDOM_NO_FUN_Mariana Ondrejová.webp"
+    - "NO_FREEDOM_NO_FUN_Mariana Ondrejová_2.webp"
+    - "NO_FREEDOM_NO_FUN_Tereza Falátová.webp"
+
+  foto: "archive of recitators"
+  # TODO: replace images 5 foto recitatorov
+  link: "https://amplion.eu/archiv/"
+
+mario-separovic-vojta-snuparek-pocuvadle:
+  performer: 'Mario Šeparović & Vojta Šňupárek (CZ)'
+  title: "CONCERT"
+  general: "AMPLIFIER CARAVAN"
+  price: 0
+  occurences:
+    -
+      time: "Saturday 14:00"
+      location: "Teracce at Blaškov, Počúvadlianske lake"
+  perex: "Blues, soul, and funk from the guitar duo from Ostrava, aka Eric Clapton, at Počúvadlo!"
+  content:
+    - "Singer and guitarist Mario Šeparović, who is of Serbo-Croatian descent, plays energetic music that blends blues, soul, and funk, accompanied by Ostrava guitarist Vojta Šňupárek. Mario Šeparović is a great singer, multi-instrumentalist, and above all a guitarist, who is also known as the \"Eric Clapton of Ostrava.\" Not only because his music is based on blues, but also because of his cross-genre approach and playing skills. Together with Šňupárek, they play well-known big names, but also original songs from the album Crosswalk, whose song September was nominated for the Jantár Award for Song of the Year 2020 in the Czech Republic."
+  pictures:
+    - "Snuparek a Separovic.webp"
+  foto: "band archive"
+  link: "bez"
+
+art-putika-ii-skutocne-zeny-kultury:
+  performer: 'Jana Močková (SK) AA'
+  title: "ART PUTIKA II. – REAL WOMEN OF CULTURE + movie GOOD BOY from Slovakia"
+  argentum: true
+  general: "Program for youth and adults"
+  price: "7 €"
+  occurences:
+    -
+      time: "Saturday 15:00"
+      location: "Art Cafe, povala"
+  perex: "Discussion with strong female personalities of Slovak culture + uncensored film about painter Andrej Dúbravský. Guests: Veronika Blažeková Němcová (OK) and Veronika Gabčíková (ASND). Moderator: editor Jana Močková. A light debate about difficult times!"
+  content:
+    - "Slovak culture, the AMPLIFIER Festival, and Slovakia itself are going through tough times. Pseudo-experts have taken over cultural institutions, they are ruining transparent selection processes, canceling grants awarded by experts, and supporting \"our people.\" What percentage of Slovaks are even interested in what is happening in contemporary culture? What is actually going on and how will it affect ordinary citizens? We will seek answers during a discussion with two indomitable women whose stories of fighting for free Slovak culture are powerful and inspiring for all of us. We will introduce you to <b>Veronika Blažeková Němcová</b>, former director of the SNG Schaubmarov mlyn in Pezinok, today an active member of the civic initiative Open Culture, and <b>Veronika Gabčíková</b>, member of the Association of Slovak Independent Theatres, leader of the New Theatre in Nitra, and artistic director of the Žilina Puppet Theatre. As a bonus, there will be a screening of a film about the Slovak painter Andrej Dúbravský, who is renowned both at home and abroad, but has been ostracized by the current Minister of Culture. The event will be hosted by presenter and culture editor Jana Močková."
+    - "<i><b>Jana Močková</b> studied journalism at Comenius University in Bratislava. She started at Radio Devín, and from 2010 to 2014 she was an editor at the daily newspaper SME, in the culture department. She has been with Daily N since its inception. She focuses mainly on topics related to art, architecture, and cultural policy. In 2018, she received two nominations for the Journalism Award in the categories of interview and reporting.</i>"
+  pictures:
+    - "ART PUTIKA II_Jana Mockova_Dennik N.webp"
+    - "Veronika Gabcikova_1_foto_Lubo Luzina.webp"
+    - "Veronika Nemcova_1_foto_Tomas Hrivnak.webp"
+  foto: "Diary N and the hostess archive"
+  link: "https://dennikn.sk/autor/jana-nemeth/"
+
+
+gilora-koncert-busking:
+  performer: 'GIĽORA (CZ)'
+  title: "CONCERT"
+  general: "Busking"
+  price: 0
+  occurences:
+    -
+      time: "Saturday 16:00"
+      location: "Trotuár Cafe"
+  perex: "Unrestrained jazz traditions and Roma songs by a fantastic Czech band with a special guest"
+  content:
+    - "A wonderful experience! This is Giľora, a free-spirited three-piece band consisting of violin, guitar, and trumpet, which moves between jazz traditions and Roma songs. Music is a joy and a spontaneous part of their lives – they play on the street, on the train, on the way to the forest, and in Roma settlements. They enjoy busking, so their concerts can take place at any time and in any place where there is enthusiasm and an audience. Come and join in by playing, singing, or dancing. Ondřej Skovajsa, Martin Gális, Adam Pospíšil and, exceptionally, a special guest: the young Roma singer Natália Malíková, are looking forward to seeing you."
+  pictures:
+    - "Foto_Gilora_01.webp"
+    - "Foto_Gilora_02.webp"
+    - "Foto_Gilora_03.webp"
+  foto: "band archive"
+  link: "bez"
+
+baron-prasil:
+  performer: 'New Theatre Nitra (SK) AA'
+  title: "BARON PRÁŠIL"
+  argentum: true
+  general: "Program for youth and adults"
+  price: "Advance 8 €, at the door 10 €"
+  occurences:
+    -
+      time: "Saturday 17:00"
+      location: "Cultural Centre, Main Hall"
+  perex: "Crazy comedy about the biggest braggart and liar in the world"
+  content:
+    - "The biggest braggart and liar in the world – Baron von Münchhausen. Stories so distorted that today they may seem real. The production tells the story of the relentless and ridiculous battle of five Baron Münchhausens for the favor of the public. From the mouth of the \"real\" Baron Munchausen, you will learn how his horse ended up on a church tower, how he was attacked by a wolf, how he flew on the wings of ducks, how he created a deer with a cherry between its antlers, how he defeated a bear, and how he ended up on the moon. But above all, you will find out who the \"real\" Baron Munchausen is and what happens when we believe Baron Munchausen. For all optimists aged 10 and up. Crazy direction: Šimon Spišák."
+    - "<i>The New Theatre in Nitra was founded in May 2016 by prominent artists from the Old Theatre of Karol Spišák in Nitra. In the nine years of its existence, it has staged more than 850 performances for over 85,000 spectators. The New Theatre's productions have been presented at many important international and domestic festivals. The theatre has been recognized with four nominations for the Dosky Awards, and in the end, Lucia Korená won the 2017 Dosky Award for Best Female Performance in the play Anna Franková.</i>"
+  pictures:
+    - "ND_Baron Prasil_Henrich_Misovic--51.webp"
+    - "ND_Baron Prasil_Henrich_Misovic--57.webp"
+    - "ND_Baron Prasil_Henrich_Misovic--60.webp"
+    - "ND_Baron Prasil_Henrich_Misovic--90.webp"
+    - "ND_Baron Prasil_Henrich_Misovic--93.webp"
+    - "ND_Baron Prasil_Henrich_Misovic--95.webp"
+  foto: "Collavino"
+  link: "https://novedivadlo.sk/"
+
+ako-zachranit-demokraciu:
+  performer: 'Monika Tódová & Daily N (SK) AA'
+  title: "HOW TO SAVE DEMOCRACY"
+  argentum: true
+  headliner: true
+  general: "TOP programme for young people and adults"
+  price: "Advance 10 €, at the door 12 €"
+  occurences:
+    -
+      time: "Saturday 19:30"
+      location: "Cultural Centre, Main Hall"
+  perex: "Cabaret discussion about current developments in our country, with and without humor, featuring Marián Leško, Martin M. Šimečka, and Matúš Kostolný"
+  content:
+    - "This is not just an ordinary discussion. This is a format that will make you laugh and entertain you despite the turbulent current social events. Treat yourself to brisk humor, artistry, and unique insights from a cabaret debate. It will be hosted by political analyst and commentator Marián Leško, writer and journalist Martin M. Šimečka, and editor-in-chief of Daily N Matúš Kostolný. Moderated by Monika Tódová."
+    - "<i>Daily N (ir)regularly organizes a series of discussions on How to Save Democracy throughout Slovakia, not only in Bratislava. \"Debate is one of the privileges of democracy, and I believe that people do not want to lose it,\" says Matúš Kostolný, editor-in-chief of Daily N. The creators of AMPLIFIER Festival also care about the democratic development of our country, so everyone is welcome to join the discussion.</i>"
+  pictures:
+    - "Dennik_N_diskusia_Ako_zachranit_demokraciu_MS_016.webp"
+    - "Dennik_N_diskusia_Ako_zachranit_demokraciu_MS_017.webp"
+    - "Dennik_N_diskusia_Ako_zachranit_demokraciu_MS_023.webp"
+    - "Dennik_N_diskusia_Ako_zachranit_demokraciu_MS_033.webp"
+    - "Dennik_N_diskusia_Ako_zachranit_demokraciu_MS_034.webp"
+    - "Dennik_N_diskusia_Ako_zachranit_demokraciu_MS_045.webp"
+  foto: "Michal Svítok"
+  link: "www.dennikn.sk"
+
+10-narodeniny-amplionu:
+  performer: 'The Ensemble of Irregular Theatre (SK)'
+  title: "10TH ANNIVERSARY OF AMPLIFIER FESTIVAL"
+  general: "Program for all"
+  price: 0
+  occurences:
+    -
+      time: "Saturday 21:00"
+      location: "Art Cafe, terrace"
+  perex: "Awarding Amplion Argentum, projection of aftermovies 9 years festival + surprise"
+  content:
+    - "Come and celebrate 10 years of Festival AMPLIÓN! We will remind ourselves of the strongest moments from the last 9 years thanks to short aftermovies and award the festival Amplion Argentum. There will be no shortage of surprises. We look forward to your congratulations and good mood!"
+  pictures:
+    - "AMPLION 25_10_narodeniny.webp"
+  foto: "(graphics) Andrej Brummer"
+  link: "www.amplion.eu"
+
+edel-pocuvadlo-pocta-filipovi-lasicovi:
+  performer: 'Edel & Počúvadlo band (SK+CZ) Slovak premiere!'
+  title: "TRIBUTE TO FILIP & LASICA"
+  general: "Program for youth and adults"
+  price: "Advance 10 €, at the door 12 €"
+  occurences:
+    -
+      time: "Saturday 18:30"
+      location: "Art Cafe, terrace"
+  perex: "Original songs by Tomáš Edelsberger dedicated to Slovak greats"
+  content:
+    - "Experience a concert by a Czech-Slovak ensemble of musicians and singers led by author and composer Tomáš Edelsberger from Krnov (originally from Kremnica), who also transcribes the compositions of Czech-Slovak cabaret greats such as Jiří Šlitr and Jiří Suchý, Jaro Filip and Milan Lasica. In the Slovak premiere, they will perform original songs dedicated to two Slovak greats, as well as in memory of the 25th anniversary of the death of Jaro Filip."
+  pictures:
+    - "Edel &amp; Pocuvadlo_1.webp"
+    - "Edel &amp; Pocuvadlo_2_foto_Peter Stit.webp"
+    - "Edel &amp; Pocuvadlo_Milan Bator_foto_Kristina Svitokova.webp"
+  foto: "Peter Štít and Peter Vida"
+  link: "https://www.knihydobrovsky.cz/kniha/velky-zpevnik-semafor-1959-2019-205872250"
+  
+
+dorota-nvotova-transport-krst-ep-lazy:
+  performer: 'Dorota Nvotová & Transport (SK) AA New EP debut! Only at AMPLIFIER!'
+  title: "CONCERT & EP LAZY LAUNCH"
+  argentum: true
+  headliner: true
+  general: "TOP programme for all"
+  price: "Advance 10 €, at the door 12 €"
+  occurences:
+    -
+      time: "Saturday 22:00"
+      location: "Art Cafe, attic"
+  perex: "Exceptional concert by a great singer with the launch of a new EP"
+  content:
+    - "Dorota is an established name on the Slovak music scene. Her latest viral song, Slovenská ľudová tieseň, as well as other great songs such as Tabak, Bratislava, Havran, Kathmandu, and Viem, will blow you away. She plays captivating music on the piano with powerful lyrics that will shout right in your face. Her music is enchantingly elusive. It is retro-pop, heavy-chanson, and poetic-punk. Dorota's smoky jazz voice and compelling, urgent singing provide an exceptional experience. Enriched by the launch of a new EP called Lazy, especially at AMPLIFIER!"
+    - "<i>Dorota is not only a singer, she is also a songwriter, author, pianist, composer, and lyricist. She is accompanied by the excellent Marián Slávka and Filip Hittrich (both from the band Talent Transport) and, most recently, guitarist and vocalist Giorgio Turcani. Together, they form a powerful ensemble that captivates audiences in a breathtaking way. Be there!</i>"
+  pictures:
+    - "Dorota Nvotova_cb_2.webp"
+    - "Dorota Nvotova_cb_5.webp"
+    - "Dorota Nvotova_cepiec_color_foto_Marek Sulik.webp"
+    - "Dorota Nvotova+muzikanti_color.webp"
+    - "Dorota Nvotova a Lazy_2.webp"
+  foto: "Marek Šulík"
+  link: "www.dorotanvotova.com"
+

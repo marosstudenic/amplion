@@ -10,14 +10,18 @@ otvorenie-festivalu:
     -
       time: "piatok 16:00"
       location: "Námestie sv. Trojice"
-  perex: "Príďte otvoriť 10. ročník Festivalu AMPLIÓN heslom: Byť slobodný je umenie! Hymna + promo: Tomáš Edelsberger (SK+CZ), gipsy-jazz kapela Giľora (CZ)"
+  perex: "Príďte otvoriť 10. ročník Festivalu AMPLIÓN heslom: <i>Byť&nbsp;slobodný&nbsp;je&nbsp;umenie!</i>"
   content:
-    - "todo"
+    - "Predstavíme Vám festivalový program a pridáme aj jeho ochutnávky. Všetko vyvrcholí ďalšou originálnou verziou ampliónskej hymny, tentokrát v prevedení speváka, klaviristu a recesistu Tomáša Edelsbergera. Skvelo vás naladí aj gipsy-jazz kapela Giľora z Čiech a silný spevácky výkon podajú aj EX-TRÉMISTI. Všetci ste vítaní!"
   pictures:
     - "Amplion24_otvorenie_festivalu_Kristina Svitokova_024.webp"
     - "Amplion24_otvorenie_festivalu_Kristina Svitokova_034.webp"
     - "Amplion_24_otvorenie festivalu_Peter Stit_3015.webp"
     - "Amplion_24_otvorenie festivalu_Peter Stit_3018.webp"
+  foto: "Kristína Svítoková, Peter Štít"
+  link: "https://www.amplion.eu"
+
+  
 
 ex-tremisti:
   performer: 'Ansámbel nepravidelného divadla n.o. (SK)'
@@ -28,15 +32,19 @@ ex-tremisti:
     -
       time: "piatok 17:00"
       location: "Rubigall, Nám. Sv. Trojice"
-  perex: "Jedinečná forma divadla a silné príbehy dvojakých hrdinov hrané aj divákmi"
+  perex: "Vyskúšajte jedinečnú formu divadla, akú ste ešte nezažili!"
   content:
-    - "todo"
+    - "Doku-divadlo na motívy skutočných udalostí, v ktorom sa diváci stávajú hercami. Autorská inscenácia nielen pre tínedžerov o silných príbehoch dvojakých hrdinov. O tých, ktorí stratili trému = strach a konajú bez zábran a o tých, ktorí stratili trému = strach a konajú odvážne a čestne. Príbehy mladých výnimočných i rozporuplných osobností zo súčasného života o osobnej odvahe, eko-aktivizme vs. eko-extrémizme, nacionalizme, neofašizme či digitálnom extrémizme podané akčne, pútavo aj s humorom. Atmosféru hry umocňuje živá hudba a piesne."
+    - "Hra je novým pokračovaním úspešného projektu, ktorý vznikol počas Mesta kultúry 2019 Banská Štiavnica a svojou zmysluplnosťou úspešne zarezonoval na mnohých školách Slovenska. Vzhľadom na jedinečnú formu inscenácie je kapacita hľadiska obmedzená na max. 40 osôb."
+    - "<i><b>Ansámbel nepravidelného divadla</b> (AND) je nezávislá skupina divadelníkov a priateľov súčasného umenia podobného humanistického zmýšľania a svetonázoru so sídlom v Banskej Štiavnici. Vznikla generačnou a programovou transformáciou Kremnického divadla v podzemí (2012 – 2017), ktoré v roku 1981 založilo a 25 rokov organizovalo Festival humoru a satiry Kremnické gagy. AND sa venuje hľadaniu nových foriem moderného kabaretu, pouličným a angažovaným produkciám. V roku 2016 založil v Banskej Štiavnici medzinárodný Festival AMPLIÓN – Nový kabaret & pouličné umenie. Jeho členovia boli spolutvorcami projektov Mesto kultúry Banská Štiavnica 2019 a Mesto kultúry Humenné 2024.</i>"
   pictures:
     - "EX-TREMISTI II_MK HE_2025_AG_016.webp"
     - "EX-TREMISTI II_MK HE_2025_AG_023.webp"
     - "EX-TREMISTI II_MK HE_2025_AG_037.webp"
     - "EX-TREMISTI II_MK HE_2025_AG_063.webp"
     - "EX-TREMISTI II_MK HE_2025_AG_075.webp"
+  foto: "Anna Gondová"
+  link: "https://www.and-theatre.art"
 
 mario-separovic-vojta-snuparek:
   performer: 'Mario Šeparovič & Vojta Šňupárek (CZ)'
@@ -47,13 +55,14 @@ mario-separovic-vojta-snuparek:
     -
       time: "piatok 17:30"
       location: "Trotuár Cafe, A. Kmeťa"
-  perex: "Blues, soul a funk gitarového dua z Ostravy alias Eric Clapton v Banskej Štiavnici"
+  perex: "Blues, soul a funk gitarového dua alias ostravský Eric Clapton v Banskej Štiavnici!"
   content:
-    - "todo"
+    - "Spevák a gitarista srbochorvátskeho pôvodu Mario Šeparović hrá muziku s energickým nábojom na pomedzí blues, soulu a funku za sprievodu ostravského gitaristu Vojty Šňupárka. Mário Šeparović je skvelý spevák, multiinštrumentalista a predovšetkým gitarista, ktorého označujú aj menom „ostravský Eric Clapton“. Nielen preto, že jeho hudba vychádza z blues, ale aj pre jeho nadžánrový prístup a hráčske umenie. Spolu so Šnupárkom hrajú známe a veľké mená, ale aj autorské piesne z platne Crosswalk, ktorej pieseň September bola v Čechách nominovaná na cenu Jantár za Pieseň roku 2020."
   pictures:
     - "Mario Separovic_cb.webp"
     - "Vojtech Snuparek_cb.webp"
     - "Snuparek a Separovic.webp"
+  foto: "Archív interpretov"
 
 art-putika-i-kamarat-veri-hoaxom:
   performer: 'Vladimír Šnídl, Denník N (SK)'
@@ -65,11 +74,14 @@ art-putika-i-kamarat-veri-hoaxom:
     -
       time: "piatok 19:00"
       location: "Art Cafe, povala"
-  perex: "Diskusia a ukážky z pripravovanej knihy o tom ako viesť dialóg s blízkymi, ktorých svet sa nám vzďaľuje. Hosť: Vladimír Šnídl − uznávaný reportér a odborník na konšpirácie a hoaxy na internete"
+  perex: "Diskusia a ukážky z pripravovanej knihy krotiteľa konšpirácií a hoaxov o tom, ako hovoriť s blízkymi, ktorých svet sa nám vzďaľuje"
   content:
-    - "todo"
+    - "Vladimír Šnídl je uznávaný reportér a krotiteľ konšpirácií a hoaxov na internete. Ako hovorí, ukazuje hlúposti, ktorým veria možno aj vaši kamaráti, ponúka tipy, čo s tým. Všetci sa potrebujeme zbližovať. Vďaka tejto diskusii získate praktické rady ako viesť dialóg s blízkymi, ktorí uverili konšpiráciám a hoaxom bez zbytočných konfliktov. Ako prví si vypočujete ukážky z novo pripravovanej knihy autora a uvidíte aj podnetné videoprojekcie. Príďte slobodne debatovať so skvelým odborníkom z praxe!"
+    - "<i>Vladimír Šnídl je reportér domáceho spravodajstva Denníka N. Jedenásť rokov žil v Prahe. Vyštudoval politológiu na Univerzite Karlovej, od roku 2007 pracoval v českých Hospodářských novinách a týždenníku Ekonom. V septembri 2014 prestúpil do denníka SME. V roku 2015 patril k zakladajúcim redaktorom Denníka N. Špecializuje sa na témy ako sú vojenské nákupy, doprava a šírenie dezinformácií. V roku 2017 napísal knihu Pravda a lož na Facebooku, ktorá rozoberá fenomén hoaxov a konšpiračných teórii na slovenskom a českom internete. O tejto téme chodí aj pravidelne prednášať do slovenských škôl.</i>"
   pictures:
     - "ART PUTIKA I_Vladimir Snidl_Dennik N.webp"
+  foto: "Tomáš Benedikovič"
+  link: "https://dennikn.sk/autor/vlado-snidl/"
 
 gilora-koncert:
   performer: 'GIĽORA (SK+CZ)'
@@ -79,15 +91,16 @@ gilora-koncert:
   occurences:
     -
       time: "piatok 19:30"
-      location: "Archanjel bar, Radničné námestie"
-  perex: "Spontánne a interaktívne jazzové tradicionály i rómske piesne parádnej českej kapely"
+      location: "Archanjel bar"
+  perex: "Nespútané jazzové tradicionály i rómske piesne parádnej českej kapely so špeciálnou hostkou"
   content:
-    - "todo"
+    - "Nádherný zážitok! To je Giľora, slobodná trojčlenná kapela v zložení husle, gitara a trúbka, ktorá sa pohybuje na pomedzí jazzových tradicionálov a rómskych piesní. Hudba je pre nich radosťou a spontánnou súčasťou života – hrajú na ulici, vo vlaku, cestou do lesa aj v rómskych osadách. S obľubou sa venujú buskingu, takže ich koncertom sa môže stať akýkoľvek okamih a akékoľvek miesto, kde je chuť a publikum. Buďte pri tom a pokojne sa zapojte hrou, spevom či tancom. Tešia sa na vás Ondřej Skovajsa, Martin Gális, Adam Pospíšil a výnimočne aj špeciálna hostka: mladá rómska speváčka Natália Malíková."
   pictures:
     - "Foto_Gilora_01.webp"
     - "Foto_Gilora_02.webp"
     - "Foto_Gilora_03.webp"
     - "Happening_Gilora_01.webp"
+  foto: "archív kapely"
 
 dennik-sme-piatocek:
   performer: 'Denník SME (SK)'
@@ -99,14 +112,17 @@ dennik-sme-piatocek:
     -
       time: "piatok 20:30"
       location: "Pražovňa, Industry pub"
-  perex: "Tvorcovia satirického podcastu otestujú vaše vedomosti zo zákutí slovenskej politiky s poriadnou dávkou recesie a nadhľadu"
+  perex: "Tvorcovia známeho a úspešného satirického podcastu SME: Piatoček prinášajú ďalší kvízový hurikán s poriadnou dávkou recesie a nadhľadu. Zaručená zábava!"
   content:
-    - "todo"
+    - "Vyznáte sa v tých najbizarnejších zákutiach slovenskej politiky, aj keď nie ste historik? Príďte si overiť svoje vedomosti na tento jedinečný kvíz. Vyskúšate si váš prehľad o postavách našej politiky aj o dôležitých či úplne bezvýznamných udalostiach, ktoré prispievajú k momentálnej atmosfére v spoločnosti. Zostavte tím 5 ľudí a ukážte ostatným, že ste fakt akože špica. Ak tím nemáte, nebojte sa, nájdeme vám kamošov a vytvoríme vám ho. Smelo príďte! Teší sa na vás Adam Blaško, Kristína Gyuriková, Kristina Janščová a Viktor Hlavatovič."
   pictures:
     - "SME_Piatocek_team_1.webp"
     - "SME_Piatocek v BS_autor foto_Peter Stit_1.webp"
     - "SME_Piatocek v BS_autor foto_Peter Stit_2.webp"
     - "SME_Piatocek v BS_autor foto_Peter Stit_3.webp"
+
+  foto: "archív SME/Piatoček"
+  link: "https://podcasty.sme.sk/t/8343/podcast-piatocek"
 
 krater-kartel-koncert:
   performer: 'Kráter Kartel'
@@ -117,14 +133,16 @@ krater-kartel-koncert:
     -
       time: "piatok 22:30"
       location: "Art Cafe, povala"
-  perex: "Worldmusic, latino, gypsy, swing, balkán aj ľudovka do tanca"
+  perex: "Worldmusic, latino, gypsy, swing, balkán aj ľudovka do tanca, výborná voľba na piatkový večer!"
   content:
-    - "todo"
+    - "Hudba krajín sveta v podaní kapely zo štiavnického krátera. Skvelý mix žánrov, ktorý vás rozveselí aj roztancuje. Kráter Kartel je skupina priateľov, ktorí sa s vami podelia o piesne zozbierané z ich ciest okolo sveta a ešte omnoho viac. Vyčarujú pre vás jedinečný zážitok piatkového večera, na ktorý budete ešte dlho spomínať. Doprajte si ho!"
   pictures:
     - "Krater Kartel_1.webp"
     - "Krater Kartel_2.webp"
     - "Krater Kartel_3.webp"
     - "Krater Kartel_4.webp"
+  foto: "archív kapely"
+  link: "https://www.facebook.com/KraterKartel/"
 
 kocur-v-cizmach:
   performer: 'Nové divadlo Nitra (SK+CZ)'
@@ -133,17 +151,21 @@ kocur-v-cizmach:
   price: "3 / 6 €"
   occurences:
     -
-      time: "sobota 10:00 – 11:00"
-      location: "Záhrada Skautského domu, ul. A. Pécha (Rubigall, Nám. Sv. Trojice)"
-  perex: "Punkovo-animálno-maňuškovo-komediálny thriller pre deti i rodičov"
+      time: "sobota 10:00"
+      location: "Záhrada Skautského domu, ul. A. Pécha (mokrý variant: Rubigall, Nám. Sv. Trojice)"
+  perex: "Punkovo-animálno-maňuškovo-komediálny thriller pre deti aj rodičov"
   content:
-    - "todo"
+    - "Priatelia, nie je kocúr ako kocúr! Čaká vás sviežie a vtipné divadlo o tom, že pravda, láska a česť vždy zvíťazia nad prospechárstvom a nemorálnosťou. Hravá energická inscenácia so živou hudbou, pohybom, výtvarnými objektami, bábkami a skvelými hereckými výkonmi poteší všetky generácie. Príďte pookriať na kvalitné divadlo nielen pre deti! Réžia: Šimon Spišák."
+    - "<i>Nové divadlo v Nitre vzniklo v máji 2016 z výrazných umeleckých osobností Starého divadla Karola Spišáka v Nitre. Za 9 rokov svojej existencie odohralo viac ako 850 predstavení pre vyše 85 000 divákov. Produkcie Nového divadla sa predstavili na mnohých významných medzinárodných i domácich festivaloch. Za svoju činnosť bolo divadlo ohodnotené štyrmi nomináciami na ceny Dosky a vo finále získala cenu Dosky za rok 2017 Lucia Korená za najlepší ženský herecký výkon v hre Anna Franková.</i>"
   pictures:
     - "ND_Kocur v cizmach_Collavino-3485.webp"
     - "ND_Kocur v cizmach_Collavino-3500.webp"
     - "ND_Kocur v cizmach_Collavino-3552.webp"
     - "ND_Kocur v cizmach_Collavino-3807.webp"
     - "ND_Kocur v cizmach_Collavino-3988.webp"
+  foto: "Collavino"
+  link: "https://novedivadlo.sk/"
+
 
 happening-slobodnej-slovenskej-kultury:
   performer: 'Ansámbel nepravidelného divadla n.o. & hostia (SK+CZ)'
@@ -152,16 +174,20 @@ happening-slobodnej-slovenskej-kultury:
   price: 0
   occurences:
     -
-      time: "sobota 11:30 – 12:15"
+      time: "sobota 11:30"
       location: "Námestie sv. Trojice → Art Cafe, terasa"
-  perex: "Umelecká reakcia na dianie v kultúre s Dorotou Nvotovou, Malým Cynikom, kapelou Giľora a osobnosťami SK kultúry"
+  perex: "Umelecká reakcia na dianie v kultúre s Dorotou Nvotovou, Malým Cynikom, kapelou Giľora a skutočnými osobnosťami SK kultúry"
   content:
-    - "todo"
+    - "Staňte sa súčasťou umelecko-protestného happeningu na podporu slobodnej slovenskej kultúry! Vystúpia zástupkyne a zástupcovia kultúrnych iniciatív a inštitúcií, ktorým bola novou Radou FPU pod taktovkou Šimkovičovej a Machalu zamietnutá podpora, alebo prišli o prácu, či naďalej statočne bojujú za slobodnú domácu kultúrnu scénu pre nás všetkých. Nebudú chýbať ani hudobné vystúpenia slobodných umelkýň a umelcov a napokon umelecký sprievod mestom obohatený výtvarnými dielami aj pochodujúcou kapelou. Držme spoločne a nazvučme jasný postoj, že my, slobodní tvorcovia slovenskej kultúry a vy, naši slobodní prajní diváci, nikam neodchádzame!"
   pictures:
     - "Happening_Maly Cynik_01_foto_Jan Fakla.webp"
     - "Happening_Gilora_01.webp"
     - "Happening_Dorota Nvotova_cepiec_color_foto_Marek Sulik.webp"
     - "Happening_Dorota Nvotova a Lazy_2.webp"
+
+  foto: "inštalácia SOS kultúra"
+  link: "https://amplion.eu/"
+
 
 maly-cynik-koncert:
   performer: 'Malý Cynik (SK)'
@@ -170,15 +196,19 @@ maly-cynik-koncert:
   price: 0
   occurences:
     -
-      time: "sobota 12:15 – 13:00"
+      time: "sobota 12:15"
       location: "Art Cafe, terasa"
-  perex: "Necenzurované protest songy za Slovensko"
+  perex: "Koncert stratenej generácie, ktorý nebude stratený alebo protest-songy za Slovensko"
   content:
-    - "todo"
+    - "Protest songy Malého Cynika (Jakub Pohle) tvoria jeho autorské piesne, ale aj skladby žijúcich i dávnych pesničkárov ako Dušan Vlk, Fvck_Kvlt, či Kryl, Lasica a Slobodná Európa. Ožije mix angažovaných skladieb posledných päťdesiatich rokov a jedna veľká spoločná túžba. Očividne tu päťdesiat rokov všetci túžime po tej istej slobode, láske a tolerancii. Spieval Karel Kryl či Jaro Filip o tom istom? Reflektuje ich dielo aj dnešný svet? Príďte sa o tom presvedčiť osobne na intímny koncert so živelnou energiou!"
+    - "<i>Jakub Pohle je aktivista, investigatívny novinár, vojnový reportér a satirik známy pod pseudonymom Malý Cynik. Výborne spieva a, dokonca, hrá nielen na gitare, ale aj v divadle.</i>"
   pictures:
     - "Happening_Maly Cynik_01_foto_Jan Fakla.webp"
     - "Maly Cynik_02_ foto_Jan Fakla.webp"
     - "Maly Cynik_foto_Anna Gondova.webp"
+  foto: Anna Gondová
+  link: https://www.instagram.com/malycynik/ 
+
 
 dprotest-dzenerejsn-edel-pocuvadlo:
   performer: 'D´protest dženerejšn + Edel & Počúvadlo band (SK+CZ)'
@@ -187,15 +217,21 @@ dprotest-dzenerejsn-edel-pocuvadlo:
   price: "7 €"
   occurences:
     -
-      time: "sobota 13:30 – 14:30"
-      location: "Záhrada Skautského domu, ul. A. Pécha (Rubigall, Nám. Sv. Trojice)"
-  perex: "Moderné umelecké prednesy a autorské piesne na tému slobody"
+      time: "sobota 13:30"
+      location: "Záhrada Skautského domu, ul. A. Pécha (mokrý variant: Rubigall, Nám. Sv. Trojice)"
+  perex: "Moderné umelecké prednesy a autorské piesne na tému (ne)slobody v krásnom prostredí záhradných terás Skautského domu pod Starým zámkom v sprievode výbornej hudb"
   content:
-    - "todo"
+    - "Osobití interpreti a ich autentické výpovede textov svetovej i slovenskej poézie a prózy, tentokrát obohatené o jazzovo-kabaretné autorské piesne česko-slovenskej kapely Edel & Počúvadlo. Budeme putovať pokojným, voňavým a na výhľady bohatým prostredím záhrady nad Hostelom Skautským dom. Zaznie starostlivo vypestovaný výber silných výpovedí o (ne)slobode v snahe priblížiť sa bližšie k ľuďom i k prírode. Pokus znovu nájsť korene našej otvorenosti, tolerancie a ľudskosti. Aj o tom bude každoročne iný a špeciálne vymyslený program kvalitnej literatúry, ktorý vás opäť vyvedie z predsudkov o konvenčnom recitovaní. Neváhajte, tento program sa už nikdy opakovať nebude!"
+    - "<i>Čakajú vás pútavé predlohy súčasných autorov ako Dominika Moravčíková, Peter Pečonka, Daniel Pastirčák, Brane Mozetič aj klasiky od Wiszlawy Szymborskej či Ľudmily Podjavorinskej. Účinkujú: Tereza Falátová, Mariana Ondrejová, Andrej Rácz, Jakub Szöke a Marek Sivák. Hrá a spieva: Tomáš Edelsberger & band.</i>"
   pictures:
-    - "Edel &amp; Pocuvadlo_1.webp"
-    - "Edel &amp; Pocuvadlo_2_foto_Peter Stit.webp"
-    - "Edel &amp; Pocuvadlo_Milan Bator_foto_Kristina Svitokova.webp"
+    - "NO_FREEDOM_NO_FUN_Jakub Szöke.webp"
+    - "NO_FREEDOM_NO_FUN_Marek Sivák.webp"
+    - "NO_FREEDOM_NO_FUN_Mariana Ondrejová.webp"
+    - "NO_FREEDOM_NO_FUN_Mariana Ondrejová_2.webp"
+    - "NO_FREEDOM_NO_FUN_Tereza Falátová.webp"
+  foto: "archív recitátorov"
+  # TODO: replace images 5 foto recitatorov
+  link: "https://amplion.eu/archiv/"
 
 mario-separovic-vojta-snuparek-pocuvadle:
   performer: 'Mario Šeparovič & Vojta Šňupárek (CZ)'
@@ -204,13 +240,14 @@ mario-separovic-vojta-snuparek-pocuvadle:
   price: 0
   occurences:
     -
-      time: "sobota 14:00 – 15:00"
+      time: "sobota 14:00"
       location: "Terasa u Blaškov, Počúvadlianske jazero"
-  perex: "Blues, soul a funk gitarového dua z Ostravy alias Eric Clapton na Počúvadle"
+  perex: "Blues, soul a funk gitarového dua alias ostravský Eric Clapton na Počúvadle!"
   content:
-    - "todo"
+    - "Spevák a gitarista srbochorvátskeho pôvodu Mario Šeparović hrá muziku s energickým nábojom na pomedzí blues, soulu a funku za sprievodu ostravského gitaristu Vojty Šňupárka. Mário Šeparović je skvelý spevák, multiinštrumentalista a predovšetkým gitarista, ktorého označujú aj menom „ostravský Eric Clapton“. Nielen preto, že jeho hudba vychádza z blues, ale aj pre jeho nadžánrový prístup a hráčske umenie. Spolu so Šnupárkom hrajú známe veľké mená, ale aj autorské piesne z platne Crosswalk, ktorej pieseň September bola v Čechách nominovaná na cenu Jantár za Pieseň roku 2020."
   pictures:
     - "Snuparek a Separovic.webp"
+  foto: "archív kapely"
 
 art-putika-ii-skutocne-zeny-kultury:
   performer: 'Jana Močková (SK)'
@@ -220,13 +257,20 @@ art-putika-ii-skutocne-zeny-kultury:
   price: "7 €"
   occurences:
     -
-      time: "sobota 15:00 – 16:45"
+      time: "sobota 15:00"
       location: "Art Cafe, povala"
-  perex: "Diskusia so silnými osobnosťami slobodnej slovenskej kultúry: Veronika Blažeková Nemcová (OK) a Veronika Gabčíková (ASND) + projekcia filmu o Andrejovi Dúbravskom"
+  perex: "Diskusia so silnými ženskými osobnosťami slobodnej slovenskej kultúry + necenzurovaný film o maliarovi Andrejovi Dúbravskom. Hostky: Veronika Blažeková Němcová (OK) a Veronika Gabčíková (ASND). Moderuje: redaktorka Jana Močková. Ľahká debata o neľahkých časoch!"
   content:
-    - "todo"
+    - "Slovenská kultúra, Festival AMPLIÓN i samotné Slovensko zažíva krušné časy. Pseudo-odborníci ovládli kultúrne inštitúcie, maria transparentné výberové konania, rušia odborníkmi pridelené dotácie a podporujú „našich ľudí“. Koľko percent Slovákov vôbec zaujíma dianie v súčasnej kultúre? Čo sa vlastne deje a aké to prinesie dopady na bežných občanov? Odpovede budeme hľadať počas diskusie s dvomi nezlomnými ženskými osobnosťami, ktorých príbehy boja za slobodnú slovenskú kultúru sú silné a inšpiratívne pre nás všetkých. Predstavíme vám <b>Veroniku Blažekovú Němcovú</b>, bývalú riaditeľku SNG Schaubmarov mlyn v Pezinku, dnes aktívnu členku občianskej iniciatívy Otvorená kultúra aj <b>Veroniku Gabčíkovú</b>, členku Asociácie slovenských nezávislých divadiel, líderku Nového divadla v Nitre aj umeleckú vedúcu Bábkového divadla Žilina. Bonusom bude projekcia filmu o slovenskom maliarovi Andrejovi Dúbravskom, uznávanom doma aj v zahraničí, no ostrakizovanom súčasnou ministerkou kultúry. Všetkým vás prevedie moderátorka a redaktorka kultúry Jana Močková."
+    - "<i><b>Jana Močková</b> vyštudovala žurnalistiku v UK v Bratislave. Začínala v rádiu Devín, v rokoch 2010 až 2014 bola redaktorkou denníka SME, na oddelení kultúry. V Denníku N pôsobí od jeho vzniku. Venuje sa najmä témam z oblasti umenia, architektúry a kultúrnej politiky. V roku 2018 získala dve nominácie na Novinársku cenu v kategóriách rozhovor a reportáž.</i>"
   pictures:
     - "ART PUTIKA II_Jana Mockova_Dennik N.webp"
+    - "Veronika Gabcikova_1_foto_Lubo Luzina.webp"
+    - "Veronika Nemcova_1_foto_Tomas Hrivnak.webp"
+
+  foto: "Denník N a archív hostiek"
+  link: "https://dennikn.sk/autor/jana-nemeth/"
+
 
 gilora-koncert-busking:
   performer: 'GIĽORA (SK+CZ)'
@@ -235,15 +279,20 @@ gilora-koncert-busking:
   price: 0
   occurences:
     -
-      time: "sobota 16:00 – 16:45"
+      time: "sobota 16:00"
       location: "Trotuár Cafe, A. Kmeťa"
-  perex: "Spontánne a interaktívne jazzové tradicionály i rómske piesne parádnej českej kapely"
+  perex: "Nespútané jazzové tradicionály i rómske piesne parádnej českej kapely so špeciálnou hostkou"
   content:
-    - "todo"
+    - "Nádherný zážitok! To je Giľora, slobodná trojčlenná kapela v zložení husle, gitara a trúbka, ktorá sa pohybuje na pomedzí jazzových tradicionálov a rómskych piesní. Hudba je pre nich radosťou a spontánnou súčasťou života – hrajú na ulici, vo vlaku, cestou do lesa aj v rómskych osadách. S obľubou sa venujú buskingu, takže ich koncertom sa môže stať akýkoľvek okamih a akékoľvek miesto, kde je chuť a publikum. Buďte pri tom a pokojne sa zapojte hrou, spevom či tancom. Tešia sa na vás Ondřej Skovajsa, Martin Gális, Adam Pospíšil a výnimočne aj špeciálna hostka: mladá rómska speváčka Natália Malíková."
   pictures:
     - "Foto_Gilora_01.webp"
     - "Foto_Gilora_02.webp"
     - "Foto_Gilora_03.webp"
+    - "Foto_Gilora_05.webp"
+    - "Foto_Gilora_06.webp"
+    - "Foto_Gilora_07.webp"
+
+  foto: "archív kapely"
 
 baron-prasil:
   performer: 'Nové divadlo Nitra (SK+CZ)'
@@ -253,11 +302,12 @@ baron-prasil:
   price: "V predpredaji 8 €, na mieste 10 €"
   occurences:
     -
-      time: "sobota 17:00 – 18:00"
+      time: "sobota 17:00"
       location: "Kultúrne centrum, hlavná sála"
-  perex: "Bláznivá komédia o najväčšom chvastúňovi a klamárovi na svete"
+  perex: "Bláznivá komédia o najväčšom chvastúňovi a klamárovi na svete"
   content:
-    - "todo"
+    - "Najväčší chvastúň a klamár na svete – barón von Münchhausen. Príbehy tak pokrivené, až sa dnes môžu zdať skutočné. Inscenácia rozpráva o neľútostnom a smiešnom boji piatich barónov Prášilov o priazeň verejnosti. Z úst toho „skutočného“ baróna Prášila sa dozviete, ako sa jeho kôň ocitol na kostolnej veži, ako ho prepadol vlk, ako letel na krídlach kačiek, ako stvoril jeleňa s čerešňou medzi parohami, ako porazil medveďa, či ako sa ocitol na Mesiaci. Ale predovšetkým zistíte, kto je „skutočný“ barón Prášil, a ako to dopadne, keď barónovi Prášilovi uveríme. Pre všetkých optimistov od 10 rokov. Bláznivá réžia: Šimon Spišák."
+    - "<i>Nové divadlo v Nitre vzniklo v máji 2016 z výrazných umeleckých osobností Starého divadla Karola Spišáka v Nitre. Za 9 rokov svojej existencie odohralo viac ako 850 predstavení pre vyše 85 000 divákov. Produkcie Nového divadla sa predstavili na mnohých významných medzinárodných i domácich festivaloch. Za svoju činnosť bolo divadlo ohodnotené štyrmi nomináciami na ceny Dosky a vo finále získala cenu Dosky za rok 2017 Lucia Korená za najlepší ženský herecký výkon v hre Anna Franková.</i>"
   pictures:
     - "ND_Baron Prasil_Henrich_Misovic--51.webp"
     - "ND_Baron Prasil_Henrich_Misovic--57.webp"
@@ -265,6 +315,8 @@ baron-prasil:
     - "ND_Baron Prasil_Henrich_Misovic--90.webp"
     - "ND_Baron Prasil_Henrich_Misovic--93.webp"
     - "ND_Baron Prasil_Henrich_Misovic--95.webp"
+  foto: "Collavino"
+  link: "https://novedivadlo.sk/"
 
 ako-zachranit-demokraciu:
   performer: 'Monika Tódová & Denník N (SK)'
@@ -275,11 +327,12 @@ ako-zachranit-demokraciu:
   price: "V predpredaji 10 €, na mieste 12 €"
   occurences:
     -
-      time: "sobota 19:30 – 21:00"
+      time: "sobota 19:30"
       location: "Kultúrne centrum, hlavná sála"
-  perex: "Kabaretná diskusia o aktuálnom vývoji našej krajiny s humorom aj bez, glosujú: Marián Leško, Martin M. Šimečka, Matúš Kostolný"
+  perex: "Kabaretná diskusia o aktuálnom vývoji našej krajiny s humorom aj bez"
   content:
-    - "todo"
+    - "Toto nie je len obyčajná diskusia. Toto je formát, na ktorom sa napriek pohnutým aktuálnym spoločenským udalostiam zasmejete a zabavíte. Doprajte si briskný humor, um a jedinečné postrehy kabaretnej debaty. Postarajú sa o ňu politický analytik a komentátor Marián Leško, spisovateľ a novinár Martin M. Šimečka a šéfredaktor Denníka N Matúš Kostolný. Moderuje Monika Tódová."
+    - "<i>Denník N (ne)pravidelne organizuje sériu diskusií Ako zachrániť demokraciu po celom Slovensku, nielen v Bratislave. “Diskutovať je jednou z výsad demokracie a verím, že o ňu ľudia nechcú prísť,“ hovorí šéfredaktor Denníka N Matúš Kostolný. Aj tvorcom AMPLIÓNU záleží na demokratickom vývoji našej krajiny, preto ste na diskusii všetci vítaní.</i>"
   pictures:
     - "Dennik_N_diskusia_Ako_zachranit_demokraciu_MS_016.webp"
     - "Dennik_N_diskusia_Ako_zachranit_demokraciu_MS_017.webp"
@@ -287,6 +340,8 @@ ako-zachranit-demokraciu:
     - "Dennik_N_diskusia_Ako_zachranit_demokraciu_MS_033.webp"
     - "Dennik_N_diskusia_Ako_zachranit_demokraciu_MS_034.webp"
     - "Dennik_N_diskusia_Ako_zachranit_demokraciu_MS_045.webp"
+  foto: "Michal Svítok"
+  link: "https://dennikn.sk"
 
 10-narodeniny-amplionu:
   performer: 'Ansámbel nepravidelného divadla n.o. (SK)'
@@ -295,13 +350,15 @@ ako-zachranit-demokraciu:
   price: 0
   occurences:
     -
-      time: "sobota 21:00 – 21:45"
+      time: "sobota 21:00"
       location: "Art Cafe, terasa"
   perex: "Udeľovanie cien Amplion Argentum, projekcia aftermovies 9 ročníkov festivalu + prekvapenie"
   content:
-    - "todo"
+    - "Príďte osláviť 10. narodeniny Festivalu AMPLIÓN! Pripomenieme si najsilnejšie momenty predošlých 9 ročníkov vďaka projekcii krátkych aftermovies a udelíme aj festivalové ceny Amplion Argentum. Nebude chýbať ani prekvapenie. Tešíme sa na vaše blahoželania a dobrú náladu!"
   pictures:
     - "AMPLION 25_10_narodeniny.webp"
+  foto: "(grafika) Andrej Brummer"
+  link: "https://amplion.eu/"
 
 edel-pocuvadlo-pocta-filipovi-lasicovi:
   performer: 'Edel & Počúvadlo band (SK+CZ)'
@@ -310,15 +367,18 @@ edel-pocuvadlo-pocta-filipovi-lasicovi:
   price: "V predpredaji 10 €, na mieste 12 €"
   occurences:
     -
-      time: "sobota 22:00 – 24:00"
+      time: "sobota 22:00"
       location: "Art Cafe, povala"
   perex: "Autorské piesne Tomáša Edelsbergera"
   content:
-    - "todo"
+    - "Zažite koncert česko-slovenskej zostavy hudobníkov a spevákov pod vedením autora i skladateľa Tomáša Edelsbergera z Krnova (pôvodom z Kremnice), ktorý sa venuje aj notovým zápisom skladieb česko-slovenských velikánov kabaretu ako boli Jiří Šlitr a Jiří Suchý, Jaro Filip a Milan Lasica. V slovenskej premiére uvedú autorské piesne venované dvom slovenským velikánom, aj k spomienke na 25. výročie smrti Jara Filipa."
   pictures:
     - "Edel &amp; Pocuvadlo_1.webp"
     - "Edel &amp; Pocuvadlo_2_foto_Peter Stit.webp"
     - "Edel &amp; Pocuvadlo_Milan Bator_foto_Kristina Svitokova.webp"
+  foto: "Peter Štít a Peter Vida"
+  link: "https://www.knihydobrovsky.cz/kniha/velky-zpevnik-semafor-1959-2019-205872250"
+  
 
 dorota-nvotova-transport-krst-ep-lazy:
   performer: 'Dorota Nvotová & Transport (SK)'
@@ -329,14 +389,18 @@ dorota-nvotova-transport-krst-ep-lazy:
   price: "V predpredaji 10 €, na mieste 12 €"
   occurences:
     -
-      time: "sobota 22:00 – 24:00"
+      time: "sobota 22:00"
       location: "Art Cafe, povala"
-  perex: "Výnimočný koncert nespútanej speváčky s krstom novej EP platne"
+  perex: "Výnimočný koncert Doroty Nvotovej & band s krstom novej platne Lazy"
   content:
-    - "todo"
+    - "Dorota je zavedená značka slovenskej hudobnej scény. Jej najnovšia virálna skladba Slovenská ľudová tieseň, ale aj ďalšie skvelé piesne ako Tabak, Bratislava, Havran, Kathmandu, či Viem, vás dostanú. Zahrá podmanivú hudbu od klavíra so silnými autorskými textami, ktoré vám vykričí priamo do ksichtu. Jej hudba je očarujúco neuchopiteľná. Je to retro-pop, heavy-šanson, aj poetic- punk. Dorotin prefajčený jazzový hlas a presvedčivý naliehavý spev prináša výnimočný zážitok. Obohatený krstom novej EP s názvom Lazy špeciálne na AMPLIÓNE!"
+    - "<i>Dorota nie je len speváčka, je aj pesničkárka, autorka, klaviristka, skladateľka, textárka. Dopĺňajú ju skvelí Marián Slávka a Filip Hittrich (obaja z kapely Talent transport) a najnovšie aj gitarista a vokalista Giorgio Turcani. Spoločne tvoria silný celok, ktorý divákom dychberúcim spôsobom odovzdáva seba. Buďte pri tom!</i>"
   pictures:
     - "Dorota Nvotova_cb_2.webp"
     - "Dorota Nvotova_cb_5.webp"
     - "Dorota Nvotova_cepiec_color_foto_Marek Sulik.webp"
     - "Dorota Nvotova+muzikanti_color.webp"
     - "Dorota Nvotova a Lazy_2.webp"
+  foto: "Marek Šulík"
+  link: "https://www.dorotanvotova.com"
+
