@@ -145,6 +145,17 @@
 						</figure>
 					</div> -->
 				</div>
+				<div class="grid-x grid-margin-x medium-up-3">
+					{{#each yt-videos}}
+					<div class="cell small-12 large-3 ">
+					  <div class="photodesc">
+					  <div class="photodesc__photowrap">
+						<iframe src="{{this}}" class="photodesc__photo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					  </div>
+					</div>
+					</div>
+					{{/each}}
+				  </div>
 			</div>
 			
 		</div>
