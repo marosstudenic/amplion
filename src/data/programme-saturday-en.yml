@@ -1,0 +1,127 @@
+- 
+  time: 10:00 – 11:00
+  performer: New Theatre Nitra (SK)
+  premiere: false
+  age: 3+
+  title: PUSS IN BOOTS
+  perex: "A punk-animal-puppet-comedy thriller for children and parents"
+  location: Scout House Garden, A. Pécha St.
+  price: 3 / 6 €
+  slug: kocur-v-cizmach
+
+- 
+  time: 11:30 – 12:15
+  performer: The Ensemble of Irregular Theatre n.o. & guests (SK+CZ)
+  premiere: false
+  age: 12+
+  title: HAPPENING OF FREE SLOVAK CULTURE
+  perex: "An artistic response to current events in culture with Dorota Nvotová, Little Cynic, the band Giľora and strong personalities from Slovak culture"
+  location: Holy Trinity Square → Art Cafe, terrace
+  price: 0
+  slug: happening-slobodnej-slovenskej-kultury
+
+- 
+  time: 12:15 – 13:00
+  performer: Little Cynic (SK)
+  premiere: false
+  age: 12+
+  title: CONCERT
+  perex: "Uncensored protest songs for Slovakia"
+  location: Art Cafe, terrace
+  price: 0
+  slug: maly-cynik-koncert
+
+- 
+  time: 13:30 – 14:30
+  performer: D´protest dženerejšn + Edel & Počúvadlo band (SK+CZ)
+  premiere: false
+  age: 12+
+  title: NO FREEDOM, NO FUN
+  perex: "Modern artistic recitals and original songs on the theme of freedom"
+  location: Scout House Garden, A. Pécha St.
+  price: 7 €
+  slug: dprotest-dzenerejsn-edel-pocuvadlo
+
+- 
+  time: 15:00 – 16:45
+  performer: Jana Močková (SK)
+  premiere: false
+  argentum: true
+  age: 12+
+  title: ART PUTIKA II. – REAL WOMEN OF CULTURE + movie GOOD BOY from Slovakia
+  perex: "Discussion with strong figures of Slovak free culture: Veronika Blažeková Němcová (OK) and Veronika Gabčíková (ASND) + screening of a movie about Slovak painter Andrej Dúbravský"
+  location: Art Cafe, attic
+  price: 7 €
+  slug: art-putika-ii-skutocne-zeny-kultury
+
+- 
+  time: 16:00 – 16:45
+  performer: GIĽORA (CZ)
+  premiere: false
+  age: 12+
+  title: CONCERT
+  perex: "Spontaneous and interactive jazz traditional songs and Roma songs by a great Czech band"
+  location: Trotuár Cafe, A. Kmeťa St.
+  general: "Busking"
+  price: 0
+  slug: gilora-koncert-busking
+
+- 
+  time: 17:00 – 18:00
+  performer: New Theatre Nitra (SK)
+  premiere: false
+  argentum: true
+  age: 10+
+  title: BARON PRÁŠIL
+  perex: "Crazy comedy about the biggest braggart and liar in the world"
+  location: Cultural Centre, Main Hall
+  price: Advance 8 €, at the door 10 €
+  slug: baron-prasil
+
+- 
+  time: 19:30 – 21:00
+  performer: Monika Tódová & Daily N (SK)
+  premiere: false
+  argentum: true
+  headliner: true
+  age: 12+
+  title: HOW TO SAVE DEMOCRACY
+  perex: "A cabaret discussion about current developments in our country, with and without humor, featuring Marián Leško, Martin M. Šimečka, and Matúš Kostolný"
+  location: Cultural Centre, Main Hall
+  price: Advance 10 €, at the door 12 €*
+  slug: ako-zachranit-demokraciu
+
+- 
+  time: 21:00 – 21:45
+  performer: The Ensemble of Irregular Theatre n.o. (SK)
+  premiere: false
+  age: 15+
+  title: 10TH ANNIVERSARY OF AMPLIFIER FESTIVAL
+  perex: "Amplion Argentum Awards, aftermovie screening of 9 years of the festival + surprise"
+  location: Art Cafe, terrace
+  price: 0
+  slug: 10-narodeniny-amplionu
+
+- 
+  time: 22:00 – 24:00
+  performer: Edel & Počúvadlo band (SK+CZ)
+  premiere: false
+  age: 15+
+  title: TRIBUTE TO FILIP & LASICA
+  perex: "Original songs by Tomáš Edelsberger dedicated to Slovak greats"
+  location: Art Cafe, attic
+  price: Advance 10 €, at the door 12 €
+  slug: edel-pocuvadlo-pocta-filipovi-lasicovi
+
+- 
+  time: 22:00 – 24:00
+  performer: Dorota Nvotová & Transport (SK)
+  premiere: false
+  argentum: true
+  headliner: true
+  age: 15+
+  title: CONCERT & EP LAZY LAUNCH
+  perex: "An exceptional concert by an unbridled singer with the launch of a new EP"
+  location: Art Cafe, attic
+  price: Advance 10 €, at the door 12 €
+  slug: dorota-nvotova-transport-krst-ep-lazy
