@@ -14,13 +14,13 @@ friday:
 saturday:
   previd: friday
   prevtext: Friday
-  nextid: sunday
-  nexttext: Sunday
-sunday:
+  <!-- nextid: sunday
+  nexttext: Sunday -->
+<!-- sunday:
   previd: saturday
   prevtext: Saturday
   nextid:
-  nexttext:
+  nexttext: -->
 ---
 
 <section class="section section--plain section--straight section--top section--notopspace">
@@ -99,7 +99,9 @@ sunday:
     <!-- <li class="tabs-title"><a href="#thursday" aria-selected="true">Thursday</a></li> -->
     <li class="tabs-title is-active"><a href="#friday" aria-selected="true">Friday</a></li>
     <li class="tabs-title"><a href="#saturday">Saturday</a></li>
+    {{#if programme-sunday-en.length}}
     <li class="tabs-title"><a href="#sunday">Sunday</a></li>
+    {{/if}}
   </ul>
 
   <div class="tabs-content" data-tabs-content="deeplinked-tabs">
