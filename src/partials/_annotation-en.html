@@ -40,6 +40,10 @@
 					<span class="event-top">{{{this.top-general}}}</span>
 					<br>
 				{{/if}}
+				{{#if this.headliner}}
+					<span class="event-headliner" style="color: #362982; font-weight: bold;">Festival Headliner</span>
+					<br>
+				{{/if}}
 				{{#if this.karavana}}
 					{{#each occurences}}
 						{{>_progitem-in-annotation-en}}

@@ -11,12 +11,12 @@
 
 - 
   time: 11:30 – 12:15
-  performer: The Ensemble of Irregular Theatre n.o. & guests (SK+CZ)
+  performer: The Ensemble of Irregular Theatre &&nbsp;guests (SK+CZ)
   premiere: false
   age: 12+
   title: HAPPENING OF FREE SLOVAK CULTURE
-  perex: "An artistic response to current events in culture with Dorota Nvotová, Little Cynic, the band Giľora and strong personalities from Slovak culture"
-  location: Holy Trinity Square → Art Cafe, terrace
+  perex: "An artistic response to current events in culture with Dorota Nvotová, Little Cynic, the band Giľora and strong personalities from Slovak culture with action parade"
+  location: Holy Trinity Square <br/>→ Art Cafe, terrace
   price: 0
   slug: happening-slobodnej-slovenskej-kultury
 
@@ -33,11 +33,11 @@
 
 - 
   time: 13:30 – 14:30
-  performer: D´protest dženerejšn + Edel & Počúvadlo band (SK+CZ)
+  performer: D´protest dženerejšn + Edel&nbsp;&&nbsp;Počúvadlo&nbsp;band (SK+CZ)
   premiere: false
   age: 12+
   title: NO FREEDOM, NO FUN
-  perex: "Modern artistic recitals and original songs on the theme of freedom"
+  perex: "Modern artistic recitals and original songs on the theme of (un)freedom"
   location: Scout House Garden, A. Pécha St.
   price: 7 €
   slug: dprotest-dzenerejsn-edel-pocuvadlo
@@ -79,12 +79,23 @@
   slug: baron-prasil
 
 - 
+  time: 18:30 – 19:00
+  performer: Edel & Počúvadlo band (SK+CZ)
+  premiere: false
+  age: 12+
+  title: TRIBUTE TO FILIP & LASICA
+  perex: "Original songs by Tomáš Edelsberger dedicated to Slovak greats"
+  location: Art Cafe, terrace
+  price: 0
+  slug: edel-pocuvadlo-pocta-filipovi-lasicovi
+
+- 
   time: 19:30 – 21:00
   performer: Monika Tódová & Daily N (SK)
   premiere: false
   argentum: true
   headliner: true
-  age: 12+
+  age: 15+
   title: HOW TO SAVE DEMOCRACY
   perex: "A cabaret discussion about current developments in our country, with and without humor, featuring Marián Leško, Martin M. Šimečka, and Matúš Kostolný"
   location: Cultural Centre, Main Hall
@@ -102,19 +113,9 @@
   price: 0
   slug: 10-narodeniny-amplionu
 
-- 
-  time: 18:30 – 20:00
-  performer: Edel & Počúvadlo band (SK+CZ)
-  premiere: false
-  age: 15+
-  title: TRIBUTE TO FILIP & LASICA
-  perex: "Original songs by Tomáš Edelsberger dedicated to Slovak greats"
-  location: Art Cafe, attic
-  price: Advance 10 €, at the door 12 €
-  slug: edel-pocuvadlo-pocta-filipovi-lasicovi
 
 - 
-  time: 22:00 – 24:00
+  time: 22:00 – 23:30
   performer: Dorota Nvotová & Transport (SK)
   premiere: false
   argentum: true

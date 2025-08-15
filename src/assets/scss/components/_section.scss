@@ -240,6 +240,7 @@ section--notopspace - without top padding
     }
 
     &--bottom {
+      padding-bottom: rem-calc(16);
       margin-bottom: 0 !important;
       z-index: 1;
     }
@@ -370,10 +371,16 @@ section--notopspace - without top padding
         column-count: 2;
       }
     }
+    &--bottom {
+      margin-bottom: 0 !important;
+      padding-bottom: rem-calc(16);
+      z-index: 1;
+    }
   }
 
   &--bottom {
     margin-bottom: 0 !important;
+    padding-bottom: rem-calc(16);
     z-index: 1;
   }
 
@@ -387,6 +394,7 @@ section--notopspace - without top padding
 
     &--bottom {
       margin-bottom: 0 !important;
+      padding-bottom: rem-calc(16);
       z-index: 1;
     }
 
@@ -428,6 +436,7 @@ section--notopspace - without top padding
 
     &--bottom {
       margin-bottom: 0 !important;
+      padding-bottom: rem-calc(16);
       z-index: 1;
     }
   }

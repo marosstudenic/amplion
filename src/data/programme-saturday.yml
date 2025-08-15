@@ -1,11 +1,11 @@
 - 
   time: 10:00 – 11:00
-  performer: Nové divadlo Nitra (SK+CZ)
+  performer: Nové divadlo Nitra (SK)
   premiere: false
   age: 3+
   title: KOCÚR V ČIŽMÁCH
   perex: "Punkovo-animálno-maňuškovo-komediálny thriller pre deti i rodičov"
-  location: Záhrada Skautského domu, ul. A. Pécha (Rubigall, Nám. Sv. Trojice)
+  location: Záhrada Skautského domu, ul.&nbsp;A.&nbsp;Pécha
   price: 3 / 6 €
   slug: kocur-v-cizmach
 
@@ -15,8 +15,8 @@
   premiere: false
   age: 12+
   title: HAPPENING SLOBODNEJ SLOVENSKEJ KULTÚRY
-  perex: "Umelecká reakcia na dianie v kultúre s Dorotou Nvotovou, Malým Cynikom, kapelou Giľora a osobnosťami SK kultúry"
-  location: Námestie sv. Trojice → Art Cafe, terasa
+  perex: "Umelecká reakcia na dianie v kultúre s Dorotou Nvotovou, Malým Cynikom, kapelou Giľora a osobnosťami SK kultúry s akčným sprievodom"
+  location: Námestie sv. Trojice <br/> → Art Cafe, terasa
   price: 0
   slug: happening-slobodnej-slovenskej-kultury
 
@@ -33,12 +33,12 @@
 
 - 
   time: 13:30 – 14:30
-  performer: D´protest dženerejšn + Edel & Počúvadlo band (SK+CZ)
+  performer: D´protest dženerejšn + Edel&nbsp;&&nbsp;Počúvadlo&nbsp;band (SK+CZ)
   premiere: false
   age: 12+
   title: NO FREEDOM, NO FUN
   perex: "Moderné umelecké prednesy a autorské piesne na tému slobody"
-  location: Záhrada Skautského domu, ul. A. Pécha (Rubigall, Nám. Sv. Trojice)
+  location: Záhrada Skautského domu, <br/>ul. A. Pécha
   price: 7 €
   slug: dprotest-dzenerejsn-edel-pocuvadlo
 
@@ -50,19 +50,19 @@
   premiere: false
   argentum: true
   age: 12+
-  title: ART PUTIKA II. – SKUTOČNÉ ŽENY KULTÚRY + GOOD BOY from Slovakia
-  perex: "Diskusia so silnými osobnosťami slobodnej slovenskej kultúry: Veronika Blažeková Nemcová (OK) a Veronika Gabčíková (ASND) + projekcia filmu o Andrejovi Dúbravskom"
+  title: ART PUTIKA II. – SKUTOČNÉ ŽENY KULTÚRY + film GOOD BOY from Slovakia
+  perex: "Diskusia so silnými osobnosťami slobodnej slovenskej kultúry: Veronika Blažeková Nemcová (OK) a Veronika Gabčíková (ASND) + projekcia filmu o maliarovi Andrejovi Dúbravskom"
   location: Art Cafe, povala
   price: 7 €
   slug: art-putika-ii-skutocne-zeny-kultury
 
 - 
   time: 16:00 – 16:45
-  performer: GIĽORA (SK+CZ)
+  performer: GIĽORA (CZ)
   premiere: false
   age: 12+
   title: KONCERT
-  perex: "Spontánne a interaktívne jazzové tradicionály i rómske piesne parádnej českej kapely"
+  perex: "Slobodné jazzové tradicionály i rómske piesne parádnej českej kapely"
   location: Trotuár Cafe, A. Kmeťa
   general: "Busking"
   price: 0
@@ -70,7 +70,7 @@
 
 - 
   time: 17:00 – 18:00
-  performer: Nové divadlo Nitra (SK+CZ)
+  performer: Nové divadlo Nitra (SK)
   premiere: false
   argentum: true
   age: 10+
@@ -81,14 +81,26 @@
   slug: baron-prasil
 
 - 
+  time: 18:30 – 19:00
+  performer: Edel & Počúvadlo band (SK+CZ)
+  premiere: true
+  age: 12+
+  title: POCTA FILIPOVI & LASICOVI
+  perex: "Autorské piesne Tomáša Edelsbergera venované dvom velikánom"
+  location: Art Cafe, terasa
+  price: 0
+  slug: edel-pocuvadlo-pocta-filipovi-lasicovi
+
+
+- 
   time: 19:30 – 21:00
   performer: Monika Tódová & Denník N (SK)
   premiere: false
   argentum: true
   headliner: true
-  age: 12+
+  age: 15+
   title: AKO ZACHRÁNIŤ DEMOKRACIU
-  perex: "Kabaretná diskusia o aktuálnom vývoji našej krajiny s humorom aj bez, glosujú: Marián Leško, Martin M. Šimečka, Matúš Kostolný"
+  perex: "Kabaretná diskusia o aktuálnom vývoji našej krajiny s humorom aj bez, <br/>glosujú: Marián Leško, Martin M. Šimečka, Matúš Kostolný"
   location: Kultúrne centrum, hlavná sála
   price: V predpredaji 10 €, na mieste 12 €*
   slug: ako-zachranit-demokraciu
@@ -97,27 +109,17 @@
   time: 21:00 – 21:45
   performer: Ansámbel&nbsp;nepravidelného&nbsp;divadla&nbsp;n.o.&nbsp;(SK)
   premiere: false
-  age: 15+
+  age: 12+ 
   title: 10. NARODENINY AMPLIÓNu
-  perex: "Udeľovanie cien Amplion Argentum, projekcia aftermovies 9 ročníkov festivalu + prekvapenie"
+  perex: "Udeľovanie cien Amplion Argentum, projekcia naj momentov z 9 ročníkov festivalu + prekvapenie"
   location: Art Cafe, terasa
   price: 0
   slug: 10-narodeniny-amplionu
 
-- 
-  time: 18:30 – 20:00
-  performer: Edel & Počúvadlo band (SK+CZ)
-  premiere: false
-  age: 15+
-  title: POCTA FILIPOVI a LASICOVI
-  perex: "Autorské piesne Tomáša Edelsbergera"
-  location: Art Cafe, povala
-  price: V predpredaji 10 €, na mieste 12 €
-  slug: edel-pocuvadlo-pocta-filipovi-lasicovi
 
 - 
-  time: 22:00 – 24:00
-  performer: Dorota Nvotová & Transport (SK)
+  time: 22:00 – 23:30 
+  performer: Dorota Nvotová  & Transport (SK)
   premiere: false
   argentum: true
   headliner: true

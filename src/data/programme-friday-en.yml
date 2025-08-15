@@ -2,20 +2,20 @@
   time: 16:00 – 16:30
   title: OPENING CEREMONY
   age: Family
-  perex: "Opening of the 10th edition of the AMPLIFIER Festival with the motto: Being free is an art!\nAnthem + promo: Tomáš Edelsberger (SK+CZ), gipsy-jazz band Giľora (CZ)"
+  perex: "Opening of the 10th edition of the AMPLIFIER Festival with the motto: <br/><b>Being free is an art!</b>\nAnthem + promo: Tomáš Edelsberger (SK+CZ), <br/>gipsy-jazz band Giľora (CZ), EX-TREMISTS (SK)"
   location: Holy Trinity Square
   price: 0
   slug: otvorenie-festivalu
 
 - 
   time: 17:00 – 18:30
-  performer: The Ensemble of Irregular Theatre n.o. (SK)
+  performer: The Ensemble of Irregular&nbsp;Theatre&nbsp;n.o.&nbsp;(SK)
   premiere: false
   age: 15+
   title: EX-TREMISTS – heroes who lost their fear II.
   perex: "A unique form of theatre and powerful stories of dual heroes performed by the audience"
   location: Rubigall, Holy Trinity Square
-  price: 4 / 8 €
+  price: 4* / 8 €
   slug: ex-tremisti
 
 - 
@@ -36,7 +36,7 @@
   argentum: true
   age: 12+
   title: ART PUTIKA I. – MY FRIEND BELIEVES HOAXES, WHAT SHOULD I DO?
-  perex: "Discussion and excerpts from a forthcoming book on how to engage in dialogue with loved ones whose world is drifting away from ours. Guest: Vladimír Šnídl – renowned reporter and expert on conspiracy theories and hoaxes on the internet"
+  perex: "Discussion and excerpts from a forthcoming book on how to engage in dialogue with loved ones whose world is drifting away from ours. Guest:&nbsp;Vladimír Šnídl – renowned reporter and expert on conspiracy theories and hoaxes on the internet"
   location: Art Cafe, attic
   price: 7 €
   slug: art-putika-i-kamarat-veri-hoaxom
@@ -56,7 +56,7 @@
   time: 20:30 – 22:30
   performer: Daily SME (SK)
   premiere: false
-  argentum: true
+  argentum: false
   age: 15+
   title: PIATOČEK – BIZARRE POLITICAL QUIZ
   perex: "The creators of a well-known and successful satirical podcast bring another quiz hurricane with a healthy dose of humor and perspective. Guaranteed fun!"
@@ -66,7 +66,7 @@
 
 - 
   time: 22:30 – 23:45
-  performer: Kráter Kartel
+  performer: Kráter Kartel (SK)
   premiere: false
   age: 15+
   title: CONCERT
