@@ -6,12 +6,12 @@ archive-mode-program: true
 busking-menu: false 
 sketchup-menu: false
 year: 2025
-show-festivalove-noviny: true
+show-festivalove-noviny: false
 rocnik: 10
 slogan: "BYŤ SLOBODNÝ JE UMENIE"
 slogan-en: "BEEING FREE IS AN ART!"
 show-laureates: false
-show-program-pdf-home: false
+show-program-pdf-home: true
 show-program-promospot: false
 # busking
 busking-form-deadline: "15.&nbsp;júla&nbsp;2024"
