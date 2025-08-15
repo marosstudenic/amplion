@@ -109,7 +109,7 @@ dennik-sme-piatocek:
   title: "BIZARRE POLITICAL QUIZ – PIATOČEK"
   argentum: true
   general: "Program for youth and adults"
-  price: "Advance 10 €, at the door 12 €"
+  price: "Advance 10 €, on site 12 €"
   occurences:
     -
       time: "Friday 20:30"
@@ -199,9 +199,9 @@ maly-cynik-koncert:
     -
       time: "Saturday 12:15"
       location: "Art Cafe, terrace"
-  perex: "A concert of the lost generation that will not be lost, or protest songs for Slovakia"
+  perex: "A concert of the lost generation that will not be lost, or protest&#8209;songs for Slovakia"
   content:
-    - "The protest songs of Little Cynic (Jakub Pohle) consist of his own compositions, but also songs by living and long-gone songwriters such as Dušan Vlk, Fvck_Kvlt, Kryl, Lasica, and Slobodná Európa. A mix of socially engaged songs from the last fifty years and one great common desire will come to life. Apparently, for fifty years, we have all been longing for the same freedom, love, and tolerance. Did Karel Kryl and Jaro Filip sing about the same thing? Does their work reflect today's world? Come and see for yourself at an intimate concert with spontaneous energy!"
+    - "The protest&#8209;songs of Little Cynic (Jakub Pohle) consist of his own compositions, but also songs by living and long-gone songwriters such as Dušan Vlk, Fvck_Kvlt, Kryl, Lasica, and Slobodná Európa. A mix of socially engaged songs from the last fifty years and one great common desire will come to life. Apparently, for fifty years, we have all been longing for the same freedom, love, and tolerance. Did Karel Kryl and Jaro Filip sing about the same thing? Does their work reflect today's world? Come and see for yourself at an intimate concert with spontaneous energy!"
     - "<i>Jakub Pohle is an activist, investigative journalist, war reporter, and satirist known under the pseudonym Little Cynic. He sings beautifully and even plays not only the guitar but also in the theatre.</i>"
   pictures:
     - "Happening_Maly Cynik_01_foto_Jan Fakla.webp"
@@ -226,9 +226,9 @@ dprotest-dzenerejsn-edel-pocuvadlo:
   pictures:
     - "NO_FREEDOM_NO_FUN_Mariana Ondrejová_2.webp"
     - "NO_FREEDOM_NO_FUN_Marek Sivák.webp"
-    - "NO_FREEDOM_NO_FUN_Mariana Ondrejová.webp"
-    - "NO_FREEDOM_NO_FUN_Jakub Szöke.webp"
     - "NO_FREEDOM_NO_FUN_Tereza Falátová.webp"
+    - "NO_FREEDOM_NO_FUN_Jakub Szöke.webp"
+    - "Andrej Rácz.webp"
     - "Edel &amp; Pocuvadlo_2_foto_Peter Stit.webp"
 
   foto: "archive of recitators"
@@ -299,7 +299,7 @@ baron-prasil:
   title: "BARON PRÁŠIL"
   argentum: true 
   general: "Program for youth and adults"
-  price: "Advance 8 €, at the door 10 €"
+  price: "Advance 8 €, on site 10 €"
   occurences:
     -
       time: "Saturday 17:00"
@@ -323,7 +323,7 @@ ako-zachranit-demokraciu:
   title: "HOW TO SAVE DEMOCRACY"
   argentum: true
   headliner: true
-  price: "Advance 10 €, at the door 12 €"
+  price: "Advance 10 €, on site 12 €"
   occurences:
     -
       time: "Saturday 19:30"
@@ -359,10 +359,11 @@ ako-zachranit-demokraciu:
   link: "www.amplion.eu"
 
 edel-pocuvadlo-pocta-filipovi-lasicovi:
-  performer: 'Edel & Počúvadlo band (SK+CZ) Slovak premiere!'
+  performer: 'Edel & Počúvadlo band (SK+CZ)'
   title: "TRIBUTE TO FILIP & LASICA"
   general: "Program for youth and adults"
-  price: "Advance 10 €, at the door 12 €"
+  price: "Advance 10 €, on site 12 €"
+  premiere: true
   occurences:
     -
       time: "Saturday 18:30"
@@ -383,7 +384,7 @@ dorota-nvotova-transport-krst-ep-lazy:
   title: "CONCERT & EP LAZY LAUNCH"
   argentum: true
   headliner: true
-  price: "Advance 10 €, at the door 12 €"
+  price: "Advance 10 €, on site 12 €"
   occurences:
     -
       time: "Saturday 22:00"

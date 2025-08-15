@@ -201,7 +201,7 @@ maly-cynik-koncert:
       location: "Art Cafe, terasa"
   perex: "Koncert stratenej generácie, ktorý nebude stratený alebo protest&#8209;songy za Slovensko"
   content:
-    - "Protest songy Malého Cynika (Jakub Pohle) tvoria jeho autorské piesne, ale aj skladby žijúcich i dávnych pesničkárov ako Dušan Vlk, Fvck_Kvlt, či Kryl, Lasica a Slobodná Európa. Ožije mix angažovaných skladieb posledných päťdesiatich rokov a jedna veľká spoločná túžba. Očividne tu päťdesiat rokov všetci túžime po tej istej slobode, láske a tolerancii. Spieval Karel Kryl či Jaro Filip o tom istom? Reflektuje ich dielo aj dnešný svet? Príďte sa o tom presvedčiť osobne na intímny koncert so živelnou energiou!"
+    - "Protest&#8209;songy Malého Cynika (Jakub Pohle) tvoria jeho autorské piesne, ale aj skladby žijúcich i dávnych pesničkárov ako Dušan Vlk, Fvck_Kvlt, či Kryl, Lasica a Slobodná Európa. Ožije mix angažovaných skladieb posledných päťdesiatich rokov a jedna veľká spoločná túžba. Očividne tu päťdesiat rokov všetci túžime po tej istej slobode, láske a tolerancii. Spieval Karel Kryl či Jaro Filip o tom istom? Reflektuje ich dielo aj dnešný svet? Príďte sa o tom presvedčiť osobne na intímny koncert so živelnou energiou!"
     - "<i>Jakub Pohle je aktivista, investigatívny novinár, vojnový reportér a satirik známy pod pseudonymom Malý Cynik. Výborne spieva a, dokonca, hrá nielen na gitare, ale aj v divadle.</i>"
   pictures:
     - "Happening_Maly Cynik_01_foto_Jan Fakla.webp"
@@ -226,9 +226,9 @@ dprotest-dzenerejsn-edel-pocuvadlo:
   pictures:
     - "NO_FREEDOM_NO_FUN_Mariana Ondrejová_2.webp"
     - "NO_FREEDOM_NO_FUN_Marek Sivák.webp"
-    - "NO_FREEDOM_NO_FUN_Mariana Ondrejová.webp"
-    - "NO_FREEDOM_NO_FUN_Jakub Szöke.webp"
     - "NO_FREEDOM_NO_FUN_Tereza Falátová.webp"
+    - "NO_FREEDOM_NO_FUN_Jakub Szöke.webp"
+    - "Andrej Rácz.webp"
     - "Edel &amp; Pocuvadlo_2_foto_Peter Stit.webp"
   foto: "archív recitátorov a kapely"
   # TODO: replace images 5 foto recitatorov
@@ -262,7 +262,7 @@ art-putika-ii-skutocne-zeny-kultury:
       location: "Art Cafe, povala"
   perex: "Diskusia so silnými ženskými osobnosťami slobodnej slovenskej kultúry + necenzurovaný film o maliarovi Andrejovi Dúbravskom. Hostky: Veronika Blažeková Němcová (OK) a Veronika Gabčíková (ASND). Moderuje: redaktorka Jana Močková. Ľahká debata o neľahkých časoch!"
   content:
-    - "Slovenská kultúra, Festival AMPLIÓN i samotné Slovensko zažíva krušné časy. Pseudo-odborníci ovládli kultúrne inštitúcie, maria transparentné výberové konania, rušia odborníkmi pridelené dotácie a podporujú „našich ľudí“. Koľko percent Slovákov vôbec zaujíma dianie v súčasnej kultúre? Čo sa vlastne deje a aké to prinesie dopady na bežných občanov? Odpovede budeme hľadať počas diskusie s dvomi nezlomnými ženskými osobnosťami, ktorých príbehy boja za slobodnú slovenskú kultúru sú silné a inšpiratívne pre nás všetkých. Predstavíme vám <b>Veroniku Blažekovú Němcovú</b>, bývalú riaditeľku SNG Schaubmarov mlyn v Pezinku, dnes aktívnu členku občianskej iniciatívy Otvorená kultúra aj <b>Veroniku Gabčíkovú</b>, členku Asociácie slovenských nezávislých divadiel, líderku Nového divadla v Nitre aj umeleckú vedúcu Bábkového divadla Žilina. Bonusom bude projekcia filmu o slovenskom maliarovi Andrejovi Dúbravskom, uznávanom doma aj v zahraničí, no ostrakizovanom súčasnou ministerkou kultúry. Všetkým vás prevedie moderátorka a redaktorka kultúry Jana Močková."
+    - "Slovenská kultúra, Festival AMPLIÓN i samotné Slovensko zažíva krušné časy. Pseudo-odborníci ovládli kultúrne inštitúcie, maria transparentné výberové konania, rušia odborníkmi pridelené dotácie a podporujú „našich ľudí“. Koľko percent Slovákov vôbec zaujíma dianie v súčasnej kultúre? Čo sa vlastne deje a aké to prinesie dopady na bežných občanov? Odpovede budeme hľadať počas diskusie s dvomi nezlomnými ženskými osobnosťami, ktorých príbehy boja za slobodnú slovenskú kultúru sú silné a inšpiratívne pre nás všetkých. Predstavíme vám <b>Veroniku Blažekovú Němcovú</b>, bývalú riaditeľku SNG Schaubmarov mlyn v Pezinku, dnes aktívnu členku občianskej iniciatívy Otvorená kultúra aj <b>Veroniku Gabčíkovú</b>, členku Asociácie slovenských nezávislých divadiel, líderku Nového divadla v Nitre aj umeleckú vedúcu Bábkového divadla Žilina. Bonusom bude projekcia filmu o slovenskom maliarovi <b>Andrejovi Dúbravskom</b>, uznávanom doma aj v zahraničí, no ostrakizovanom súčasnou ministerkou kultúry. Všetkým vás prevedie moderátorka a redaktorka kultúry Jana Močková."
     - "<i><b>Jana Močková</b> vyštudovala žurnalistiku v UK v Bratislave. Začínala v rádiu Devín, v rokoch 2010 až 2014 bola redaktorkou denníka SME, na oddelení kultúry. V Denníku N pôsobí od jeho vzniku. Venuje sa najmä témam z oblasti umenia, architektúry a kultúrnej politiky. V roku 2018 získala dve nominácie na Novinársku cenu v kategóriách rozhovor a reportáž.</i>"
   pictures:
     - "ART PUTIKA II_Jana Mockova_Dennik N.webp"
