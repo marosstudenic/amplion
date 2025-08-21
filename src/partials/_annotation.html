@@ -180,6 +180,7 @@
   </div>
 </section>
 
+
 {{#if @root.site-config.show-tickets}}
 {{#ifequal this.price 0}}
 <section class="section section--plain">
@@ -208,9 +209,19 @@
 <!--Only to sctroll naviagtion to work-->
 <!--  <section id="vstupenky" class="section section&#45;&#45;straight section&#45;&#45;notopspace">-->
 <!--  </section>-->
+
+<section style="max-width: 1000px; margin: 0 auto;   padding: 1rem; margin-bottom: 10rem;" id="vstupenky">
+  <h2 style="text-align: center; margin-bottom: 2rem;">Vstupenky</h2>  
+  <script
+  src="https://partners.goout.net/framework/auto.js"
+  id="goOutScript"
+  type="text/javascript"
+  data-contact="2799"
+  data-sale="{{gooutlink}}"
+  ></script>
+</section>
 <section class="section section--straight section--notopspace">
   <div class="section__content">
-
     <p style="font-size: 0.75em">
       Majiteľ vstupenky berie na vedomie, že na Festivale AMPLIÓN alebo v
       priamej súvislosti s ním môžu organizátorom poverené tretie osoby

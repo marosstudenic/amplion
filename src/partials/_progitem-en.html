@@ -87,8 +87,7 @@
           CANCELLED!
         </p>
       </div>
-      {{else}} {{#ifequal this.no-buy-button true}} {{#ifequal
-      @root.site-config.archive-mode-program true}} {{else}}
+      {{else}} {{#ifequal this.no-buy-button true}} {{else}}
       <div class="progitem__cta">
         <a
           href="/en/programme/{{this.slug}}#tickets"
@@ -96,7 +95,7 @@
           >Buy tickets</a
         >
       </div>
-      {{/ifequal}} {{/ifequal}} {{/ifequal}} {{/ifequal}} {{/ifequal}} {{/if}}
+     {{/ifequal}} {{/ifequal}} {{/ifequal}} {{/ifequal}} {{/if}}
     </div>
   </div>
 </li>

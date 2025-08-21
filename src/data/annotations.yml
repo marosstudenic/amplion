@@ -45,6 +45,7 @@ ex-tremisti:
     - "EX-TREMISTI II_MK HE_2025_AG_075.webp"
   foto: "Anna Gondová"
   link: "https://www.and-theatre.art"
+  gooutlink: "https://goout.net/sk/listky/ex-tremisti-hrdinovia-ktori-stratili-strach-ii/gpbgb/"
 
 mario-separovic-vojta-snuparek:
   performer: 'Mario Šeparović  &&nbsp;Vojta&nbsp;Šňupárek (CZ)'
@@ -82,6 +83,7 @@ art-putika-i-kamarat-veri-hoaxom:
     - "ART PUTIKA I_Vladimir Snidl_Dennik N.webp"
   foto: "Tomáš Benedikovič"
   link: "https://dennikn.sk/autor/vlado-snidl/"
+  gooutlink: "https://goout.net/sk/listky/art-putika-i-kamarat-veri-hoaxom-co-s-tym/ipbgb/"
 
 gilora-koncert:
   performer: 'GIĽORA (CZ)'
@@ -102,6 +104,7 @@ gilora-koncert:
     - "Foto_Gilora_05.webp"
     - "Foto_Gilora_06.webp"
   foto: "archív kapely"
+  gooutlink: "https://goout.net/sk/listky/gilora/lpbgb/"
 
 dennik-sme-piatocek:
   performer: 'Denník SME (SK)'
@@ -124,6 +127,7 @@ dennik-sme-piatocek:
 
   foto: "archív SME/Piatoček"
   link: "https://podcasty.sme.sk/t/8343/podcast-piatocek"
+  gooutlink: "https://goout.net/sk/listky/piatocek-bizarny-politicky-kviz/mpbgb/"
 
 krater-kartel-koncert:
   performer: 'Kráter Kartel (SK)'
@@ -143,6 +147,7 @@ krater-kartel-koncert:
     - "Krater Kartel_4.webp"
   foto: "archív kapely"  
   link: "https://www.facebook.com/KraterKartel/"
+  gooutlink: "https://goout.net/sk/listky/krater-kartel/opbgb/"
 
 kocur-v-cizmach:
   performer: 'Nové divadlo Nitra (SK)'
@@ -165,6 +170,7 @@ kocur-v-cizmach:
     - "ND_Kocur v cizmach_Collavino-3988.webp"
   foto: "Collavino"
   link: "https://novedivadlo.sk/"
+  gooutlink: "https://goout.net/sk/listky/kocur-v-cizmach/spbgb/"
 
 
 happening-slobodnej-slovenskej-kultury:
@@ -233,6 +239,7 @@ dprotest-dzenerejsn-edel-pocuvadlo:
   foto: "archív recitátorov a kapely"
   # TODO: replace images 5 foto recitatorov
   link: "https://amplion.eu/archiv/"
+  gooutlink: "https://goout.net/sk/listky/no-freedom-no-fun-dprotest-dzenerejsn+edel-and-pocuvadlo-band/oqbgb/"
 
 mario-separovic-vojta-snuparek-pocuvadle:
   performer: 'Mario Šeparovič & Vojta Šňupárek (CZ)'
@@ -249,6 +256,7 @@ mario-separovic-vojta-snuparek-pocuvadle:
   pictures:
     - "Snuparek a Separovic.webp"
   foto: "archív kapely"
+
 
 art-putika-ii-skutocne-zeny-kultury:
   performer: 'Jana Močková (SK)'
@@ -273,6 +281,7 @@ art-putika-ii-skutocne-zeny-kultury:
 
   foto: "Denník N a archív hostiek"
   link: "https://dennikn.sk/autor/jana-nemeth/"
+  gooutlink: "https://goout.net/sk/listky/art-putika-ii-skutocne-zeny-kultury+good-boy-from-slovakia/rqbgb/"
 
 
 gilora-koncert-busking:
@@ -317,6 +326,7 @@ baron-prasil:
     - "ND_Baron Prasil_Henrich_Misovic--93.webp"
     - "ND_Baron Prasil_Henrich_Misovic--95.webp"
   foto: "Collavino"
+  gooutlink: "https://goout.net/sk/listky/baron-prasil/rhcgb/"
   link: "https://novedivadlo.sk/"
 
 ako-zachranit-demokraciu:
@@ -341,6 +351,7 @@ ako-zachranit-demokraciu:
     - "Dennik_N_diskusia_Ako_zachranit_demokraciu_MS_034.webp"
   foto: "Michal Svítok"
   link: "https://dennikn.sk"
+  gooutlink: "https://goout.net/sk/listky/ako-zachranit-demokraciu/thcgb/"
 
 10-narodeniny-amplionu:
   performer: 'Ansámbel nepravidelného divadla n.o. (SK)'
@@ -402,4 +413,5 @@ dorota-nvotova-transport-krst-ep-lazy:
     - "Dorota Nvotova a Lazy_2.webp"
   foto: "Marek Šulík a archív kapely"
   link: "https://www.dorotanvotova.com"
+  gooutlink: "https://goout.net/sk/listky/dorota-nvotova-and-transport/uhcgb/"
 
