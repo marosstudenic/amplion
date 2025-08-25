@@ -375,7 +375,7 @@ edel-pocuvadlo-pocta-filipovi-lasicovi:
   title: "POCTA FILIPOVI & LASICOVI"
   general: "Program pre mladých a dospelých"
   premiere: true
-  price: "V predpredaji 10 €, na mieste 12 €"
+  price: 0
   occurences:
     -
       time: "sobota 18:30"

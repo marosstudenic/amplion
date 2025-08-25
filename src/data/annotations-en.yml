@@ -381,7 +381,7 @@ edel-pocuvadlo-pocta-filipovi-lasicovi:
   performer: 'Edel & Počúvadlo band (SK+CZ)'
   title: "TRIBUTE TO FILIP & LASICA"
   general: "Program for youth and adults"
-  price: "Advance 10 €, on site 12 €"
+  price: 0
   premiere: true
   occurences:
     -
