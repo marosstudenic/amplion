@@ -233,13 +233,13 @@ dprotest-dzenerejsn-edel-pocuvadlo:
   perex: "Modern artistic recitals and original songs on the theme of (un)freedom in the beautiful surroundings of the garden terraces of the Scout House below the Old Castle accompanied by excellent music"
   content:
     - "Special reciters and their authentic renditions of world and Slovak poetry and prose, this time enriched with jazz-cabaret songs by the Czech-Slovak band Edel & Počúvadlo. We will wander through the peaceful, fragrant and panoramic surroundings of the garden above the Scout House Hostel. A carefully cultivated selection of powerful statements about (un)freedom will be presented in an effort to bring people closer to nature. An attempt to rediscover the roots of our openness, tolerance, and humanity. This will also be the theme of a different and specially designed program of quality literature each year, which will once again dispel your preconceptions about conventional recitation. Don't hesitate, this program will never be repeated!"
-    - "<i>You can look forward to captivating  works by contemporary authors such as Dominika Moravčíková, Peter Pečonka, Daniel Pastirčák, Brane Mozetič, as well as classics by Wisława Szymborska and Ľudmila Podjavorinská. Reciters: Tereza Falátová, Mariana Ondrejová, Andrej Rácz, Jakub Szöke, and Marek Sivák. Music and vocals: Tomáš Edelsberger & band.</i>"
+    - "<i>You can look forward to captivating  works by contemporary authors such as Dominika Moravčíková, Peter Pečonka, Daniel Pastirčák as well as classics by Wisława Szymborska and Ľudmila Podjavorinská. Reciters: Tereza Falátová, Mariana Ondrejová, Jakub Szöke, and Marek Sivák. Music and vocals: Tomáš Edelsberger & band.</i>"
   pictures:
     - "NO_FREEDOM_NO_FUN_Mariana Ondrejová_2.webp"
     - "NO_FREEDOM_NO_FUN_Marek Sivák.webp"
     - "NO_FREEDOM_NO_FUN_Tereza Falátová.webp"
     - "NO_FREEDOM_NO_FUN_Jakub Szöke.webp"
-    - "Andrej Rácz.webp"
+    # - "Andrej Rácz.webp"
     - "Edel &amp; Pocuvadlo_2_foto_Peter Stit.webp"
 
   foto: "archive of recitators"
