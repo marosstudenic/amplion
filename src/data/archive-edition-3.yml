@@ -35,17 +35,17 @@ videos:
   -
     title: Aftermovie
     id: aftermovie
-    link: https://youtu.be/si9t0EL1-Vk
+    link: https://www.youtube.com/embed/si9t0EL1-Vk
     screenshot: video-aftermovie-3rocnik.jpg
   -
     title: Dokument
     id: dokument
-    link: https://youtu.be/C37fF8QFiWs
+    link: https://www.youtube.com/embed/C37fF8QFiWs
     screenshot: video-dokument-3rocnik.jpg
   -
     title: Promo spot
     id: promospot
-    link: https://www.youtube.com/watch?v=Pi2DlMm3iV4
+    link: https://www.youtube.com/embed/Pi2DlMm3iV4
     screenshot: video-promo-3rocnik.jpg
 festival-newspaper: fn_amplion_2018_digital_a3_new_1.pdf
 photofolder: fotogaleria-festivalu-2018
