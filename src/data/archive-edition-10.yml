@@ -1,0 +1,249 @@
+edition: 10
+date: 19. a 20. 9. 2025
+introtext: Témou 10. ročníka bola sloboda vs. nesloboda a oslava 10.&nbsp;narodenín festivalu ľudskosti, tolerancie a silných zážitkov. 
+
+premieres: 
+  - performer: Mario Šeparović & Vojta Šňupárek (CZ)
+    title: Koncert
+  - performer: GIĽORA (CZ)
+    title: Koncert
+  - performer: Edel & Počúvadlo band (SK+CZ)
+    title: Koncert
+
+argentums:
+  - "Nové divadlo, Nitra (SK)"
+  - "Vladimír Šnídl, Denník N (SK)"
+  - "Veronika Němcová, Otvorená kultúra (SK)"
+  - "Denník N, Ako zachrániť demokraciu (SK)"
+  - "Dorota Nvotová & Transport, EP Lazy"
+
+# argentums-pro:
+#   - Ennio Marchetto (IT)
+download:
+  - title: x
+    link: x
+videos:
+  - title: Aftermovie
+    id: aftermovie
+    link: https://www.youtube.com/embed/CBRT8fL2WSo
+    screenshot: aftermovie.webp
+  # - title: Dokument
+  #   id: dokument
+  #   link: https://www.youtube.com/embed/Ihp6Ghwrcoc
+  #   screenshot: dokument.jpg
+  # - title: Promo spot
+  #   id: promospot
+  #   link: https://www.youtube.com/embed/ObAkZ5VAROw
+  #   screenshot: promospot.jpg
+
+
+
+festival-newspaper: "FN AMP 25 - nahlad.pdf"
+photofolder: fotogaleria-festivalu-2025
+photos:
+  - AMPLION_2025_01_01.webp
+  - AMPLION_2025_01_02.webp
+  - AMPLION_2025_01_03.webp
+  - AMPLION_2025_01_04.webp
+  - AMPLION_2025_01_05.webp
+  - AMPLION_2025_01_06.webp
+  - AMPLION_2025_01_07.webp
+  - AMPLION_2025_01_08.webp
+  - AMPLION_2025_01_09.webp
+  - AMPLION_2025_01_10.webp
+  - AMPLION_2025_01_11.webp
+  - AMPLION_2025_01_12.webp
+  - AMPLION_2025_01_13.webp
+  - AMPLION_2025_01_14.webp
+  - AMPLION_2025_01_15.webp
+  - AMPLION_2025_01_16.webp
+  - AMPLION_2025_01_17.webp
+  - AMPLION_2025_01_18.webp
+  - AMPLION_2025_01_19.webp
+  - AMPLION_2025_01_20.webp
+  - AMPLION_2025_02_01.webp
+  - AMPLION_2025_02_02.webp
+  - AMPLION_2025_02_03.webp
+  - AMPLION_2025_02_04.webp
+  - AMPLION_2025_02_05.webp
+  - AMPLION_2025_02_06.webp
+  - AMPLION_2025_02_07.webp
+  - AMPLION_2025_02_08.webp
+  - AMPLION_2025_02_09.webp
+  - AMPLION_2025_02_10.webp
+  - AMPLION_2025_02_11.webp
+  - AMPLION_2025_02_12.webp
+  - AMPLION_2025_03_01.webp
+  - AMPLION_2025_03_02.webp
+  - AMPLION_2025_03_03.webp
+  - AMPLION_2025_03_04.webp
+  - AMPLION_2025_04_01.webp
+  - AMPLION_2025_04_02.webp
+  - AMPLION_2025_04_03.webp
+  - AMPLION_2025_05_01.webp
+  - AMPLION_2025_05_02.webp
+  - AMPLION_2025_05_03.webp
+  - AMPLION_2025_05_04.webp
+  - AMPLION_2025_05_05.webp
+  - AMPLION_2025_05_06.webp
+  - AMPLION_2025_06_01.webp
+  - AMPLION_2025_06_02.webp
+  - AMPLION_2025_06_03.webp
+  - AMPLION_2025_07_01.webp
+  - AMPLION_2025_07_02.webp
+  - AMPLION_2025_07_03.webp
+  - AMPLION_2025_07_04.webp
+  - AMPLION_2025_07_05.webp
+  - AMPLION_2025_07_06.webp
+  - AMPLION_2025_08_01.webp
+  - AMPLION_2025_08_02.webp
+  - AMPLION_2025_08_03.webp
+  - AMPLION_2025_08_04.webp
+  - AMPLION_2025_08_05.webp
+  - AMPLION_2025_08_06.webp
+  - AMPLION_2025_08_07.webp
+  - AMPLION_2025_08_08.webp
+  - AMPLION_2025_08_09.webp
+  - AMPLION_2025_08_10.webp
+  - AMPLION_2025_08_11.webp
+  - AMPLION_2025_08_12.webp
+  - AMPLION_2025_08_13.webp
+  - AMPLION_2025_08_14.webp
+  - AMPLION_2025_08_15.webp
+  - AMPLION_2025_09_02.webp
+  - AMPLION_2025_09_03.webp
+  - AMPLION_2025_09_04.webp
+  - AMPLION_2025_09_05.webp
+  - AMPLION_2025_09_06.webp
+  - AMPLION_2025_09_07.webp
+  - AMPLION_2025_09_08.webp
+  - AMPLION_2025_09_09.webp
+  - AMPLION_2025_09_10.webp
+  - AMPLION_2025_09_11.webp
+  - AMPLION_2025_09_12.webp
+  - AMPLION_2025_09_13.webp
+  - AMPLION_2025_09_14.webp
+  - AMPLION_2025_09_15.webp
+  - AMPLION_2025_09_16.webp
+  - AMPLION_2025_09_17.webp
+  - AMPLION_2025_09_18.webp
+  - AMPLION_2025_09_19.webp
+  - AMPLION_2025_09_20.webp
+  - AMPLION_2025_09_21.webp
+  - AMPLION_2025_09_22.webp
+  - AMPLION_2025_09_23.webp
+  - AMPLION_2025_09_24.webp
+  - AMPLION_2025_09_25.webp
+  - AMPLION_2025_09_26.webp
+  - AMPLION_2025_09_27.webp
+  - AMPLION_2025_09_28.webp
+  - AMPLION_2025_09_29.webp
+  - AMPLION_2025_09_30.webp
+  - AMPLION_2025_09_31.webp
+  - AMPLION_2025_09_32.webp
+  - AMPLION_2025_09_33.webp
+  - AMPLION_2025_10_01.webp
+  - AMPLION_2025_10_02.webp
+  - AMPLION_2025_10_03.webp
+  - AMPLION_2025_11_01.webp
+  - AMPLION_2025_11_02.webp
+  - AMPLION_2025_11_03.webp
+  - AMPLION_2025_11_04.webp
+  - AMPLION_2025_11_05.webp
+  - AMPLION_2025_11_06.webp
+  - AMPLION_2025_11_07.webp
+  - AMPLION_2025_11_08.webp
+  - AMPLION_2025_11_09.webp
+  - AMPLION_2025_11_10.webp
+  - AMPLION_2025_11_11.webp
+  - AMPLION_2025_11_12.webp
+  - AMPLION_2025_11_13.webp
+  - AMPLION_2025_11_14.webp
+  - AMPLION_2025_11_15.webp
+  - AMPLION_2025_11_16.webp
+  - AMPLION_2025_11_17.webp
+  - AMPLION_2025_11_18.webp
+  - AMPLION_2025_11_19.webp
+  - AMPLION_2025_11_20.webp
+  - AMPLION_2025_12_01.webp
+  - AMPLION_2025_12_02.webp
+  - AMPLION_2025_12_03.webp
+  - AMPLION_2025_12_04.webp
+  - AMPLION_2025_12_05.webp
+  - AMPLION_2025_12_06.webp
+  - AMPLION_2025_13_01.webp
+  - AMPLION_2025_13_02.webp
+  - AMPLION_2025_13_03.webp
+  - AMPLION_2025_13_04.webp
+  - AMPLION_2025_14_01.webp
+  - AMPLION_2025_14_02.webp
+  - AMPLION_2025_14_03.webp
+  - AMPLION_2025_14_04.webp
+  - AMPLION_2025_14_05.webp
+  - AMPLION_2025_14_06.webp
+  - AMPLION_2025_14_07.webp
+  - AMPLION_2025_14_08.webp
+  - AMPLION_2025_14_09.webp
+  - AMPLION_2025_15_01.webp
+  - AMPLION_2025_15_02.webp
+  - AMPLION_2025_15_03.webp
+  - AMPLION_2025_15_04.webp
+  - AMPLION_2025_15_05.webp
+  - AMPLION_2025_16_01.webp
+  - AMPLION_2025_16_02.webp
+  - AMPLION_2025_16_03.webp
+  - AMPLION_2025_16_04.webp
+  - AMPLION_2025_16_05.webp
+  - AMPLION_2025_16_06.webp
+  - AMPLION_2025_16_07.webp
+  - AMPLION_2025_16_08.webp
+  - AMPLION_2025_16_09.webp
+  - AMPLION_2025_16_10.webp
+  - AMPLION_2025_17_01.webp
+  - AMPLION_2025_17_02.webp
+  - AMPLION_2025_17_03.webp
+  - AMPLION_2025_17_04.webp
+  - AMPLION_2025_17_05.webp
+  - AMPLION_2025_17_06.webp
+  - AMPLION_2025_17_07.webp
+  - AMPLION_2025_17_08.webp
+  - AMPLION_2025_17_09.webp
+  - AMPLION_2025_17_10.webp
+  - AMPLION_2025_17_11.webp
+  - AMPLION_2025_17_12.webp
+  - AMPLION_2025_17_13.webp
+  - AMPLION_2025_17_14.webp
+  - AMPLION_2025_18_01.webp
+  - AMPLION_2025_18_02.webp
+  - AMPLION_2025_18_03.webp
+  - AMPLION_2025_18_04.webp
+  - AMPLION_2025_18_05.webp
+  - AMPLION_2025_18_06.webp
+  - AMPLION_2025_18_07.webp
+  - AMPLION_2025_19_01.webp
+  - AMPLION_2025_19_02.webp
+  - AMPLION_2025_19_03.webp
+  - AMPLION_2025_19_04.webp
+  - AMPLION_2025_19_05.webp
+  - AMPLION_2025_20_01.webp
+  - AMPLION_2025_20_02.webp
+  - AMPLION_2025_20_03.webp
+  - AMPLION_2025_20_04.webp
+  - AMPLION_2025_20_05.webp
+  - AMPLION_2025_20_06.webp
+  - AMPLION_2025_20_07.webp
+  - AMPLION_2025_20_08.webp
+  - AMPLION_2025_20_09.webp
+  - AMPLION_2025_20_10.webp
+  - AMPLION_2025_20_11.webp
+  - AMPLION_2025_20_12.webp
+  - AMPLION_2025_20_13.webp
+
+text: 
+  - "<b>Kto podržal jubilejný 10. Festival AMPLIÓN 2025?</b>"
+  - "Jubilejný 10. ročník medzinárodného festivalu nových foriem kabaretného divadla a pouličného umenia AMPLIÓN sa uskutočnil v Banskej Štiavnici 19. a 20. septembra 2025. So sloganom <i>„Byť slobodný je umenie!“</i> priniesol v historickom centre 2 dni divadla, kabaretu, koncertov a občiansko-spoločenských diskusií"
+  - "Napriek tomu, že organizátori z Ansámblu nepravidelného divadla, n. o. po prvý raz nedostali podporu z Fondu na podporu umenia, festival sa vďaka verejnej zbierke, solidarite umelcov, finančnej podpore Banskobystrického samosprávneho kraja, autorskej spoločnosti LITA i súkromných donorov uskutočnil aj tento rok. V zbierke Podržme Festival AMPLIÓN 2025 na Donio.sk prispelo na záchranu podujatia 109 darcov sumou 4 295 €. Organizátori aj touto formou ďakujú všetkým, ktorí 10. ročník podržali, osobitne Zuzke a Peťovi z Košíc. Podpora umožnila pripraviť kvalitný česko-slovenský program, v ktorom viacerí umelci účinkovali zadarmo alebo len za symbolický honorár, pretože si uvedomili dôležitosť podpory pre najväčšiu a najnavštevovanejšiu akciu z dielne nezávislej kultúry v Banskej Štiavnici."
+  - "O slobodné výpovede sa rôznymi formami divadelného, hudobného, tanečného, výtvarného a literárneho umenia usilovalo 60 umelcov z Česka, Moravy a Slovenska na 10 scénach v exteriéroch a interiéroch Banskej Štiavnice a okolia. Návštevníkom festivalu bolo k dispozícii 19 programov, z toho 3 slovenské premiéry zahraničných produkcií. Na 11 platených programoch sa zúčastnilo 559 platiacich divákov, na 8 neplatených produkciách približne 240 divákov. Počas 2 slnečných dní navštívilo Festival AMPLIÓN spolu cca 800 divákov. Festivalovému štábu pri organizácii akcie pomáhalo 15 mladých dobrovoľníkov najmä absolventi Gymnázia A. Kmeťa v Banskej Štiavnici, ale aj z iných miest SR a ČR."
+  - "Diváci so slobodnou dušou si užili dvojicu slovenských headlinerov. Monika Tódová & Denník N uviedli kabaretnú diskusiu Ako zachrániť demokraciu, v ktorej aktuálne dianie s humorom aj bez výborne glosovali Marián Leško, Martin M. Šimečka a Matúš Kostolný. Prítomná bola aj Marta Šimečková, ktorá zožala v plnej sále KC dlhý potlesk. Druhým headlinerom bola Dorota Nvotová s  kapelou Transport, ktorí v nabitom Art Cafe odohrali výnimočný koncert a soľou pokrstili novú EP platňu Lazy. Okrem headlinerov sa na AMPLIÓNe odohral aj bizarný politický kvíz PIATOČEK od tvorcov úspešného satirického podcastu denníka SME, pri ktorom sa diváci poriadne zabavili."
+  - "Ani na 10. ročníku nechýbali slovenské premiéry. Už v piatok sa predstavila česká kapela GIĽORA s nespútanou kombináciou jazzových tradicionálov a rómskych piesní, aj ostravské gitarové duo Mário Šeparović & Vojta Šňupárek s interpretáciou svetových hitov blues, soulu a funku. Súčasťou angažovaného programu boli diskusie ART PUTIKA, tento rok pod záštitou osobností z Denníka N, na témy „Kamarát verí hoaxom, čo s tým?“ (prednášal a diskutoval Vladimír Šnídl) a „Skutočné ženy kultúry“ (moderovala a diskutovala Jana Močková, hostkami boli Veronika Gabčíková a Veronika Němcová)."
+  - "Na festivale sa úspešne predstavilo aj Nové divadlo z Nitry s komediálnym thrillerom pre deti Kocúr v čižmách a tiež so skvelou kabaretnou komédiou pre mladých a dospelých Barón Prášil. Domáci Ansámbel nepravidelného divadla uviedol ojedinelé divadlo hrané divákmi EX-TRÉMISTI – hrdinovia, ktorí stratili strach II. Uskutočnil sa aj protestný Happening slobodnej slovenskej kultúry, na ktorom vystúpili viaceré umelecké osobnosti − Dorota Nvotová, Malý Cynik, Veronika Němcová (Otvorená kultúra), Veronika Gabčíková (ASND), Matej Lukáč (KTC Hájovňa), Jana Fakla Mikitková za Festival AMPLIÓN a vizuálne performance Slovenský glóbus predviedol Dušan Krnáč (AND). Súčasťou happeningu bol aj sprievod mestom s veľkým nápisom SOS KULTÚRA z dielne architektky Eleny Šoltésovej. Dvojdňový program dopĺňali aj domáci umelci (kapela Kráter kartel), špičkoví slovenskí recitátori D´protest dženerejšn v poetickom programe NO FREEDOM, NO FUN a česko-slovenská zostava Počúvadlo band Tomáša Edelsbergera. Na konci festivalu bola narodeninová oslava s video retrospektívou 9 ročníkov, obrovskou tortou a udeľovaním cien Amplion Argentum. Za skvelú kabaretnú inscenáciu Barón Prášil ju získalo Nové divadlo z Nitry, za prínosnú prednášku Kamarát verí hoaxom, čo s tým? Vladimír Šnídl, za Happening slobodnej slovenskej kultúry Veronika Němcová z Otvorenej Kultúry, Denník N za diskusiu Ako zachrániť demokraciu a Dorota Nvotova & Transport za koncert a krst EP LAZY. Organizátori ďakujú za spoluprácu na 10. AMPLIÓNE aj všetkým miestnym a lokálnym partnerom, ktorí chápu, že kultúra nie je zadarmo ani samozrejmosť."
