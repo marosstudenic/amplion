@@ -43,13 +43,12 @@ tlacova_sprava-sk: "TS_10_AMPLION_2025.pdf"
 tlacova_sprava-en: ""
 
 statistics-data:
-  performances: 290
-  artists: 840
+  performances: 309
+  artists: 900
   countries: 18
   scenes: 22
-  volunteers: 185
-  visitors: "14 200"
-  premiers: 45
-  happenings: 9
-  laureates: 36
-
+  volunteers: 200
+  visitors: "15 000"
+  premiers: 48
+  happenings: 10
+  laureates: 41

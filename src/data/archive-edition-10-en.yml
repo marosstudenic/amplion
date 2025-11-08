@@ -27,6 +27,11 @@ videos:
     id: aftermovie
     link: https://www.youtube.com/embed/CBRT8fL2WSo
     screenshot: aftermovie.webp
+
+  - title: Document
+    id: dokument
+    link: https://www.youtube.com/embed/hbTQ2PSj7Yk
+    screenshot: dokument.webp
   # - title: Dokument
   #   id: dokument
   #   link: https://www.youtube.com/embed/Ihp6Ghwrcoc

@@ -27,10 +27,11 @@ videos:
     id: aftermovie
     link: https://www.youtube.com/embed/CBRT8fL2WSo
     screenshot: aftermovie.webp
-  # - title: Dokument
-  #   id: dokument
-  #   link: https://www.youtube.com/embed/Ihp6Ghwrcoc
-  #   screenshot: dokument.jpg
+
+  - title: Dokument
+    id: dokument
+    link: https://www.youtube.com/embed/hbTQ2PSj7Yk
+    screenshot: dokument.webp
   # - title: Promo spot
   #   id: promospot
   #   link: https://www.youtube.com/embed/ObAkZ5VAROw
