@@ -5,13 +5,13 @@ show-program-en: true
 archive-mode-program: true 
 busking-menu: false 
 sketchup-menu: false
-year: 2025
-show-festivalove-noviny: true
+year: 2026
+show-festivalove-noviny: false
 rocnik: 10
 slogan: "BYŤ SLOBODNÝ JE UMENIE"
 slogan-en: "BEEING FREE IS AN ART!"
 show-laureates: false
-show-program-pdf-home: true
+show-program-pdf-home: false
 show-program-promospot: false
 # busking
 busking-form-deadline: "15.&nbsp;júla&nbsp;2024"
@@ -35,8 +35,8 @@ sketch-up-form-link: https://docs.google.com/forms/d/e/1FAIpQLSfyiD32Ar-W6nrgOLy
 
 
 
-show-caravana: true
-show-busking-program: true
+show-caravana: false
+show-busking-program: false
 
 festivalove-noviny-sk: "FN AMP 25 - nahlad.pdf"
 tlacova_sprava-sk: "TS_10_AMPLION_2025.pdf"
